@@ -1,0 +1,152 @@
+[
+  {
+    "html": "<h3> <dco>1.23.19&nbsp; \n11:14 pm</dco> &nbsp;<qco> do the songs you make come to you randomly with no context?</qco> </h3>"
+  },
+  {
+    "html": "<h3> <dco>1.23.19&nbsp; \n11:11 pm</dco> &nbsp;<qco> i admire that you take time out of your day to answer fan's questions, so i just wanted to say thank you for your songs, they really calmed me throughout my hectic&nbsp;&nbsp;day. you have a great voice, have you considered making a album instead of releasing singles?:)</qco> </h3>"
+  },
+  {
+    "html": "<h3> <dco>1.23.19&nbsp; \n11:03 pm</dco> &nbsp;<qco> Have you noticed that a seemingly abnormally large portion of questions you answer are asked in the late night/early morning?\n\n</qco></h3><h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n If so, do you think there's a particular reason for this?</qco> </h3>"
+  },
+  {
+    "html": "<h3> <dco>1.23.19&nbsp; \n10:57 pm</dco> &nbsp;<qco> how can i make more videos that i find enjoyable i dont know where to go from here</qco> </h3>"
+  },
+  {
+    "html": "<h3> <dco>1.23.19&nbsp; \n10:56 pm</dco> &nbsp;<qco> are you still a piece of garbage?</qco></h3><h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; if you are can i join you in the journey to find the point of life outside this never ending universe of questions and conflicts?</qco> </h3>"
+  },
+  {
+    "html": "<h3> <dco>1.23.19&nbsp; \n10:55 pm</dco> &nbsp;<qco> r u edgy and/or cool? it's for a science project</qco> </h3>"
+  },
+  {
+    "html": "<h3> <dco>1.23.19&nbsp; \n10:44 pm</dco> &nbsp;<qco> Why do bagels have holes?</qco> </h3>"
+  },
+  {
+    "html": "<h3> <dco>1.23.19&nbsp; \n10:37 pm</dco> &nbsp;<qco> would you consider going on tour?</qco> </h3>"
+  },
+  {
+    "html": "<h3> <dco>1.23.19&nbsp; \n10:34 pm</dco> &nbsp;<qco> Do you like the sound of rain?</qco> </h3>"
+  },
+  {
+    "html": "<h3> <dco>1.23.19&nbsp; \n10:31 pm</dco> &nbsp;<qco> What do you think about all these people trying to ask you existential questions?</qco> </h3>"
+  },
+  {
+    "html": "<h3> <dco>1.23.19&nbsp; \n10:29 pm</dco> &nbsp;<qco> What were you trying to do with the chair in the 2008 video you posted on the Reality page? (If you remember)</qco> </h3>"
+  },
+  {
+    "html": "<h3> <dco>1.23.19&nbsp; \n10:25 pm</dco> &nbsp;<qco> Should I buy friends or should friends buy me?</qco> </h3>"
+  },
+  {
+    "html": "<h3> <dco>1.23.19&nbsp; \n10:24 pm</dco> &nbsp;<qco> Do you believe your work should be studied? Or just enjoyed? I guess for some that is one in the same&nbsp;</qco> </h3>"
+  },
+  {
+    "html": "<h3> <dco>1.23.19&nbsp; \n10:22 pm</dco> &nbsp;<qco> pretend like this is a surrealist question?</qco> </h3>"
+  },
+  {
+    "html": "<h3> <dco>1.23.19&nbsp; \n10:20 pm</dco> &nbsp;<qco> do you think you will take a lot more opportunities for interview after your h3h3 podcast appearance and your genius video?\n<br></qco> </h3>"
+  },
+  {
+    "html": "<h3> <dco>1.23.19&nbsp; \n10:17 pm</dco> &nbsp;<qco> Hey Bill, heres something cool. if you pour an energy drink in a water filter, everything in the drink is filtered and it turns into water. idk i just thought it was cool. what do you think?</qco> </h3>"
+  },
+  {
+    "html": "<h3> <dco>1.23.19&nbsp; \n10:13 pm</dco> &nbsp;<qco> Do you like looking at the vastness of the internet and its many memes? like you probably get this question a lot but when your out in public and someone says or does something thats a meme and you think \"haha, oh yeah i know that and its pretty funny.\" do you think thats your kind of entertainment?</qco> </h3>"
+  },
+  {
+    "html": "<h3> <dco>1.23.19&nbsp; \n9:58 pm</dco> &nbsp;<qco> What color is opposite of grey?</qco> </h3><script>\nvar text=\"this color\"\nvar speed=15\n\nif (document.all||document.getElementById){\ndocument.write('<span id=\"highlight\">' + text + '</span>')\nvar storetext=document.getElementById? document.getElementById(\"highlight\") : document.all.highlight\n}\nelse\ndocument.write(text)\nvar hex=new Array(\"00\",\"14\",\"28\",\"3C\",\"50\",\"64\",\"78\",\"8C\",\"A0\",\"B4\",\"C8\",\"DC\",\"F0\")\nvar r=1\nvar g=1\nvar b=1\nvar seq=1\nfunction changetext(){\nrainbow=\"#\"+hex[r]+hex[g]+hex[b]\nstoretext.style.color=rainbow\n}\nfunction change(){\nif (seq==6){\nb--\nif (b==0)\nseq=1\n}\nif (seq==5){\nr++\nif (r==12)\nseq=6\n}\nif (seq==4){\ng--\nif (g==0)\nseq=5\n}\nif (seq==3){\nb++\nif (b==12)\nseq=4\n}\nif (seq==2){\nr--\nif (r==0)\nseq=3\n}\nif (seq==1){\ng++\nif (g==12)\nseq=2\n}\nchangetext()\n}\nfunction starteffect(){\nif (document.all||document.getElementById)\nflash=setInterval(\"change()\",speed)\n}\nstarteffect()\n</script>"
+  },
+  {
+    "html": "<h3> <dco>1.23.19&nbsp; \n9:26 pm</dco> &nbsp;<qco> Why is your anagrams page labeled 'scramble', but the URL is 'http://billwurtz.com/anagrams/anagrams.html'?</qco> </h3>"
+  },
+  {
+    "html": "<h3> <dco>1.23.19&nbsp; \n8:25 pm</dco> &nbsp;<qco> Should I worry about my highschool GPA?</qco> </h3>"
+  },
+  {
+    "html": "<h3> <dco>1.23.19&nbsp; \n8:18 pm</dco> &nbsp;<qco> how did you get all of the song you do on youtube</qco> </h3>"
+  },
+  {
+    "html": "<h3> <dco>1.23.19&nbsp; \n8:16 pm</dco> &nbsp;<qco> how can you be happy\n<br></qco> </h3>"
+  },
+  {
+    "html": "<h3> <dco>1.23.19&nbsp; \n8:03 pm</dco> &nbsp;<qco> Your music can be played on Amazon Echo Dot. Did you know this?</qco> </h3>"
+  },
+  {
+    "html": "<h3> <dco>1.23.19&nbsp; \n7:52 pm</dco> &nbsp;<qco> What have you created that you are most proud of?</qco> </h3>"
+  },
+  {
+    "html": "<h3> <dco>1.23.19&nbsp; \n7:45 pm</dco> &nbsp;<qco> What were we watching while on the blimp?</qco> </h3>"
+  },
+  {
+    "html": "<h3> <dco>1.23.19&nbsp; \n7:26 pm</dco> &nbsp;<qco> Why are you not funny? :D</qco> </h3>"
+  },
+  {
+    "html": "<h3> <dco>1.23.19&nbsp; \n7:17 pm</dco> &nbsp;<qco> Have you ever tried 60fps sequences? It's like adding a whole new layer of reality...I'm a bit addicted to it</qco> </h3>"
+  },
+  {
+    "html": "<h3> <dco>1.23.19&nbsp; \n6:01 pm</dco> &nbsp;<qco> what is porridge?</qco> </h3>"
+  },
+  {
+    "html": "<h3> <dco>1.23.19&nbsp; \n6:00 pm</dco> &nbsp;<qco> Do you think World War II ever actually ended? Like we're not still throwing nukes but it seems like current conflicts are just fanning the cold-war coals back into flame.&nbsp;&nbsp;</qco> </h3>"
+  },
+  {
+    "html": "<h3> <dco>1.23.19&nbsp; \n5:22 pm</dco> &nbsp;<qco> What does god mean?</qco> </h3>"
+  },
+  {
+    "html": "<h3> <dco>1.23.19&nbsp; \n5:03 pm</dco> &nbsp;<qco> What about making a song about the Yellowstone volcanos? Since it's now about to blow up?</qco> </h3>"
+  },
+  {
+    "html": "<h3> <dco>1.23.19&nbsp; \n3:02 pm</dco> &nbsp;<qco> I'm at school. Is this a waste of time?</qco> </h3>"
+  },
+  {
+    "html": "<h3> <dco>1.23.19&nbsp; \n2:41 pm</dco> &nbsp;<qco> Do you ever feel the urge to jump up and down when hearing a nice song</qco> </h3>"
+  },
+  {
+    "html": "<h3> <dco>1.23.19&nbsp; \n2:15 pm</dco> &nbsp;<qco> is China real?</qco> </h3>"
+  },
+  {
+    "html": "<h3> <dco>1.23.19&nbsp; \n12:43 pm</dco> &nbsp;<qco> How many hats do you have?</qco> </h3>"
+  },
+  {
+    "html": "<h3> <dco>1.23.19&nbsp; \n9:59 am</dco> &nbsp;<qco> Can you give us any hints as to what your next video will be,\n</qco></h3><h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n or do we just have to wait for you to finish and upload the song?</qco> </h3>"
+  },
+  {
+    "html": "<h3> <dco>1.23.19&nbsp; \n8:23 am</dco> &nbsp;<qco> is there a point in the universe besides housing life?</qco></h3><h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n who is god,</qco></h3><h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n what did he emerge from?</qco></h3><h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n does god have a house?</qco></h3><h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n what does it look like?</qco></h3><h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n does god trim bushes while Jesus knocks on the door with other gods on the front porch saying \"yo god you forgot about the front bushes\" and they all help him garden?</qco></h3><h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n these are questions that dwell in the depths of my mind.</qco> </h3>"
+  },
+  {
+    "html": "<h3> <dco>1.23.19&nbsp; \n7:04 am</dco> &nbsp;<qco> Which holiday would you like to eliminate?</qco> </h3>"
+  },
+  {
+    "html": "<h3> <dco>1.23.19&nbsp; \n5:34 am</dco> &nbsp;<qco> what do you think love is?</qco> </h3>"
+  },
+  {
+    "html": "<h3> <dco>1.23.19&nbsp; \n4:12 am</dco> &nbsp;<qco> Why don't you make lyricless songs more often? I'm not suggesting, just genuinely wondering</qco> </h3>"
+  },
+  {
+    "html": "<h3> <dco>1.23.19&nbsp; \n1:28 am</dco> &nbsp;<qco> say you think that only the environment has influence on your decisions. would there be a point to apologizing, if nothing is truly your fault?</qco> </h3>"
+  },
+  {
+    "html": "<h3> <dco>1.22.19&nbsp; \n11:46 pm</dco> &nbsp;<qco> how can i learn to express myself in a more creative and interesting way?</qco> </h3>"
+  },
+  {
+    "html": "<h3> <dco>1.22.19&nbsp; \n11:06 pm</dco> &nbsp;<qco> Thoughts on religion?\n<br>\n<br>Thoughts on atheism?\n<br>\n<br></qco> </h3>"
+  },
+  {
+    "html": "<h3> <dco>1.22.19&nbsp; \n10:38 pm</dco> &nbsp;<qco> Are forks just badly made spoons?</qco> </h3>"
+  },
+  {
+    "html": "<h3> <dco>1.22.19&nbsp; \n10:30 pm</dco> &nbsp;<qco> In \"Mt. Saint Helens is About to Explode\" you say the Mt. Saint Helens is about to explode.</qco></h3><h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Did god tell you this, or was it acid?</qco> </h3>"
+  },
+  {
+    "html": "<h3> <dco>1.22.19&nbsp; \n9:34 pm</dco> &nbsp;<qco> what do i do with all of these problems?</qco> </h3>"
+  },
+  {
+    "html": "<h3> <dco>1.22.19&nbsp; \n9:18 pm</dco> &nbsp;<qco> Any tips for playing drums</qco> </h3>"
+  },
+  {
+    "html": "<h3> <dco>1.22.19&nbsp; \n7:34 pm</dco> &nbsp;<qco> Your videos are an integral part of your style. How do you feel about the (almost?) necessity of releasing your songs on \"audio only\" platforms like Spotify where the listener is then deprived of the visuals?</qco> </h3>"
+  },
+  {
+    "html": "<h3> <dco>1.22.19&nbsp; \n5:38 pm</dco> &nbsp;<qco> favorite school subject</qco> </h3>"
+  },
+  {
+    "html": "<h3> <dco>1.22.19&nbsp; \n5:10 pm</dco> &nbsp;<qco> How do you like fasting?</qco> </h3>"
+  }
+]

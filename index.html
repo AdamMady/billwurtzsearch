@@ -1,254 +1,120 @@
 <!doctype html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <title>Bill Wurtz Question Search</title>
-    <meta name="description" content="A searchable archive of questions and answers from billwurtz.com">
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        body {
-            font-family: monospace;
-            word-wrap: break-word;
-            background-color: #323232;
-            color: #FFFFFF;
-            padding: 20px;
-            max-width: 800px;
-            margin: 0 auto;
-        }
-        a {
-            color: #00FF00;
-        }
-        a:visited {
-            color: #67FF79;
-        }
-        h1 {
-            font-family: initial;
-            font-weight: normal;
-        }
-        #search-container {
-            margin-bottom: 2em;
-        }
-        #search-bar {
-            width: 100%;
-            padding: 12px;
-            font-size: 1.2em;
-            border: 1px solid #555;
-            background-color: #222;
-            color: #fff;
-            border-radius: 4px;
-            box-sizing: border-box;
-        }
-        #results-info, #loading-indicator {
-            margin-top: 1em;
-            font-style: italic;
-            color: #ccc;
-            text-align: center;
-        }
-        #results-container h3 {
-           margin-top: 2em;
-           margin-bottom: 1em;
-        }
-        .question-item {
-            margin-bottom: 2em;
-        }
-        mark {
-           background-color: #E9EC54;
-           color: #000;
-           padding: 1px 2px;
-           border-radius: 2px;
-        }
-        /* Styles copied directly from billwurtz.com */
-        dco { color:#E9EC54; }
-        qco { color:#B387FF; }
-    </style>
+  <title>Bill Wurtz Question Search</title>
+  <meta charset="UTF-8">
+  <meta name="description" content="Search every question & answer from BillWurtz.com">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    /* ——— base colours from original page ——— */
+    dco{color:#E9EC54;} rco{color:#ff6600;} qco{color:#B387FF;}
+    green{color:#00cc00;} blue{color:#5555ff;} white{color:#000;}
+    lightred{color:#ff6666;} strike{text-decoration:line-through;}
+    red{color:#ff4444;} yellow{color:#ffff00;} lightgreen{color:#b3ffb3;}
+
+    body{
+      background:#323232;
+      color:#fff;
+      margin:0;
+      padding:20px;
+      word-wrap:break-word;
+      font-family:Arial,Helvetica,sans-serif;   /* closer to original */
+    }
+    h1{font-weight:400;margin-top:0;}
+    a{color:#00FF00;} a:visited{color:#67FF79;}
+
+    #search-bar{
+      width:100%;padding:12px;font-size:1.1em;border:1px solid #555;
+      background:#222;color:#fff;border-radius:4px;box-sizing:border-box;
+      margin-bottom:1em;
+    }
+    #results-info{margin:1em 0;font-style:italic;color:#ccc}
+    #loading{display:none;font-style:italic;color:#ccc;margin:1em 0}
+    mark{background:#E9EC54;color:#000;padding:1px 2px;border-radius:2px}
+    .question{margin-bottom:2em}
+  </style>
 </head>
-<body>
-    <h1>
-        Se<font color="#00EE3B">a</font>rch
-        Bill W<font color="#00EE3B">u</font>rtz
-        Qu<font color="#00EE3B">e</font>stions
-    </h1>
+<body bgcolor="#323232" text="white" link="#00FF00" vlink="#67FF79">
+  <h1>
+    Se<font color="#00EE3B">a</font>rch Bill W<font color="#00EE3B">u</font>rtz Qu<font color="#00EE3B">e</font>stions
+  </h1>
 
-    <div id="search-container">
-        <input type="search" id="search-bar" placeholder="search through space and time..." autofocus>
-        <div id="results-info">Loading questions from the archive...</div>
-    </div>
+  <input type="search" id="search-bar" placeholder="search through space and time..." autofocus>
+  <div id="results-info">Loading archive…</div>
+  <div id="results"></div>
+  <div id="loading">Loading more…</div>
 
-    <div id="results-container"></div>
-    <div id="loading-indicator" style="display: none;">Loading more questions...</div>
+<script>
+const DATA_BASE = 'https://adammady.github.io/billwurtzsearch/data/';
+let manifest=[],allQs=[],idx=0,loading=false,searching=false,allLoaded=false;
 
-    <script>
-        // --- State Management ---
-        let allQuestions = [];
-        let fileManifest = [];
-        let currentFileIndex = 0;
-        let isLoadingMore = false;
-        let searchIsActive = false;
-        let allDataLoadedForSearch = false;
+const bar  = document.getElementById('search-bar');
+const info = document.getElementById('results-info');
+const res  = document.getElementById('results');
+const load = document.getElementById('loading');
 
-        // --- DOM Elements ---
-        const searchInput = document.getElementById('search-bar');
-        const resultsContainer = document.getElementById('results-container');
-        const resultsInfo = document.getElementById('results-info');
-        const loadingIndicator = document.getElementById('loading-indicator');
-        const DATA_BASE_URL = 'https://adammady.github.io/billwurtzsearch/data/';
+function debounce(fn,d=300){let t;return(...a)=>{clearTimeout(t);t=setTimeout(()=>fn(...a),d)};}
 
-        // --- Utility Functions ---
-        function debounce(func, wait) {
-            let timeout;
-            return function executedFunction(...args) {
-                const later = () => {
-                    clearTimeout(timeout);
-                    func(...args);
-                };
-                clearTimeout(timeout);
-                timeout = setTimeout(later, wait);
-            };
-        }
+function render(list,q=''){
+  const frag=document.createDocumentFragment();
+  list.forEach(it=>{
+    const div=document.createElement('div');
+    div.className='question';
+    let html=it.html;
+    if(q){
+      const re=new RegExp(q.replace(/[.*+?^${}()|[\]\\]/g,'\\$&'),'gi');
+      html=html.replace(re,m=>`<mark>${m}</mark>`);
+    }
+    div.innerHTML=html;
+    frag.appendChild(div);
+  });
+  res.appendChild(frag);
+}
 
-        function getTextContentFromHtml(html) {
-            const tempDiv = document.createElement('div');
-            tempDiv.innerHTML = html;
-            return tempDiv.textContent || "";
-        }
+async function loadNext(){
+  if(loading||idx>=manifest.length){if(idx>=manifest.length)info.textContent=`All ${allQs.length} loaded.`;return;}
+  loading=true;load.style.display='block';
+  const name=manifest[idx];
+  try{
+    const data=await fetch(DATA_BASE+name).then(r=>r.json());
+    allQs.push(...data);render(data);
+    idx++;info.textContent=`Showing ${allQs.length}`;
+  }catch(e){info.textContent='Load error';console.error(e);}
+  loading=false;load.style.display='none';
+}
 
-        // --- Rendering Functions ---
-        function renderQuestions(questions, highlightQuery = '') {
-            const fragment = document.createDocumentFragment();
-            questions.forEach(item => {
-                const div = document.createElement('div');
-                div.className = 'question-item';
-                let finalHtml = item.html;
-                if (highlightQuery) {
-                    const regex = new RegExp(highlightQuery.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'gi');
-                    finalHtml = finalHtml.replace(regex, match => `<mark>${match}</mark>`);
-                }
-                div.innerHTML = finalHtml;
-                fragment.appendChild(div);
-            });
-            resultsContainer.appendChild(fragment);
-        }
+async function loadAll(){
+  if(allLoaded)return;loading=true;info.textContent='Loading all…';
+  const rem=manifest.slice(idx);
+  const arr=await Promise.all(rem.map(f=>fetch(DATA_BASE+f).then(r=>r.json())));
+  arr.forEach(c=>allQs.push(...c));allLoaded=true;idx=manifest.length;
+  loading=false;info.textContent=`All ${allQs.length} loaded.`;
+}
 
-        // --- Data Loading Functions ---
-        async function loadNextFile() {
-            if (isLoadingMore || currentFileIndex >= fileManifest.length) {
-                if (currentFileIndex >= fileManifest.length) {
-                     resultsInfo.textContent = `All ${allQuestions.length.toLocaleString()} questions loaded.`;
-                }
-                return;
-            }
+const search=debounce(async ()=>{
+  const q=bar.value.trim().toLowerCase();
+  if(!q){searching=false;res.innerHTML='';render(allQs.slice(0,idx?allQs.length:0));info.textContent=`Showing ${allQs.length}`;return;}
+  searching=true;if(!allLoaded)await loadAll();
+  const t0=performance.now();
+  const out=allQs.filter(it=>{
+    if(!it.plain)it.plain=it.html.replace(/<[^>]*>/g,'').toLowerCase();
+    return it.plain.includes(q);
+  });
+  const t1=performance.now();
+  res.innerHTML='';render(out,q);
+  info.textContent=`${out.length} found in ${Math.round(t1-t0)} ms.`;
+},300);
 
-            isLoadingMore = true;
-            loadingIndicator.style.display = 'block';
+window.addEventListener('scroll',()=>{if(searching||loading)return;
+  if(window.innerHeight+window.scrollY>=document.body.offsetHeight-500)loadNext();});
 
-            try {
-                const fileName = fileManifest[currentFileIndex];
-                const response = await fetch(`${DATA_BASE_URL}${fileName}`);
-                if (!response.ok) throw new Error(`Failed to fetch ${fileName}`);
-                const newQuestions = await response.json();
-                
-                allQuestions.push(...newQuestions);
-                renderQuestions(newQuestions);
-                currentFileIndex++;
-                resultsInfo.textContent = `Showing ${allQuestions.length.toLocaleString()} questions...`;
-
-            } catch (error) {
-                console.error("Error loading more data:", error);
-                resultsInfo.textContent = 'Error loading more questions.';
-            } finally {
-                isLoadingMore = false;
-                loadingIndicator.style.display = 'none';
-            }
-        }
-        
-        async function loadAllDataForSearch() {
-             if (allDataLoadedForSearch) return;
-             resultsInfo.textContent = `Loading all ${fileManifest.length * 50} questions for search...`;
-             isLoadingMore = true; // Prevent scrolling from triggering loads
-             
-             const filesToLoad = fileManifest.slice(currentFileIndex);
-             const promises = filesToLoad.map(file => fetch(`${DATA_BASE_URL}${file}`).then(res => res.json()));
-
-             try {
-                const remainingChunks = await Promise.all(promises);
-                remainingChunks.forEach(chunk => allQuestions.push(...chunk));
-                allDataLoadedForSearch = true;
-                currentFileIndex = fileManifest.length;
-             } catch (error) {
-                console.error("Failed to load all data for search:", error);
-                resultsInfo.textContent = "Could not load all data for search.";
-             } finally {
-                isLoadingMore = false;
-             }
-        }
-
-
-        // --- Search Logic ---
-        const performSearch = debounce(async function() {
-            const query = searchInput.value.toLowerCase().trim();
-
-            if (!query) {
-                searchIsActive = false;
-                resultsContainer.innerHTML = ''; // Clear search results
-                renderQuestions(allQuestions); // Re-render what we have loaded
-                resultsInfo.textContent = `Showing ${allQuestions.length.toLocaleString()} questions...`;
-                return;
-            }
-
-            searchIsActive = true;
-            
-            if (!allDataLoadedForSearch) {
-                await loadAllDataForSearch();
-            }
-
-            const startTime = performance.now();
-            const filteredResults = allQuestions.filter(item => {
-                if (!item.plainText) {
-                    item.plainText = getTextContentFromHtml(item.html).toLowerCase();
-                }
-                return item.plainText.includes(query);
-            });
-            const endTime = performance.now();
-
-            resultsInfo.textContent = 
-                `${filteredResults.length.toLocaleString()} results found in ${Math.round(endTime - startTime)}ms.`;
-
-            resultsContainer.innerHTML = ''; // Clear previous results
-            renderQuestions(filteredResults, query);
-
-        }, 300);
-
-        // --- Event Listeners ---
-        window.addEventListener('scroll', () => {
-            if (searchIsActive || isLoadingMore) return;
-            
-            // Check if user is near the bottom of the page
-            if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight - 500) {
-                loadNextFile();
-            }
-        });
-
-        // --- Initialization ---
-        async function initialize() {
-            searchInput.disabled = true;
-            try {
-                const manifestResponse = await fetch(`${DATA_BASE_URL}manifest.json`);
-                if (!manifestResponse.ok) throw new Error('Manifest not found');
-                const manifest = await manifestResponse.json();
-                fileManifest = manifest.files;
-
-                await loadNextFile(); // Load the first file
-
-                searchInput.disabled = false;
-                searchInput.focus();
-                searchInput.addEventListener('input', performSearch);
-            } catch (error) {
-                resultsInfo.textContent = 'Fatal Error: Could not load the question archive manifest. Please check the console.';
-                console.error(error);
-            }
-        }
-
-        window.onload = initialize;
-    </script>
+(async()=>{
+  try{
+    const m=await fetch(DATA_BASE+'manifest.json').then(r=>r.json());
+    manifest=m.files;await loadNext();
+  }catch(e){info.textContent='Manifest load error';console.error(e);}
+  bar.addEventListener('input',search);
+})();
+</script>
 </body>
 </html>

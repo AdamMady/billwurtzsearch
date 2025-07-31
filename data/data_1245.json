@@ -141,7 +141,7 @@
     "html": "<h3> <dco>3.5.20&nbsp; \n10:10 am</dco> &nbsp;<qco> what is life?&nbsp;</qco> </h3>"
   },
   {
-    "html": "<h3> <dco>3.5.20&nbsp; \n9:59 am</dco> &nbsp;<qco> What was the second question asked here?</qco> </h3><a href=\"q201603311713.html\" target=\"_blank\">this</a>"
+    "html": "<h3> <dco>3.5.20&nbsp; \n9:59 am</dco> &nbsp;<qco> What was the second question asked here?</qco> </h3><a href=\"q201603311713.html\" target=\"_blank\">this</a>\n<div class=\"answer-block\">\n<br><h3> <font color=\"#E9EC54\">3.31.16&nbsp; \n5:13 pm</font> &nbsp;<font color=\"#AC7DFF\"> song idea: \"nobody cares\"</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n</div>"
   },
   {
     "html": "<h3> <dco>3.5.20&nbsp; \n9:00 am</dco> &nbsp;<qco> how have your music style changed so far?</qco> </h3>"

@@ -1,0 +1,152 @@
+[
+  {
+    "html": "<h3> <dco>11.7.19&nbsp; \n5:30 pm</dco> &nbsp;<qco> are thoughts real?&nbsp;</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>11.7.19&nbsp; \n5:25 pm</dco> &nbsp;<qco> There is this annoying kid that sits next to my locker everyday, (he's probably autistic), he is always watching these annoying videos that really annoy me, he tries to act cool despite literally having no friends, and I really want to strangle the shit out of him.\n<br>What do I do?</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>11.7.19&nbsp; \n4:56 pm</dco> &nbsp;<qco> hurry up pls</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>11.7.19&nbsp; \n4:37 pm</dco> &nbsp;<qco> Why do people ignore that the world is ust kinda... crumbling to pieces</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>11.7.19&nbsp; \n4:26 pm</dco> &nbsp;<qco> Yo Bill, can the answer on this question be in rainbow colored text?</qco> </h3><font style=\"font-size:50;\">\n<script>\nvar text=\"ok fine\"\nvar speed=80\n\nif (document.all||document.getElementById){\ndocument.write('<span id=\"highlight\">' + text + '</span>')\nvar storetext=document.getElementById? document.getElementById(\"highlight\") : document.all.highlight\n}\nelse\ndocument.write(text)\nvar hex=new Array(\"00\",\"14\",\"28\",\"3C\",\"50\",\"64\",\"78\",\"8C\",\"A0\",\"B4\",\"C8\",\"DC\",\"F0\")\nvar r=1\nvar g=1\nvar b=1\nvar seq=1\nfunction changetext(){\nrainbow=\"#\"+hex[r]+hex[g]+hex[b]\nstoretext.style.color=rainbow\n}\nfunction change(){\nif (seq==6){\nb--\nif (b==0)\nseq=1\n}\nif (seq==5){\nr++\nif (r==12)\nseq=6\n}\nif (seq==4){\ng--\nif (g==0)\nseq=5\n}\nif (seq==3){\nb++\nif (b==12)\nseq=4\n}\nif (seq==2){\nr--\nif (r==0)\nseq=3\n}\nif (seq==1){\ng++\nif (g==12)\nseq=2\n}\nchangetext()\n}\nfunction starteffect(){\nif (document.all||document.getElementById)\nflash=setInterval(\"change()\",speed)\n}\nstarteffect()\n</script></font><br><br>"
+  },
+  {
+    "html": "<h3> <dco>11.7.19&nbsp; \n4:23 pm</dco> &nbsp;<qco> What's the secret ingredient(s) in CocaCola?&nbsp;</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>11.7.19&nbsp; \n4:09 pm</dco> &nbsp;<qco> what would you try to solve the loneliness epidemic in big cities?</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>11.7.19&nbsp; \n4:09 pm</dco> &nbsp;<qco> do you ever have trouble starting when told, but have no trouble starting when you choose?</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>11.7.19&nbsp; \n3:49 pm</dco> &nbsp;<qco> would you say your music is heavily influenced by that of syd barret or david bowie?</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>11.7.19&nbsp; \n3:48 pm</dco> &nbsp;<qco> what inspired u to make music</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>11.7.19&nbsp; \n3:29 pm</dco> &nbsp;<qco> Where can you buy \"sexy pants\"?</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>11.7.19&nbsp; \n3:26 pm</dco> &nbsp;<qco> Is your internal \"soundtrack-of-your-life\" similar to your musical style?&nbsp;&nbsp;Or does your day-to-day life journey have a different vibe/tone?</qco></h3>"
+  },
+  {
+    "html": "<h3> <dco>11.7.19&nbsp; \n2:53 pm</dco> &nbsp;<qco> What question would make you say, \"Insufficient data for meaningful answer?\"</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>11.7.19&nbsp; \n2:52 pm</dco> &nbsp;<qco> your thoughts on acapella?</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>11.7.19&nbsp; \n2:43 pm</dco> &nbsp;<qco> do you eat paper</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>11.7.19&nbsp; \n1:55 pm</dco> &nbsp;<qco> is there still a long long way to go forward?</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>11.7.19&nbsp; \n1:44 pm</dco> &nbsp;<qco> Is reality actually happening right now?</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>11.7.19&nbsp; \n12:50 pm</dco> &nbsp;<qco> Is a chair a sexual object?</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>11.7.19&nbsp; \n12:43 pm</dco> &nbsp;<qco> who is your favorite artist</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>11.7.19&nbsp; \n12:00 pm</dco> &nbsp;<qco> why did you pick saturn as your character in \"might quit\"?</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>11.7.19&nbsp; \n11:41 am</dco> &nbsp;<qco> How do you normalize chords with b9s in them, or any other dissonant sound?</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>11.7.19&nbsp; \n11:20 am</dco> &nbsp;<qco> if you were to make a video right now in the current state of your technological transformation, what would its quality/detail be like on a scale from \"alarm\" to \"might quit\"?</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>11.7.19&nbsp; \n10:05 am</dco> &nbsp;<qco> do you play BASS?</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>11.7.19&nbsp; \n10:01 am</dco> &nbsp;<qco> Did you learn how to play piano by ear?&nbsp;</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>11.7.19&nbsp; \n9:59 am</dco> &nbsp;<qco> (previously asked \" is \"ya like jazz\" the most annoying and prevalent question you get asked?\") what is?\n<br></qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>11.7.19&nbsp; \n9:51 am</dco> &nbsp;<qco> Any tips on designing a weather app?&nbsp;</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>11.7.19&nbsp; \n8:33 am</dco> &nbsp;<qco> What if nothing is actually something&nbsp;</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>11.7.19&nbsp; \n8:19 am</dco> &nbsp;<qco> Did you ever try working a \"standard\" job before realizing music was what you wanted to work on full time?</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>11.7.19&nbsp; \n5:19 am</dco> &nbsp;<qco> Do you come up with a topic for your randomish songs or do you just go with the flow and see where that goes?</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>11.7.19&nbsp; \n4:47 am</dco> &nbsp;<qco> I really like your music and style especially. I literally can't listen to 'and the days goes on' without smiling so thanks. I just wanted to know how you found your style, both visually and with the unique sound in your music?</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>11.7.19&nbsp; \n4:08 am</dco> &nbsp;<qco> how am i supposed to start making things if nothing makes any damn sense to me</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>11.7.19&nbsp; \n3:37 am</dco> &nbsp;<qco> how do you handle panhandlers on the streets&nbsp;</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>11.7.19&nbsp; \n2:42 am</dco> &nbsp;<qco> how many questions are on this page&nbsp;</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>11.7.19&nbsp; \n1:28 am</dco> &nbsp;<qco> are cats the best animal?</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>11.7.19&nbsp; \n12:59 am</dco> &nbsp;<qco> Is doing laundry cool?</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>11.7.19&nbsp; \n12:48 am</dco> &nbsp;<qco> when is more train prose</qco> </h3><a href=\"q.php?date=201911061622a\">this person</a><br><br>"
+  },
+  {
+    "html": "<h3> <dco>11.7.19&nbsp; \n12:52 am</dco> &nbsp;<qco> Horses. Thoughts?</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>11.7.19&nbsp; \n12:42 am</dco> &nbsp;<qco> anyone ever call you ben</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>11.7.19&nbsp; \n12:38 am</dco> &nbsp;<qco> how to not get overwhelmed/demotivated when a task will take a whole day evne though it feels like a small task&nbsp;</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>11.7.19&nbsp; \n12:20 am</dco> &nbsp;<qco> If could eat one thing for the rest of your life, what would it be?</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>11.7.19&nbsp; \n12:19 am</dco> &nbsp;<qco> Why is business school?</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>11.7.19&nbsp; \n12:15 am</dco> &nbsp;<qco> Fave One Direction Moment?</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>11.6.19&nbsp; \n10:57 pm</dco> &nbsp;<qco> do you know calculus?</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>11.6.19&nbsp; \n10:54 pm</dco> &nbsp;<qco> What is your favorite dessert? -oh</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>11.6.19&nbsp; \n10:43 pm</dco> &nbsp;<qco> I can't remember anyone's birthdays. How do I fix this</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>11.6.19&nbsp; \n10:43 pm</dco> &nbsp;<qco> how are you simultaneously reasonable and ridiculous?</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>11.6.19&nbsp; \n10:41 pm</dco> &nbsp;<qco> IM WRITING IN ALL CAPS BUT IM NOT YELLING. WHY DOES MY BRAIN THINK I AM?&nbsp;</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>11.6.19&nbsp; \n10:34 pm</dco> &nbsp;<qco> why do you answer so many questions</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>11.6.19&nbsp; \n10:22 pm</dco> &nbsp;<qco> Can I consider myself normal when everyone is weird&nbsp;</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>11.6.19&nbsp; \n10:21 pm</dco> &nbsp;<qco> How high can you get with a balloon?</qco> </h3><br><br>"
+  }
+]

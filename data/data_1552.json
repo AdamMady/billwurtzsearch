@@ -1,0 +1,152 @@
+[
+  {
+    "html": "<h3> <dco>8.6.19&nbsp; \n12:03 pm</dco> &nbsp;<qco> how does one exist</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.6.19&nbsp; \n11:18 am</dco> &nbsp;<qco> will the next video be longer than 13.5 seconds?\n<br></qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.6.19&nbsp; \n9:17 am</dco> &nbsp;<qco> Favorite cereal</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.6.19&nbsp; \n8:56 am</dco> &nbsp;<qco> how do you deal with stuff you can't control</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.6.19&nbsp; \n8:23 am</dco> &nbsp;<qco> Did you actually quit or are you on a break?</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.6.19&nbsp; \n8:19 am</dco> &nbsp;<qco> are you gay?</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.6.19&nbsp; \n7:25 am</dco> &nbsp;<qco> what is the best way to argue</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.6.19&nbsp; \n5:59 am</dco> &nbsp;<qco> Does communism work?</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.6.19&nbsp; \n5:46 am</dco> &nbsp;<qco> in the sleigh ride ending (https://youtu.be/E30TjigZXpE?t=158) the sequence moves around the circle of fifths. if i were to transcribe that, should i use different key signatures and how many?&nbsp;</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.6.19&nbsp; \n5:23 am</dco> &nbsp;<qco> do you often procrastinate?</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.6.19&nbsp; \n2:54 am</dco> &nbsp;<qco> what do i do if someone is manipulating me</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.6.19&nbsp; \n2:30 am</dco> &nbsp;<qco> Why does it rain</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.6.19&nbsp; \n1:27 am</dco> &nbsp;<qco> Will everything be alright?</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.6.19&nbsp; \n12:57 am</dco> &nbsp;<qco> &nbsp;What's your favorite type of water&nbsp;</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.19&nbsp; \n11:57 pm</dco> &nbsp;<qco> if you have one, what is your favorite font,\n</qco></h3>"
+  },
+  {
+    "html": "<h3> <dco>8.5.19&nbsp; \n10:07 pm</dco> &nbsp;<qco> Why does it hurt so bad?</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.19&nbsp; \n7:01 pm</dco> &nbsp;<qco> what's ur favorite terminal illness</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.19&nbsp; \n6:58 pm</dco> &nbsp;<qco> It's my birthday today, what should I do?</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.19&nbsp; \n5:52 pm</dco> &nbsp;<qco> The songs that come into my head have no words how do I attract ones that do?</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.19&nbsp; \n5:04 pm</dco> &nbsp;<qco> Does this count as a question?</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.19&nbsp; \n4:15 pm</dco> &nbsp;<qco> how to deal with mental blocks?</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.19&nbsp; \n3:53 pm</dco> &nbsp;<qco> why do police stop cars for speeding if the earth is moving faster than any speed limit</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.19&nbsp; \n3:46 pm</dco> &nbsp;<qco> how expensive are you?</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.19&nbsp; \n2:46 pm</dco> &nbsp;<qco> what is your favorite material to build a bridge with?</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.19&nbsp; \n2:01 pm</dco> &nbsp;<qco> With regards to the \"Click static text\" issue, it might be that the text itself doesn't have a clickable action associated with it. Button components have 2 visible elements to it, the outer bounding box, and the text inside it. In typical usage, a mouse click within the bounding box triggers the action of the button. The click action can be associated with the inclosed text, the bounding box, or both. If the text has no clickable action, it seems reasonable that \"missing value\" would be returned, even if it is able to find the text itself. Automator may have incorrectly assumed the click action was associated with the text instead of the bounding box, or if your program is particularly nasty, the click action may be just associated with a certain x y position on the screen. Somehow you have to get the name of the actual button box,\t\t and script a click action on that box rather than the text.</qco></h3>"
+  },
+  {
+    "html": "<h3> <dco>8.5.19&nbsp; \n12:42 pm</dco> &nbsp;<qco> How do you make the psychedelic effect in your videos?</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.19&nbsp; \n12:29 pm</dco> &nbsp;<qco> Hello I am running a survey to find future dictators.\n<br>\n<br>On a scale of 1-10 how likely are you to take over the world</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.19&nbsp; \n12:14 pm</dco> &nbsp;<qco> when will you start uploading on youtube again?</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.19&nbsp; \n11:43 am</dco> &nbsp;<qco> How do you animate your videos?&nbsp;</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.19&nbsp; \n11:42 am</dco> &nbsp;<qco> <a href=\"q.php?date=201908030528\">8.3.19&nbsp;&nbsp;5:28 am</a> &nbsp;&nbsp;&nbsp;I feel like I might be able to help you with this, but could you provide an example of an actual menu item that doesn't work, preferably in a program that does not cost big bucks to install?</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.19&nbsp; \n11:28 am</dco> &nbsp;<qco> Who can I trust?</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.19&nbsp; \n11:20 am</dco> &nbsp;<qco> <a href=\"q.php?date=201908031340\">8.3.19&nbsp;&nbsp;1:40 pm</a> \n<br>\n<br>When is the missing value occuring?</qco></h3><a href=\"oauhfaoeuhf.png\">this</a>"
+  },
+  {
+    "html": "<h3> <dco>8.5.19&nbsp; \n10:48 am</dco> &nbsp;<qco> what program are you using for making video?</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.19&nbsp; \n10:21 am</dco> &nbsp;<qco> What is the weirdest question you've gotten?</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.19&nbsp; \n10:17 am</dco> &nbsp;<qco> Will superhero fatigue ever actually happen? If so, when?</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.19&nbsp; \n10:09 am</dco> &nbsp;<qco> how can i be less lazy</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.19&nbsp; \n8:22 am</dco> &nbsp;<qco> Pluto good enough for you?</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.19&nbsp; \n5:21 am</dco> &nbsp;<qco> there are a lot of cool things to do how do you decide</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.19&nbsp; \n3:08 am</dco> &nbsp;<qco> What does your favorite pair of socks look like?</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.19&nbsp; \n2:40 am</dco> &nbsp;<qco> what do i do if i may have been emotionally harassed for a while and now i am afraid that since i tried to actually stand up for myself that they are going to try to sue me</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.19&nbsp; \n1:15 am</dco> &nbsp;<qco> maybe you could use a tool to capture the code in a different language and then translate it into applescript yourself</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.19&nbsp; \n12:35 am</dco> &nbsp;<qco> Bill I swear if you actually quit then I have nothing else to bless my ears&nbsp;</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.4.19&nbsp; \n11:29 pm</dco> &nbsp;<qco> I'm an idiot for not asking a question but i just wanted to say that you are a great weird and wacky person who has an amazing talent! Your songs are amazing to listen to relive stress for tests and such. Have a great day! hello and goodbye.\n<br>&nbsp;</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.4.19&nbsp; \n11:13 pm</dco> &nbsp;<qco> What do you know about bee removal?</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.4.19&nbsp; \n10:45 pm</dco> &nbsp;<qco> what's been on your mind?</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.4.19&nbsp; \n10:04 pm</dco> &nbsp;<qco> am i gonna see u at the area 51 raid</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.4.19&nbsp; \n9:34 pm</dco> &nbsp;<qco> My car won't stop honking after I did a satanic ritual and people are calling the police so what should I do about it. I'm thinking of throwing their insults back at them.</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.4.19&nbsp; \n9:03 pm</dco> &nbsp;<qco> some of the most popular songs introduce a new dance move. have you considered writing a song like that?</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.4.19&nbsp; \n7:56 pm</dco> &nbsp;<qco> How aren't you?&nbsp;</qco> </h3><br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.4.19&nbsp; \n7:34 pm</dco> &nbsp;<qco> For the Applescript thing, can you give us a replicable example of your issue? For example, \"I open X application specifically, I do Y action, and as a result Applescript does Z\". I know you described your general issue, but it might make troubleshooting easier if we can work with what you're working with.</qco> </h3><br><br>"
+  }
+]

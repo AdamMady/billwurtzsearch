@@ -15,8 +15,8 @@
     lightred { color: #ff6666; }
     strike { text-decoration: line-through; }
     red { color: #ff4444; }
-    yellow { color: #ffff00; }
-    lightgreen { color: #b3ffb3; }
+    yellow { color:#ffff00; }
+    lightgreen { color:#b3ffb3; }
 
     quotequestion {
       margin:20px;
@@ -112,10 +112,11 @@
     // configuration
     const DATA_BASE_URL = './data/'; // adjust to where your manifest.json and JSON chunks live
     let manifest = [];
-    let allItems = [];
+    let allItems = []; // items loaded via chunking (for display)
+    let searchableItems = null; // if searchable.json is present
     let loadedIndex = 0;
     let loading = false;
-    let fullLoadedForSearch = false;
+    let fullLoadedForSearch = false; // used only when searchable.json missing
     let searchActive = false;
 
     const searchBar = document.getElementById('search-bar');
@@ -181,7 +182,8 @@
         if (!resp.ok) throw new Error('chunk load failed');
         const arr = await resp.json();
         allItems.push(...arr);
-        renderBatch(arr, searchActive ? searchBar.value : '');
+        // if not in search, render as we go
+        if (!searchActive) renderBatch(arr, '');
         loadedIndex++;
         resultsInfo.textContent = searchActive
           ? `${document.querySelectorAll('.question-item').length.toLocaleString()} matching results`
@@ -216,23 +218,52 @@
       }
     }
 
+    async function loadSearchable() {
+      try {
+        const resp = await fetch(`${DATA_BASE_URL}searchable.json`);
+        if (!resp.ok) {
+          throw new Error('no searchable index');
+        }
+        const arr = await resp.json();
+        // ensure plainText exists
+        searchableItems = arr.map(item => {
+          if (!item.plainText) {
+            const txt = getTextFromHTML(item.html).toLowerCase();
+            return { ...item, plainText: txt };
+          }
+          return item;
+        });
+        console.log(`[searchable] loaded ${searchableItems.length.toLocaleString()} items from searchable.json`);
+      } catch (e) {
+        console.warn('searchable.json not available or failed to load:', e.message);
+        searchableItems = null;
+      }
+    }
+
     function doSearch(term) {
       const q = term.toLowerCase().trim();
       if (!q) {
         searchActive = false;
         resultsContainer.innerHTML = '';
+        // if we have chunked items already, show those
         renderBatch(allItems);
         resultsInfo.textContent = `Showing ${allItems.length.toLocaleString()} questions...`;
         return;
       }
       searchActive = true;
       const start = performance.now();
-      const filtered = allItems.filter(item => {
-        if (!item.plainText) {
-          item.plainText = getTextFromHTML(item.html).toLowerCase();
-        }
-        return item.plainText.includes(q);
-      });
+      let filtered = [];
+      if (searchableItems) {
+        filtered = searchableItems.filter(item => item.plainText.includes(q));
+      } else {
+        // fallback: ensure full archive loaded
+        filtered = allItems.filter(item => {
+          if (!item.plainText) {
+            item.plainText = getTextFromHTML(item.html).toLowerCase();
+          }
+          return item.plainText.includes(q);
+        });
+      }
       const duration = Math.round(performance.now() - start);
       resultsContainer.innerHTML = '';
       renderBatch(filtered, q);
@@ -256,7 +287,8 @@
 
     searchBar.addEventListener('input', async (e) => {
       const v = e.target.value;
-      if (!fullLoadedForSearch) {
+      if (!searchableItems && !fullLoadedForSearch) {
+        // only load all chunks if we don't have searchable.json
         await loadAllForSearch();
       }
       debouncedSearch(v);
@@ -265,9 +297,20 @@
     (async function init() {
       await loadManifest();
       if (manifest.length === 0) return;
+      // start chunking display
       await loadNextChunk();
       // prefetch next lightly in background
       setTimeout(() => loadNextChunk(), 500);
+      // try to get searchable index in parallel
+      loadSearchable().then(() => {
+        if (searchableItems) {
+          // optional: indicate searchable index is ready (could append small note)
+          // e.g., adjust results-info if empty search
+          if (!searchActive) {
+            resultsInfo.textContent = `Showing ${allItems.length.toLocaleString()} questions (search index ready).`;
+          }
+        }
+      });
     })();
   </script>
 </body>

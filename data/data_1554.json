@@ -1,0 +1,152 @@
+[
+  {
+    "html": "<h3> <dco>8.4.19&nbsp; \n12:50 pm</dco> &nbsp;<qco> Regarding your AppleScript issue: I've had trouble getting my GUI actions to be recorded by pointing and clicking with a mouse. I DO get the results I want by outlining the keyboard shortcuts for the specific app. Good luck!\n</qco></h3>      actually, the main point of this particular operation is to have solutions for those strange situations where there is absolutely no keyboard shortcut, nor menu item (if it was a menu item i could make a keyboard shortcut for it, but some software likes to go to more advanced planes of inaccessibility)<h3><qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\t\tAppleScript keycodes: https://eastmanreference.com/complete-list-of-applescript-key-codes\n<br>\n<br>Example used with my video editing software:\n<br>\n<br>tell application \"System Events\"\n<br>key code 0 using {command down} # select all\n<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;delay 0.5\n<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;key code 44 using {shift down, command down} # select top menu\n<br>   delay 0.5\n<br>   repeat 3 times # arrow left over to Action menu\n<br>   key code 123\n<br>   end repeat\n<br>   delay 1\n<br>   repeat 7 times # arrow down to Templates</qco> </h3>      \n\n\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.4.19&nbsp; \n10:54 am</dco> &nbsp;<qco> what the hell is youtube</qco> </h3>      \nimagine yourself in a tube. like what you see?\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.4.19&nbsp; \n10:52 am</dco> &nbsp;<qco> is it possible to go through a medium sized mental breakdown</qco> </h3>      \nthat would be for average users\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.4.19&nbsp; \n6:16 am</dco> &nbsp;<qco> Do you ever use the Keyboard Controller app from your phone? Just discovered this, and I'm very excited about it.&nbsp;</qco> </h3>      \nnot dynamic sensitive, until they invent dynamic sensitive phone screens \n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.4.19&nbsp; \n5:25 am</dco> &nbsp;<qco> Opinion about paintings</qco> </h3>      \nit's faster if you can use a hose instead of a paintbrush<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.3.19&nbsp; \n11:46 pm</dco> &nbsp;<qco> can my toes get pregnant?</qco> </h3>      \nthat's an experiment anyone can try at home\n\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.3.19&nbsp; \n11:09 pm</dco> &nbsp;<qco> Have you ever done the raise the roof dance?</qco> </h3>      \nroof already has been raised long ago. now looking for ways to raise the ceiling, in order to take advantage of the additional space\n\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.3.19&nbsp; \n10:28 pm</dco> &nbsp;<qco> So why do all your answers start with lowercase letters?</qco> </h3>      \nso it doesn't look like something from a best policies and practices pamphlet\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.3.19&nbsp; \n9:47 pm</dco> &nbsp;<qco> if i learn how to stay real all the time will i no longer need validation and acceptance?</qco> </h3>      \nyou are going to need validation and acceptance of your realness\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.3.19&nbsp; \n9:39 pm</dco> &nbsp;<qco> What is your name?</qco> </h3>      \ni don't care\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.3.19&nbsp; \n9:34 pm</dco> &nbsp;<qco> How do you think?</qco> </h3>      \ni've been trying to demonstrate\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.3.19&nbsp; \n9:31 pm</dco> &nbsp;<qco> What is color?</qco> </h3>      \nflavor of light\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.3.19&nbsp; \n7:58 pm</dco> &nbsp;<qco> what are some good games i can play with a helium tank&nbsp;</qco> </h3>      \nyou could measure it, see how large it is\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.3.19&nbsp; \n7:45 pm</dco> &nbsp;<qco> is it ok for me to make the world a better place?</qco> </h3>      \nit will be once you do\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.3.19&nbsp; \n7:37 pm</dco> &nbsp;<qco> Where do you find the time?</qco> </h3>      \nin space\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.3.19&nbsp; \n7:20 pm</dco> &nbsp;<qco> What do you think about chairs?</qco> </h3>      \nwould make a cool font\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.3.19&nbsp; \n7:12 pm</dco> &nbsp;<qco> What year is it in your time zone</qco> </h3>      \ngot to be one hundred billion by now\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.3.19&nbsp; \n6:58 pm</dco> &nbsp;<qco> what's the craziest idea you've had in the past week</qco> </h3>      \nmaybe we could some how combine all these weeks\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.3.19&nbsp; \n5:53 pm</dco> &nbsp;<qco> what is the most important tool when one is out and about?</qco> </h3>      \ni was going to say navigation, but now that i've thought about it a little more i would say whimsy\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.3.19&nbsp; \n3:33 pm</dco> &nbsp;<qco> Out of all the birds which one is the biggest asshole</qco> </h3>      \ni think you mean cloaca\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.3.19&nbsp; \n3:27 pm</dco> &nbsp;<qco> What do you do when you get a stomach flu?</qco> </h3>      \nwrite a series of poems about it\n\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.3.19&nbsp; \n2:53 pm</dco> &nbsp;<qco> Why am I so misunderstood?</qco> </h3>      \nit's all about whether you understand yourself\n\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.3.19&nbsp; \n2:18 pm</dco> &nbsp;<qco> How do I stay focused on one task at a time?</qco> </h3>      \ni found a loophole, you can do a group of tasks, and consider it 1 task\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.3.19&nbsp; \n2:18 pm</dco> &nbsp;<qco> what happens when an unstoppable object hits an immovable object&nbsp;</qco> </h3>      \nthey have to go to court<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.3.19&nbsp; \n1:40 pm</dco> &nbsp;<qco> <a href=\"https://apple.stackexchange.com/questions/207915/drag-to-convert-automator-action-into-applescript\">https://apple.stackexchange.com/questions/207915/drag-to-convert-automator-action-into-applescript</a>&nbsp;</qco> </h3>      that's what i was referring to as the \"watch me do\" (that's the 'watch me do' feature, of automator) and the problem i'm referring to is that when you plug the resulting code into applescript, in many cases, it just says \"missing value.\" particularly and most notably, when the automator (watch me do) result starts with \"click static text\", or as in the example you linked, \"click UI element.\" neither of those tend to work in actual applescript, despite what the automator spits out. one time i was able to succeed by replacing\"click static text 1 of row 9\" with \"select row 9\" but that was only in one case. every other case i have been unable to find what the secret code actually is. <a href=\"q.php?date=201908030528\">here</a>'s a reference to the rant i made earlier for those who think they can crack this. claim your prize today\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.3.19&nbsp; \n1:34 pm</dco> &nbsp;<qco> When will my suffering end?</qco> </h3>      \nas soon as you are able to give an earnestly coherent mapped out diagram of the suffering\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.3.19&nbsp; \n1:25 pm</dco> &nbsp;<qco> ever looked into zen koans?</qco> </h3>      \nmostly just regular koans\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.3.19&nbsp; \n1:02 pm</dco> &nbsp;<qco> What is an onion?&nbsp;</qco> </h3>      \nit's like a baseball you can eat\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.3.19&nbsp; \n12:49 pm</dco> &nbsp;<qco> any elvis conspiracies?</qco> </h3>      \nhe died twice, which actually makes him more alive\n\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.3.19&nbsp; \n11:36 am</dco> &nbsp;<qco> have you ever been to Pyongyang?</qco> </h3>      \nthe whole world is Pyongyang\n\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.3.19&nbsp; \n10:29 am</dco> &nbsp;<qco> Dude I pet a frog and now I am the frog what do I do</qco> </h3>      \nyou could try petting a non frog\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.3.19&nbsp; \n10:14 am</dco> &nbsp;<qco> When is your next song</qco> </h3>      \ni can't tell you\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.3.19&nbsp; \n9:54 am</dco> &nbsp;<qco> why is your q green?</qco> </h3>      \nto give it a sort of glow\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.3.19&nbsp; \n9:46 am</dco> &nbsp;<qco> my genetics screwed up whats the cure</qco> </h3>      \nhaving sex?\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.3.19&nbsp; \n9:32 am</dco> &nbsp;<qco> What's the best product out there?</qco> </h3>      \nbug repellent repellent. this is especially a good product for bugs\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.3.19&nbsp; \n5:38 am</dco> &nbsp;<qco> Opinion about trash</qco> </h3>      \nit's pretty good\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.3.19&nbsp; \n5:28 am</dco> &nbsp;<qco> how's the technological advancement going? did you figure out the 'missing value' issue?</qco> </h3>      \nNO THAT'S THE HOTTEST ISSUE ON MY LIST RIGHT NOW, IF ANYONE CAN FIGURE THAT OUT AND WOULD BE KIND ENOUGH TO HELP, PLEASE CONTACT ME. THE QUESTION IS, HOW DO I RECORD MY ACTIONS IN A MACOS APP AND HAVE IT PRODUCE THE CODE FOR WHAT I JUST DID IN EITHER APPLESCRIPT OR JXA, CORRECTLY. AUTOMATOR WATCH-ME-DO SOMETIMES GIVES ME THIS CORRECTLY FOR SIMPLE DIALOGS, BUT FOR OTHER GUI ELEMENTS IT FAILS, SPECIFICALLY FOR EXAMPLE WHEN I CLICK CERTAIN GUI ELEMENTS THE AUTOMATOR WATCH ME DO WILL CLAIM THAT THE APPLE SCRIPT FOR THAT WAS \"CLICK STATIC TEXT\" OF ETC ETC WHICH IF I TURN AROUND AND RUN THAT IN APPLESCRIPT IT WILL SIMPLY SAY \"MISSING VALUE.\" THE QUESTION IS HOW DO I FIND OUT WHAT THE CORRECT SCRIPT CODES ARE FOR MY FAVORITE GUI ACTIONS thanks for your consideration, prize offered\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.3.19&nbsp; \n1:44 am</dco> &nbsp;<qco> How do we fix the problem&nbsp;</qco> </h3>      \nthere's only one way to do it, you gotta use solutions\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.3.19&nbsp; \n1:04 am</dco> &nbsp;<qco> Have you been working on a video since March or am I just clinging on to false hope?</qco> </h3>      \ntrying to invent something better\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.3.19&nbsp; \n12:38 am</dco> &nbsp;<qco> man i love it when i'm forced to go to church and then get the idea that i'm a sinner shoved down my throat Lol!!!! #sofun #lovethat #freakinghelp\n<br>bill i know you probably haven't been in my shoes but i just want to be free from this crap. i'm freaking gay ok and there's nothing i can do about it and i swear if i get put in \"straight conversion therapy\" or whatever the heck they call it i am going to flip 300 windows</qco> </h3>      \nwait til you find out how gay the people on stage are\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.3.19&nbsp; \n12:36 am</dco> &nbsp;<qco> what is an interesting gimmick for a space alien (or space alien planet) to have</qco> </h3>      \na diner (space themed)\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.3.19&nbsp; \n12:35 am</dco> &nbsp;<qco> if you made a song about the questions page, which instruments would fit the theme&nbsp;</qco> </h3>      \nthat depends what they play\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.3.19&nbsp; \n12:16 am</dco> &nbsp;<qco> I recently had to face off against the unstoppable and impersonal forces of the google algorithm. How are we supposed to survive in a world controlled by the whims of a machine??</qco> </h3>      \nyou must work together\n\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.2.19&nbsp; \n10:05 pm</dco> &nbsp;<qco> what kind of keyboard do you recommend for a piano noob like me? i would like to know your preference in brand as well</qco> </h3>      \n[Your Brand Here] ad space available\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.2.19&nbsp; \n9:27 pm</dco> &nbsp;<qco> How do you feel about skateboarding&nbsp;</qco> </h3>      \nflippy\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.2.19&nbsp; \n8:43 pm</dco> &nbsp;<qco> your spontaneity in answers and song speaks well of your absence of block in your thought. This is a natural way if living which I admire about you. In your work, accident and intent do not conflict with eachother. Instead they exist together as they must.</qco> </h3>      \nthoughts do get blocked but as long as you record the unblocking process, that can be where the action is anyway\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.2.19&nbsp; \n8:05 pm</dco> &nbsp;<qco> is friday just tuesday in disguise</qco> </h3>      \ni was going to say no but now that i think about it yes\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.2.19&nbsp; \n7:20 pm</dco> &nbsp;<qco> What is your opinion on the center of the observable universe?</qco> </h3>      \nit's right here\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.2.19&nbsp; \n7:12 pm</dco> &nbsp;<qco> do u like to go to concerts</qco> </h3>      \nonly for business\n\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.2.19&nbsp; \n6:52 pm</dco> &nbsp;<qco> was there a moment in your life where you had to drastically change your core beliefs? in regards to the nature of reality or anything else</qco> </h3>      \ni once had to change them 49%. simce then i have only ever had to change them 48% at a time, at most\n<br><br>"
+  }
+]

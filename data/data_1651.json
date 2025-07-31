@@ -1,0 +1,152 @@
+[
+  {
+    "html": "<h3> <dco>3.18.19&nbsp; \n5:27 pm</dco> &nbsp;<qco> has there always been light?</qco> </h3>      no\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>3.18.19&nbsp; \n5:27 pm</dco> &nbsp;<qco> Bill what is your favorite thing so that I can draw it?</qco> </h3>      the timespace continuum\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>3.18.19&nbsp; \n5:26 pm</dco> &nbsp;<qco> Do you suggest ketchup or mustard?</qco> </h3>      not really\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>3.18.19&nbsp; \n5:26 pm</dco> &nbsp;<qco> favourite Justin Timberlake moment?</qco> </h3>      maybe <a href=\"jt-whatyougot-ending.mp3\">this</a>\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>3.18.19&nbsp; \n5:24 pm</dco> &nbsp;<qco> Do you think you'll ever release your music physically?</qco> </h3>      if it becomes necessary\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>3.18.19&nbsp; \n5:20 pm</dco> &nbsp;<qco> Are your videos an account of your travels in another dimension?</qco> </h3>      i was going to say no but actually yes\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>3.18.19&nbsp; \n5:17 pm</dco> &nbsp;<qco> whats your favorite made up word</qco> </h3>      bip\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>3.18.19&nbsp; \n5:08 pm</dco> &nbsp;<qco> What's something you're very opinionated about, aside from music and your work?</qco> </h3>      \nwhich way is which\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>3.18.19&nbsp; \n4:26 pm</dco> &nbsp;<qco> Why must fungi reproduce in such a crazy way?</qco> </h3>      they are trying to show off\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>3.18.19&nbsp; \n3:52 pm</dco> &nbsp;<qco> Why do you work so hard? </qco></h3>      to get results<h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Does it give you satisfaction?</qco> </h3>      the results do\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>3.18.19&nbsp; \n3:51 pm</dco> &nbsp;<qco> ARE YOU QUITTING YOUTUBE?!</qco> </h3>      no\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>3.18.19&nbsp; \n3:46 pm</dco> &nbsp;<qco> let's say you want to tie the last 8th note of a bar to the first 8th note of the next bar (and the next bar is the first ending of a repetition). how could you indicate you want that last 8th note to be tied to the first 8th note of the 2nd ending bar as well?</qco> </h3>      make a tie at the beginning of the 2nd ending, coming from the left, not really connected to anything\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>3.18.19&nbsp; \n3:45 pm</dco> &nbsp;<qco> <a href=\"q.php?date=201803301505\">3.30.18&nbsp;&nbsp;3:05 pm</a>  I am very much interested give me everything you got</qco> </h3>      next you check for 3s. add up the digits, and if they add to a multiple of 3 then it's a multiple of 3. if the sum of the digits too high to know if it's a multiple of 3 then add those digits again and see if it's a multiple of 3. you surely already know about this so i will move on to the next part, which is the majority of the hard work. check systematically for each prime number. 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, on and on and on and on. there are many tricks i have learned, but the general strategy is, you transform your target number by a multiple of 7 to deliberately make it more recognizable (smaller). and once you get it simple enough to recognize if the resulting number is a multiple of 7 or not, then you know your original number was or was not a multiple of 7. here's an example or all the techniques listed so far, just to give you the idea. i'll pick a random 4 digit number, chosen from <a href=\"https://www.random.org/\">random.org</a>, and it's 4588. first it's even so cut it in half. visually i can separate this into 4 58 8. (all even numbers) cut all those in half, 2 29 4. so 2294. still even. divide again, mentally do it like this: separate and then split each: 22 94. would be 11 47. (47x2 is 94, i just know that one). so 1147. now check 3. what i just did to check 3 is add 3, = 1150, drop the zero, then you can knock out '15' cuz that's a 3, and you're left with 1 which is not 3. so 3 is eliminated. 5 obviously gone too because it doesn't end in 5. now check 7. as i said before, we can transform by 7s until it's recognizable as mult of 7 or not. so actually look, i can ditch the 14 in the middle =1007 (almost like i just subtracted 140, which is obviously mult of 7 because 14 is). Ok, now i can ditch the 7. = 1000. =not a mult of 7. that's just something you should know about 1000000 or 100 or 1 or 10000000 doesn't matter how many zeros, those are made up of only 2s and 5s. ok so 7 is gone, not a part of 1147. next test, 11. easy. knock off the 11, =47. 47 clearly non11, it would have to be 44. so 11 is gone. checking 13 now. 1147, here's essentially the bread and butter technique: add 13, and that will allow you to knock off a zero. 1147+13 = 1160, drop the zero is 116. in half is 58. in half is 29. done (no 13, would have to be 26). The key to what i just did is that our 1147 number has already been divided by 2 all the way, and by 5 all the way. so this number has to be either 1 or 3 away from the nearest 10. and all the remaining primes we have to check are between 1 and 3 away from 10. so there is always an option to add or subtract from the current target number (1147 in this case) to get it to be a mult of 10, and then you can drop the zero. and if it doesn't work you can triple the prime you're testing. this is the main strategy, it's like working from the right side of the number. but there is another basic strategy too which is to go from the left. ok so 13 is gone, next is 17. clearly just subtract it, = 1130, drop zero is 113, now add 17 is 130, drop zero is 13. NOT 17. so 17 is gone. NEXT is 19. so looking at 1147, my options are either to subtract triple 19 or do something else. i happen to know triple 19 is 57, that's reasonably easy to subtract from 1147, it's 1090, or 109. prime (i already know that, the first decade of the 100s is a full prime decade, 4 primes). But let's say you didn't want to subtract 57 from 1147, too much of a headache, and honestly it kind of is. so you could actually zap 114 off the left, because 114 is a multiple of 19, if you happen to know that. then you're left with 7 which is of course non-19. Ok, next prime to check, and BY THE WAY, when doing this, if you're checking in order, the good news is you only have to go as far as the square root of the target number you're working with. so as long as i've checked every prime in order, i don't have to go any further than the square root of 1147. what is the square root of 1147? well let's see, the square root of 900 is 30, and the square root of 1600 is 40. so the square root of 1147 must be in the low 30s. so we definitely will not have to check 37 as long as we have checked all the primes up until there by the time we get there. the reason why is because if you've exhausted all previous primes, and then you find 37 goes into 1147, it's like, 37 times what?? a lower prime? impossible, because you've checked them all. so we only have to check up to 31. so the next test was 23. easy, 1147 + 23 = 1170. drop zero, 117, again easy, plus 23 is 140. drop zero, 14, that's just 7. non23. next test is 29. here's where the tricks become nifty. you can triple and it's 87, if you're in the mood to subtract 87 from 1147, but i say no thanks. i have a nice trick for 29, it's 203. (203 is a multiple of 29.) so that is very easy for this situation. 1147 + 203 is 1350. drop zero is 135. divide by 5, an easy way to divide by 5 is double it = 270 and drop the zero. 27. that is not 29. ok so next test and the only test left is 31. so you could triple it to 93, and add 1147+93 which is not so hard, but in case you are not in the mood to do that, i have a neat trick for 31 which is 403 (a multiple of 31). 1147 plus 403 is 1550, drop zero is 155, double it is 310 HOLY CRAP, A SOLUTION SHOWED ITSELF AT THE LAST MINUTE that was actually a particularly thrilling one, even though i chose it randomly. so you drop the zero and it's 31, so we've just reached 31 by transforming 1147 by multiples of 31, so we know that 1147 is a multiple of 31. and we know the partner for that has to be 37 because it has to end in 7 because of the last digit, and 47 would be too big. but let's just check, ... 111 i happen to know is 37 x 3, and then add a zero is 1110 plus 1 more 37 is 1147, so it's confirmed. So now if you want the real prime factorization of the Original number (4588) you just have to re-trace your steps for those initial divisions we did, mostly 2s if i remember ....2294, 4588. yes, that's 4x. so the complete prime factorization would be 2 x 2 x 31 x 37 = 4588. and the extra surprise is remember that ridiculously long queue you were waiting in, well surprise you're almost to the front of it, and you didn't even have to get nerd neck in the process\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>3.18.19&nbsp; \n3:29 pm</dco> &nbsp;<qco> what do you think of \"i just did a bad thing\" trending on tik tok</qco> </h3>      guess i should go ahead and do a worse thing\n\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>3.18.19&nbsp; \n3:20 pm</dco> &nbsp;<qco> favorite owl city moment ?</qco> </h3>      probably something like <a href=\"owlcity-goodtimeprechorus.mp3\">this</a>\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>3.18.19&nbsp; \n2:59 pm</dco> &nbsp;<qco> 3.3.19 4:08&nbsp;&nbsp;&nbsp;why not?</qco> </h3>      i don't see a question at that time, i don't know what you are referring to\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>3.18.19&nbsp; \n2:37 pm</dco> &nbsp;<qco> Do you get bad questions?</qco> </h3>      they're all bad\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>3.18.19&nbsp; \n2:35 pm</dco> &nbsp;<qco> How are you so talented?</qco> </h3>      maybe some kind of defense mechanism\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>3.18.19&nbsp; \n2:13 pm</dco> &nbsp;<qco> is love fruit or bread</qco> </h3>      no\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>3.18.19&nbsp; \n1:07 pm</dco> &nbsp;<qco> at \"gone by\" (1:20) in \"might quit\", how would you write that chord symbol? F#/B?</qco> </h3>      yes\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>3.18.19&nbsp; \n1:05 pm</dco> &nbsp;<qco> I'll eat a log</qco> </h3>      fair enough\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>3.18.19&nbsp; \n12:57 pm</dco> &nbsp;<qco> aaah! love your content! is there any chance you could update your notes more often?</qco></h3>      if i post any more than 1 a day i might run out too quick<h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; your thought process is really interesting and i crave&nbsp;&nbsp;&nbsp;&nbsp;m o r e</qco> </h3>      there is 1 more each day.\n\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>3.18.19&nbsp; \n12:51 pm</dco> &nbsp;<qco> Favourite Quentin Tarantino moment?&nbsp;</qco> </h3>      how about <a href=\"qt-cantfeigninterest.mp4\">this</a>\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>3.18.19&nbsp; \n12:26 pm</dco> &nbsp;<qco> do you get overwhelmed with the questions page?</qco> </h3>      sometimes\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>3.18.19&nbsp; \n12:24 pm</dco> &nbsp;<qco> what is a cool place to get married</qco> </h3>      mars?\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>3.18.19&nbsp; \n12:01 pm</dco> &nbsp;<qco> Whats the funniest thing you heard out loud in public?</qco> </h3>      probably a very tired and droopy ding-dong sound on a very old R train\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>3.18.19&nbsp; \n10:58 am</dco> &nbsp;<qco> How come there's a scene from How to win at spelling in long long long, journey eventhough long long long journey came out about 2 months before how to win at spelling</qco> </h3>      'how to win at spelling' was completed before long long journey. it was not going to be released on any of the billwurtz channels/sites, it was made for another purpose. i only decided to release it in december as a small antidote for my failures of the schedule\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>3.18.19&nbsp; \n10:56 am</dco> &nbsp;<qco> what is your \"main instrument\"</qco> </h3>      i used to know but now i'm not so sure\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>3.18.19&nbsp; \n10:51 am</dco> &nbsp;<qco> How long does it take to make shorter non-music videos(Unboxing video, Mabye I could eat blades of grass)\n<br>And how long does it take to make long non-music videos(The history of the world I guess, History of Japan)\n<br>And how long does it take to make music videos</qco> </h3>      longer than i wish\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>3.18.19&nbsp; \n10:44 am</dco> &nbsp;<qco> i think i saw a question (from years ago?) about some annotations on the hoj. i checked the video and i don't see anything. what did i miss</qco> </h3>      i think youtube discontinued annotations\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>3.18.19&nbsp; \n10:43 am</dco> &nbsp;<qco> You probably already thought of this, and already ruled it out. But perhaps you could make content faster than 10 days, if you updated your software?</qco> </h3>      unfortunately my main software is not updatable. discontinued. but i am thinking about switching to something entirely new anyway, just because i am so tired of the way things look. but it would be very crippling for quite a while\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>3.18.19&nbsp; \n10:06 am</dco> &nbsp;<qco> Have you considered a 2 + 1 schedule?</qco> </h3>      yes but it seems so unbalanced\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>3.18.19&nbsp; \n10:00 am</dco> &nbsp;<qco> plz post a video tomorrow</qco> </h3>      how about today instead\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>3.18.19&nbsp; \n8:55 am</dco> &nbsp;<qco> did you mean for coastguard to rhyme with postcard in long long long journey?</qco> </h3>      i guess that syllabic figure just goes well at that location in the verse\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>3.18.19&nbsp; \n7:35 am</dco> &nbsp;<qco> <a href=\"q.php?date=201903170935\">3.17.19 9:35 am</a>  Thank you for explaining in great detail. It's been 1 month since you posted wfaoie and you are supposed to release 4 videos already (2 song and 2 nonsong). But I assume that the Might Quit video is taking too long again and you couldnt finish it in two weeks (or one week without the nonsong video) am I right?&nbsp;</qco> </h3>      yes. also i literally took a 1 week vacation earlier this month\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>3.18.19&nbsp; \n7:12 am</dco> &nbsp;<qco> why is Pablao™ a terrible rectangle brand?</qco> </h3>      Pablao™ is the leading brand but it is a terrible product. would be better if it were a little more smooth\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>3.18.19&nbsp; \n6:43 am</dco> &nbsp;<qco> Wait, do you want your songs to be normal or do you think they are (too?) normal? What is your definition of normal exactly?&nbsp;</qco> </h3>      normalcy is a sort of light and breezy feeling\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>3.18.19&nbsp; \n4:48 am</dco> &nbsp;<qco> can you release a video for 'in california'</qco> </h3>      i'd have to make it first\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>3.18.19&nbsp; \n2:16 am</dco> &nbsp;<qco> Can you climb a tree?</qco> </h3>      i'm not sure\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>3.18.19&nbsp; \n1:21 am</dco> &nbsp;<qco> how do you feel about people who refer to your videos as being \"random\"?\n<br></qco> </h3>      i guess they've never seen actual randomness\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>3.18.19&nbsp; \n1:17 am</dco> &nbsp;<qco> there are probably a lot of people who vent to you on a daily basis, but how about we turn this around and you vent to us this time? your frustrations and worries matter too.</qco> </h3>      sports need more balls. much more balls are needed for sports\n\n\n\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>3.18.19&nbsp; \n12:42 am</dco> &nbsp;<qco> What did I do</qco> </h3>      perhaps some floatation\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>3.18.19&nbsp; \n12:30 am</dco> &nbsp;<qco> What's your opinion on sadness</qco> </h3>      it can be a strong asset in business\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>3.18.19&nbsp; \n12:04 am</dco> &nbsp;<qco> my mom is annoying. she keeps nagging me about my lifestyle. \"stop being lazy!' \"take a shower your hair smells!' \"cut your hair or you'll never get a job looking like that\" \"dont smoke weed its bad for you!\" \"you cant play video games its not good for anything\" \"stop eating so much this is why you cant breathe at night!\" I wanna move out so bad because im sick of hearing her. so annoying. its just sucks because its so hard to make enough money to move out because i cant find a job because i'm lazy, dont take care of my self hygienically , can't pass drug test, out of shape, and want to get all my melee weapons diamond in black ops 4. fuck why is life so difficult?\n</qco></h3>      i think in your case it is it is too easy, which actually causes problems<h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; anyway my main question is do you ever draw?&nbsp;&nbsp;</qco> </h3>      yes\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>3.17.19&nbsp; \n11:29 pm</dco> &nbsp;<qco> do you like your music?</qco></h3>      ideally<h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; why?</qco> </h3>      i am supposed to make it how i like it\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>3.17.19&nbsp; \n11:16 pm</dco> &nbsp;<qco> Where is the airport terminal located</qco> </h3>      on the ground\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>3.17.19&nbsp; \n11:09 pm</dco> &nbsp;<qco> Have you ever tried to use a capital letter?</qco> </h3>      yes, i use them in every video. also <a href=\"capitals-report.php\">quite a bit on the questions page</a>. capital letters are kind of my trademark at this point\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>3.17.19&nbsp; \n10:43 pm</dco> &nbsp;<qco> Favorite moment ??</qco> </h3>      now\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>3.17.19&nbsp; \n10:12 pm</dco> &nbsp;<qco> how would we not get bored of heaven?</qco> </h3>      start a war maybe\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>3.17.19&nbsp; \n9:46 pm</dco> &nbsp;<qco> what makes you jump for joy?</qco> </h3>      songwriting\n<br><br>"
+  }
+]

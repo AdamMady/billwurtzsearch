@@ -1,0 +1,152 @@
+[
+  {
+    "html": "<h3> <dco>8.5.19&nbsp; \n5:52 pm</dco> &nbsp;<qco> The songs that come into my head have no words how do I attract ones that do?</qco> </h3>      \nstart playing with words\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.19&nbsp; \n5:04 pm</dco> &nbsp;<qco> Does this count as a question?</qco> </h3>      \nalmost\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.19&nbsp; \n4:15 pm</dco> &nbsp;<qco> how to deal with mental blocks?</qco> </h3>      \nmental balls\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.19&nbsp; \n3:53 pm</dco> &nbsp;<qco> why do police stop cars for speeding if the earth is moving faster than any speed limit</qco> </h3>      \nthe speed limit is relative to the local earth speed. must subtract local earth speed. they teach you that in driving class\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.19&nbsp; \n3:46 pm</dco> &nbsp;<qco> how expensive are you?</qco> </h3>      \n100 dollars\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.19&nbsp; \n2:46 pm</dco> &nbsp;<qco> what is your favorite material to build a bridge with?</qco> </h3>      \nwater\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.19&nbsp; \n2:01 pm</dco> &nbsp;<qco> With regards to the \"Click static text\" issue, it might be that the text itself doesn't have a clickable action associated with it. Button components have 2 visible elements to it, the outer bounding box, and the text inside it. In typical usage, a mouse click within the bounding box triggers the action of the button. The click action can be associated with the inclosed text, the bounding box, or both. If the text has no clickable action, it seems reasonable that \"missing value\" would be returned, even if it is able to find the text itself. Automator may have incorrectly assumed the click action was associated with the text instead of the bounding box, or if your program is particularly nasty, the click action may be just associated with a certain x y position on the screen. Somehow you have to get the name of the actual button box,\t\t and script a click action on that box rather than the text.</qco></h3>      i've looked everywhere in \"accessibility inspector\", suspecting that it may be hidden neatly behind something. but i don't think you can move anything out of the way in accessibility inspector. but, i've found some pretty thorough scripts that extrapolate every possible UI element (or so they say ....) and gone through every single one of them and not found the secret button i'm looking for. so i don't know<h3><qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If it is possible to script a click action to a x y positio\n n, you c\n an hopefully skip this mess, </qco></h3>      yes, i can do that<h3><qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\t\talthough as you mentioned previously you would need to watch window size/position or create different scripts for different work environments. It might be possible to script window positioning as well.</qco></h3>      yes, i do that all the time. and that does work here. but for various reasons i am definitely looking for something snappier in this case.  i just really think there is a snappier way. actually i think there's some even better ways with jxa or swift or something to get way more internal and skip the UI, but i can't find ANY inspectors or recorders, or any way to actually learn what i'm going for<h3><qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\t\t\n<br>\n<br>Note: I probably should mention I have computer experience but not with Mac, so this is all \"informed\" guessing.</qco> </h3>      \n\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.19&nbsp; \n12:42 pm</dco> &nbsp;<qco> How do you make the psychedelic effect in your videos?</qco> </h3>      \nwe'll see\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.19&nbsp; \n12:29 pm</dco> &nbsp;<qco> Hello I am running a survey to find future dictators.\n<br>\n<br>On a scale of 1-10 how likely are you to take over the world</qco> </h3>      \nmaybe 4 to 6\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.19&nbsp; \n12:14 pm</dco> &nbsp;<qco> when will you start uploading on youtube again?</qco> </h3>      \nwhen i learn how to make videos\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.19&nbsp; \n11:43 am</dco> &nbsp;<qco> How do you animate your videos?&nbsp;</qco> </h3>      \ni am trying to figure that out now\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.19&nbsp; \n11:42 am</dco> &nbsp;<qco> <a href=\"q.php?date=201908030528\">8.3.19&nbsp;&nbsp;5:28 am</a> &nbsp;&nbsp;&nbsp;I feel like I might be able to help you with this, but could you provide an example of an actual menu item that doesn't work, preferably in a program that does not cost big bucks to install?</qco> </h3>      \nplease email, my name at my name dot com\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.19&nbsp; \n11:28 am</dco> &nbsp;<qco> Who can I trust?</qco> </h3>      \nwho can trust you\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.19&nbsp; \n11:20 am</dco> &nbsp;<qco> <a href=\"q.php?date=201908031340\">8.3.19&nbsp;&nbsp;1:40 pm</a> \n<br>\n<br>When is the missing value occuring?</qco></h3>      when running <a href=\"oauhfaoeuhf.png\">this</a><h3><qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\t\t Does the program end right after \"Click static text\" or end at some other part after it? Is there a line number referenced in the traceback?\n<br>\n<br>And if you can, do you mind sharing more examples of the line of code containing \"click static text\"?</qco> </h3>      \nwould be detail overload for here. email much better. i have trillions of details. if you want to hear them let me know. prize offered\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.19&nbsp; \n10:48 am</dco> &nbsp;<qco> what program are you using for making video?</qco> </h3>      \nstill don't know\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.19&nbsp; \n10:21 am</dco> &nbsp;<qco> What is the weirdest question you've gotten?</qco> </h3>      \ni have never gotten a weird question\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.19&nbsp; \n10:17 am</dco> &nbsp;<qco> Will superhero fatigue ever actually happen? If so, when?</qco> </h3>      \ni always had it\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.19&nbsp; \n10:09 am</dco> &nbsp;<qco> how can i be less lazy</qco> </h3>      \nyou can't\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.19&nbsp; \n8:22 am</dco> &nbsp;<qco> Pluto good enough for you?</qco> </h3>      \ntoo good\n\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.19&nbsp; \n5:21 am</dco> &nbsp;<qco> there are a lot of cool things to do how do you decide</qco> </h3>      \nput them in a list and then talk about it for 20 minutes. you'll probably actually get to do them all, once you figure out which order\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.19&nbsp; \n3:08 am</dco> &nbsp;<qco> What does your favorite pair of socks look like?</qco> </h3>      \nblack socks\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.19&nbsp; \n2:40 am</dco> &nbsp;<qco> what do i do if i may have been emotionally harassed for a while and now i am afraid that since i tried to actually stand up for myself that they are going to try to sue me</qco> </h3>      \nremember the 3 L's. they all stand for Leave\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.19&nbsp; \n1:15 am</dco> &nbsp;<qco> maybe you could use a tool to capture the code in a different language and then translate it into applescript yourself</qco> </h3>      \ndoesn't even need to be applescript. can be also jxa, shell, or swift. if i had ANY capture tools for ANY (as well as a more reliable capture tool for applescript) that would be a huge breakthrough. i already have the 'accessibility inspector' in xcode, but that doesn't quite often tell me the right answers\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.19&nbsp; \n12:35 am</dco> &nbsp;<qco> Bill I swear if you actually quit then I have nothing else to bless my ears&nbsp;</qco> </h3>      \nstarting, not quitting\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.4.19&nbsp; \n11:29 pm</dco> &nbsp;<qco> I'm an idiot for not asking a question but i just wanted to say that you are a great weird and wacky person who has an amazing talent! Your songs are amazing to listen to relive stress for tests and such. Have a great day! hello and goodbye.\n<br>&nbsp;</qco> </h3>      \nthat's kind and nice of you\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.4.19&nbsp; \n11:13 pm</dco> &nbsp;<qco> What do you know about bee removal?</qco> </h3>      \nthe hardest part is remembering to add a few bees once in a while\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.4.19&nbsp; \n10:45 pm</dco> &nbsp;<qco> what's been on your mind?</qco> </h3>      \ninnovation\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.4.19&nbsp; \n10:04 pm</dco> &nbsp;<qco> am i gonna see u at the area 51 raid</qco> </h3>      \ni hope not\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.4.19&nbsp; \n9:34 pm</dco> &nbsp;<qco> My car won't stop honking after I did a satanic ritual and people are calling the police so what should I do about it. I'm thinking of throwing their insults back at them.</qco> </h3>      \nthat sounds about right\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.4.19&nbsp; \n9:03 pm</dco> &nbsp;<qco> some of the most popular songs introduce a new dance move. have you considered writing a song like that?</qco> </h3>      \nyes\n\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.4.19&nbsp; \n7:56 pm</dco> &nbsp;<qco> How aren't you?&nbsp;</qco> </h3>      \ni'm not sure\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.4.19&nbsp; \n7:34 pm</dco> &nbsp;<qco> For the Applescript thing, can you give us a replicable example of your issue? For example, \"I open X application specifically, I do Y action, and as a result Applescript does Z\". I know you described your general issue, but it might make troubleshooting easier if we can work with what you're working with.</qco> </h3>      would be detail overload for here. email much better. i have trillions of details. if you want to hear them let me know. prize offered\n\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.4.19&nbsp; \n7:30 pm</dco> &nbsp;<qco> Hey Bill! Just wanted to ask why you're taking a break off of YouTube :p</qco> </h3>      \nfigured i should learn how to make videos\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.4.19&nbsp; \n7:01 pm</dco> &nbsp;<qco> What's a moment you like in Drops of Jupiter?</qco> </h3>      \nentire ending \n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.4.19&nbsp; \n5:58 pm</dco> &nbsp;<qco> are you preparing yourself for area 51</qco> </h3>      \nwhat i think we all need to be prepared for is area 52\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.4.19&nbsp; \n5:44 pm</dco> &nbsp;<qco> how to stay motivated?</qco> </h3>      \nbribe yourself\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.4.19&nbsp; \n5:42 pm</dco> &nbsp;<qco> has a filename keysmash of yours ever happened to match with an existent filename keysmash of yours</qco> </h3>      \nall the time\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.4.19&nbsp; \n5:38 pm</dco> &nbsp;<qco> how do i get out of jail</qco> </h3>      \nthe way you came in, but in reverse\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.4.19&nbsp; \n5:28 pm</dco> &nbsp;<qco> How should I practice playing music?&nbsp;</qco> </h3>      \nforget that, i say do it for real\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.4.19&nbsp; \n5:21 pm</dco> &nbsp;<qco> can you provide your own validation and acceptance or does that need to come from some outside entity</qco> </h3>      \nyou could mail it to yourself\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.4.19&nbsp; \n5:19 pm</dco> &nbsp;<qco> Does winning come from trying without thinking it works</qco> </h3>      \ni'm not sure\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.4.19&nbsp; \n5:08 pm</dco> &nbsp;<qco> Have you received a question here that you just couldn't think of an answer to? </qco></h3>      yes<h3><qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\t\tWhat was the question?</qco> </h3>      \nall of them\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.4.19&nbsp; \n4:22 pm</dco> &nbsp;<qco> <a href=\"q.php?date=201908041250\">8.4.19&nbsp;&nbsp;12:50 pm</a>  do you find that in those no-keyboard-shortcut, no-menu-item ones you usually get click static text?</qco></h3>      in many cases when there's no keyboard shortcut and no menu item, it often is accessible by applescript. but there is a specific kind of situation where clicking something in real life makes something happen, and the automator recorder claims that what i did can be translated to applescript as \"click static text\", and yet putting that into applescript yields \"missing value.\" in approximately half of these situations, the parent item is \"row\", and if that's the case, i have found a secret solution of saying \"select row.\"<h3><qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\t\t Weird question on my part, but have u made sure to have only 1 instance of whatever it is you're manipulating?</qco></h3>      yes<h3><qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\t\t static usually means theres only 1 instance of that value so idk if having several might trip it out,</qco></h3>      actually in all these cases there is a number after it, \"static text 1\" or \"static text 2\". getting rid of the others would be impossible because it's usually clicking something in a list, or clicking amongst a set of 'buttons', but it would be the only one with that number (i assume)<h3><qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\t\t im just throwing out ideas while i understand more of the issue. Feel free to use me as a rubber duck</qco> </h3>      \n\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.4.19&nbsp; \n4:07 pm</dco> &nbsp;<qco> Can you see the molecules un the room ?</qco> </h3>      \nonly with moleculoculars\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.4.19&nbsp; \n3:27 pm</dco> &nbsp;<qco> the flight to new zealand is delayed again. what should i do to pass the time while waiting?</qco> </h3>      \nswim to new zealand\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.4.19&nbsp; \n3:10 pm</dco> &nbsp;<qco> Opinion about cabbage?&nbsp;</qco> </h3>      \nit's absolutely unmistakable. virtually zero chance of thinking it's lettuce\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.4.19&nbsp; \n2:36 pm</dco> &nbsp;<qco> Why haven't you uploaded</qco> </h3>      \ni have uploaded more than anyone i have ever met, combined\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.4.19&nbsp; \n2:31 pm</dco> &nbsp;<qco> opinion on marriage&nbsp;</qco> </h3>      \nseems legit\n\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.4.19&nbsp; \n1:51 pm</dco> &nbsp;<qco> What do you think is in Fort Knox?</qco> </h3>      the world's largest list of active email addresses\n\n\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.4.19&nbsp; \n1:16 pm</dco> &nbsp;<qco> Would you buy Muppet screams?\n<br></qco> </h3>      \nalready own quite a few\n\n<br><br>"
+  }
+]

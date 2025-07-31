@@ -1,0 +1,152 @@
+[
+  {
+    "html": "<h3> <dco>8.6.17&nbsp;\n3:48 pm</dco> &nbsp;<qco> does this individual, called bill wurtz on social media, feel positive about the music genre jazz?</qco> </h3>      the music genre jazz could mean a hundred million different things. i think it could mean even more things than there are songs to represent all those things\n\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.6.17&nbsp;\n3:46 pm</dco> &nbsp;<qco> Is it possible for you to do a video featuring the unused bits from your hotewig video?</qco> </h3>      there were no unused video bits. the only unused bits were unused written bits, that were never made into video\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.6.17&nbsp;\n3:33 pm</dco> &nbsp;<qco> will you kiss me?</qco> </h3>      sure\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.6.17&nbsp;\n3:10 pm</dco> &nbsp;<qco> So I recently moved to a state where ive noticed that most people say \"what's good\" as a greeting. Where I'm from originally , most people say \"what's up\" instead. 'What's up' is easy to answer cause you can just say \"not much\" or say what your up to. But when people ask me \"what's good\" I feel like I shouldn't say \"not much\" or \"nothing\" cause that seems like it would be very depressing. \"What's good?\"... \"Not much\"....that makes me seem sad. Are you familiar with the \"what's good\" greeting? How would you normally respond? Am I supposed to just think of any random thing that I think is good?</qco> </h3>      that is a good point. yes i am familiar with what's good, but i don't know what the current default response is. nor to what's up, to be honest. although actually they both mean \"hi\" or \"hey\", so \"what's up\" is actually an ok response to any of them. a few years ago, 'chillin' was actually a very default response to 'what's up', but i fear that i've been living in a cave for so long that that has most likely shifted since then. and it would be very helpful if someone in the know could actually update me on this\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.6.17&nbsp;\n2:03 pm</dco> &nbsp;<qco> what are your thoughts on bass guitar as an instrument, what it should contribute to a song etc</qco> </h3>      you'll just have to try it with and without, and see for yourself<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.6.17&nbsp; \n1:17 pm</dco> &nbsp;<qco> Do you ever have a very specific idea of what you want (maybe like a specific graphic, visual effect, sound effect/tone, etc) but you don't know how to actually go about executing your idea? For reference, there's blogs and vlogs but I want to make condensed what I'll call \"slogs\" (sound blogs) where I record all the sounds around me (speaking, car sounds, music, radio, footsteps, cooking sounds, animal sounds, literally any sound that can be picked up by a mic) for 24 hours.. then I went to take that 24 hour recording, splice it into 10 second fragments (or maybe 5 seconds or 15 seconds, haven't decided) and layer all the spliced clips on top of eachother and play it all simultaneously so you have this cacophony of 24 hours worth of sounds smashed into 10 seconds... but I don't think recording softwares can handle that much audio files, and cpu or phone batteries don't last 24 hours.... I really want to do this, but I don't see how it can be done...\n. and it\n's wildly frustrating for me.</qco> </h3>      i think the challenges you mentioned are very possible to overcome. use a digital voice memo recorder. the one i use can hold 17 hours, and the battery life lasts for probably 10 hours but maybe more. i bought it 8 years ago, so i'm sure they're better now. but i was going to suggest you use 2. with a little practice and planning you could alternate between them. it is likely that you would only need to switch once. the next challenge is editing, but i think you can use multiplication to your advantage. and you will probably use different programs, depending on what does what better... or maybe you can do it in one. i'm pretty sure there are programs that will open a 24 hour file. really you just need to use that program to break it into 24 pieces. make sure volume is at 0 (even, not plus or minus anything), and there is no master compression or anything (garage band for example has some automatic compression i think but that will mess you up for this project). then once you have it down to 1 hour pieces, i would suggest opening them up in a program like logic or protools, and just put them all in on 24 tracks. that should be reasonable. again, no compression, and from here on, make sure that all tracks are set to about -15db, because the noise is going to stack up. export this 1 hour of 24 tracks stacked together. then open a new file and import this, and cut it into let's say 30. 30 tracks of 2 minutes each. make sure you set your time settings to be by time, and grid snap to minutes, OR if it is on a musical bars/measures setting, just set your tempo to 120 bpm (which it likely already is by default) and 2 minutes should be exactly 60 bars. so cut every 2 minutes, that's the beginning of bar 61, 121, 181, 241, and so on. stack them all down vertically, so you have 30 tracks of 2 minute regions. export this. again, NO master compression, and i think from here on you can keep your volume at 0 -- the trick is to make sure that it was low enough on the one where you lowered it. maybe even -20 would have been good, to be safe. so now you should have 1 file that's 2 minutes long that has everything. repeat the process, you are almost done, split this into 8 if you want 15 second final length, split it into 12 if you want 10 second final length, or split it into 24 if you want 5 second final length. at 120 bpm, 5 seconds is 2 and a half bars. 10 seconds is 5 bars, 15 seconds is 7 and a half bars. (that's if you are in a musical program measuring by bar. otherwise just set it to time grid). split it up, stack it up, no compression, keep the volume at zero, and then you should be done. I think this process is actually within reach. the exporting could take a while in the first round. but i think if you try different programs and perhaps toy with the values in this system, i think you can get there. Now, here is the bigger challenge, which i don't really have a solution for -- you're going to have an insane amount of walking noise, pocket noise, or even if you keep the thing out of your pocket the whole time, there is going to be loud unwanted noise any time you touch the device, or if you set it down, basically unless you are holding it the right way in your hand for the entire time. that is probably going to be the bigger challenge. because i think over 24 hours, all that noise will add up and that will be all you hear. you won't be able to hear any of the ambient noise you're looking for, because the direct mic contact noise will be about 5 times louder and i think it will fill the whole time when stacked 144,000 times. now it might be possible to use a noise gate that actually silences anything above a certain db. i'm not sure if these exist, i only know of noise gates that silence anything BELOW a certain level, or just flatten anything above a certain level, which is not what you want because you will still hear all the mic contact noises. but if you can get a noise gate that can silence anything above a certain db, i think that could be just the ticket, with some experimentation. i would recommend putting that on at the 1 hour level, applying it to all 24 1-hour tracks. i hope that helps <br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.6.17&nbsp; \n12:04 pm</dco> &nbsp;<qco> A lot of folks seem to think everything you do is couched in irony.&nbsp;&nbsp;Is this true?&nbsp;&nbsp;I always get the impression that your work is a lot more earnest that you get credit for.</qco> </h3>      the word irony switches meanings every couple of years. i honestly don't know what it means now<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.6.17&nbsp; \n11:33 am</dco> &nbsp;<qco> Hi, so I REALLY wanna learn to play the drums. I play guitar and bass, so I'm already familiar with playing music and how rhythm works (all the note/rest values, ties, triplets, etc. I'm even comfortable playing syncopated lines, polyrhythms, different time signatures and all that stuff) But when I actually try to sit down at a set and play around, I sound awful.. Do you think its mostly about building up muscle memory, just getting used to the technique and feeling of the drums? Another roadblock is that I don't own a kit (I live in an old apartment building, with VERY thin walls), so I practice either by tapping my feet while tapping on stuff with my hands, or by \"air drumming\". I really only get to play on an actual kit once a week or so at most (when I go over to a friends house for band practice). Any tips or advice???</qco> </h3>      you can probably get pads that use a kick pedal, and you'll also need some regular drum pads, and then get like 3 or 4 snare stands, make sure they can go up high (so you can simulate the position of a high hat) and get a drum throne. and sticks of course. mentally, you can do a lot just in your mind, and simple tapping, when it comes to pattern practicing and independence, etc. You can actually even practice patterns with just the slightest twitch of your arm and leg muscles, and you will be able to simulate hand and foot patterns, and give your mind the necessary practice for integrating hand and foot patterns. But another important piece is the physical mechanics of the sticks and pedal, which you'll need to do on pads <br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.6.17&nbsp; \n11:21 am</dco> &nbsp;<qco> how do i make lentils interesting</qco> </h3>      you will have to think outside the bean<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.6.17&nbsp; \n10:52 am</dco> &nbsp;<qco> 8.5.17&nbsp;&nbsp;3:43 pm thanks for that nice,inspiring answer. Do you think this is true for other arts as well?</qco> </h3>      oh hell yeah<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.6.17&nbsp; \n10:47 am</dco> &nbsp;<qco> Can you help me write my postgraduate dissertation?</qco> </h3>      i actually don't know what a dissertation is<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.6.17&nbsp; \n10:45 am</dco> &nbsp;<qco> Whats your favorite angle ? Mines 76 degrees</qco> </h3>      it depends what direction i am going, and what direction i'm trying to go. and specifically, the difference<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.6.17&nbsp; \n10:44 am</dco> &nbsp;<qco> Hi, I am not sure whether this is a question or not.</qco> </h3>      me neither<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.6.17&nbsp; \n10:34 am</dco> &nbsp;<qco> what do you think about counterpoint?</qco> </h3>      i'm actually not too sure what counts as counterpoint<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.6.17&nbsp; \n9:31 am</dco> &nbsp;<qco> Will you upload \"Got to Know What's Going On\" at some point? It's terrific!</qco> </h3>      it is already uploaded. it was uploaded to my website, and spotify, itunes, amazon, google play, and many other music sites as well. it has been online since about june 20th. actually if it wasn't uploaded i don't know how else you would have heard it<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.6.17&nbsp; \n8:20 am</dco> &nbsp;<qco> what should I do if I'm depressed all the time and everything seems to be hopeless</qco> </h3>      celebrate!<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.6.17&nbsp; \n7:17 am</dco> &nbsp;<qco> please do a video of got to know whats going on next!! i know, an entirely new piece would be great too and everyone would enjoy the shit out of it. i just really feel like that song needs a video. no, it deserves a video. im scared that if you do the new thing, theres not gonna be a video.\n<br>im only writing this because you seem unsure of your next step. it probably won't matter in the end</qco> </h3>      at this point, i have fully re-realized the importance of doing videos for songs. this is clearly illustrated in the fact that everyone thinks that movie star is a brand new song, everyone wants longer versions of the steve songs, and hardly anyone has heard of 'got to know what's going on.' most people never heard of movie star before the video. it is common knowledge that videos are vitally important for song publicity, and i have known this for a long time, but earlier this year i was hooked on the idea that i could do them without videos, for a simple reason which is that i can do songs about 4 times faster if i skip the video. this is a tempting strategy, but as i said i'm currently back in the viewpoint that videos are needed. what i'm trying to say is, i highly doubt that my next project will be a videoless song. it might be a new song together with a video, or it might be something completely different <br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.6.17&nbsp; \n5:34 am</dco> &nbsp;<qco> if two witches were watching two watches which witch would watch which watch</qco> </h3>       each which would watch one watch. then they should switch <br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.6.17&nbsp; \n5:21 am</dco> &nbsp;<qco> is nine nine or is nine ten</qco> </h3>      i will check<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.6.17&nbsp; \n5:19 am</dco> &nbsp;<qco> what do you think of this chord progression:\n<br>Eb Bb Db Ab Bmaj7</qco> </h3>      in order for that to have any meaning, you will need to specify the timing-- how long each of the chords last. then, you really need to specify specifically how they are voiced, which notes you used in which octave. you didn't even tell me whether it loops. that's 5 chords, so unless it's a weird time signature there must be some that are a different length. unless it does not loop in which case again you need to specify the timing. then still, you need to specify how it's played rhythmically and what kind of tone. and all that still means nothing if i don't know what the melody is, and even still, the over all effect can still be influenced by what the lyrics are. even still, with all that information written down on paper, there are still worlds of sonic factors that can give it a vastly different sounding result, even after nailing down the full notation, tempo, melody, and lyric. that being said, i think it's fine. everything is fine   <br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.6.17&nbsp; \n5:17 am</dco> &nbsp;<qco> How do I know if a girl likes me?</qco> </h3>      you'll never know<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.6.17&nbsp; \n4:56 am</dco> &nbsp;<qco> do you remember the thrill of the first time you heard/noticed a specific interval in a song? \n<br>(like for instance i remember when i was little and first noticed that 7th and 9th in a final chord of a blues song)</qco> </h3>      i remember at a young age figuring out if youre in the key of C and youre about go to F, sneak a Bb note into the mix (in other words play C7) right before you go. it will get everyone in the room ready and eager for the trip <br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.6.17&nbsp; \n4:54 am</dco> &nbsp;<qco> come on, you gotta be kidding me that you don't count \"movie star\" 3 +6 ?</qco> </h3>      looking at the finished product from a distance, i can understand why it might be reasonable to use all 3s. but i always heard the 1st bar as 4. i think this is because the idea was born in 4, and then soon after i realized i wanted the second bar to linger for a slightly unpredictable amount of time. there was some question about how many beats to actually leave the second bar hanging. it was also originally written for vine, so really if it had ever been on vine, i never would have had time to let the cycle go around with no vocal. i would have had to sing the lyric on every cycle, rather than every other. this would most likely mean that i would have made the second bar a few beats longer to add more space between the lines. probably would have been 4+7. ... regardless, the original line came to me in 4/4 with the emphasis on the 4th beat, tied over. <br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.6.17&nbsp; \n3:06 am</dco> &nbsp;<qco> Do you like stuff?</qco> </h3>      it's ok<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.6.17&nbsp; \n2:05 am</dco> &nbsp;<qco> i'm a teenager looking for work experience, in any field--should I apply for every job I can find, and is saying \"i don't want something that's beneath me\" absolutely unreasonable?</qco> </h3>      until you actually secure something better<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.6.17&nbsp; \n1:23 am</dco> &nbsp;<qco> how do you deal with hate aimed at you from random strangers on the internet?</qco> </h3>      with friendliness<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.6.17&nbsp; \n1:16 am</dco> &nbsp;<qco> If you could do anything or wish anything, what would it be?</qco> </h3>      everything<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.6.17&nbsp; \n12:55 am</dco> &nbsp;<qco> Why are you so mean?</qco> </h3>      perhaps the same reason as you<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.6.17&nbsp; \n12:52 am</dco> &nbsp;<qco> So is soup just flavored water?</qco> </h3>      it might be, but i am not an expert<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.6.17&nbsp; \n12:23 am</dco> &nbsp;<qco> why did you stop making notes at 12.17.16</qco> </h3>      that's not when i stopped, but why haven't you made any<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.6.17&nbsp; \n12:14 am</dco> &nbsp;<qco> how many numbers are in the number 1000</qco> </h3>      it depends how you look at it<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.17&nbsp; \n11:56 pm</dco> &nbsp;<qco> Normally I tend to have short, random bursts of productivity with the stuff I do. Do you think it's better to follow a strict daily routine or would the method I use be good enough to get by?</qco> </h3>      you should try a mix of both<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.17&nbsp; \n11:50 pm</dco> &nbsp;<qco> thoughts on just Getting Shit Done?</qco> </h3>      seems legit<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.17&nbsp; \n11:19 pm</dco> &nbsp;<qco> one of your answers mentioned that you would like to \"teach someone\" (e.g. an intern or assistant) how to answer questions for you, so you could focus on \n<br>more creative projects. Exactly what would you need to teach this person in order to answer these questions for you?</qco> </h3>      they would have to know exactly how i would answer any question<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.17&nbsp; \n11:00 pm</dco> &nbsp;<qco> how many of the questions people ask here do you actually answer</qco> </h3>      you wanna check<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.17&nbsp; \n10:38 pm</dco> &nbsp;<qco> how many questions do you still have on the inbox? </qco></h3>      zillions<h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\nAre you really answering them all?</qco> </h3>      not even close<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.17&nbsp; \n10:29 pm</dco> &nbsp;<qco> you definitely sound like you could be a good music educator! would you ever consider doing that at all?</qco> </h3>      i am already doing it in the only way that makes sense to me, through this website and anything i post online<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.17&nbsp; \n10:27 pm</dco> &nbsp;<qco> from your answers it seems like you concern a lot about distraction and/or drawing unbalanced attention to stuff when you create? If so why so?</qco> </h3>      i'm not sure what you mean\n\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.17&nbsp;\n9:34 pm</dco> &nbsp;<qco> is learning things fun</qco> </h3>      oh hell yeah\n\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.17&nbsp;\n9:28 pm</dco> &nbsp;<qco> is it cheating use scrabble pieces to do anagrams?</qco> </h3>      i will check with the rules and regulations\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.17&nbsp;\n9:12 pm</dco> &nbsp;<qco> Whats the difference between consistency and doing the same thing over and over?\n</qco></h3>      those phrases sound like they could easily mean the same thing<h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; See cuz all your stuff is unique yet maintains your spirit, but some other creators stuff doesnt have enough variety so it all feels the same? When i try to make my stuff i cant tell how much variety is enough or too much or too little, what do?</qco> </h3>      <a href=\"http://billwurtz.com/just-try-to-have-a-good-time.mp3\">just try to have a good time</a>\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.17&nbsp;\n9:11 pm</dco> &nbsp;<qco> did you know that in australia 'randy' means horny?&nbsp;</qco> </h3>      yes, i think it also means that in many places besides australia\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.17&nbsp;\n9:10 pm</dco> &nbsp;<qco> If we could somehow quantify the act of being reasonable, </qco></h3>      which i think is completely impossible<h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;would you want the unit to be called a Wurtz? </qco></h3>      absolutely not<h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I.e. if you're being completely unreasonable, you're operating at 0 Wurtz, but if you're super reasonable, that's maybe 6 Wurtz. I estimate you are at a level of about 7.9 Wurtz so I doubt we can go higher. Also it's logarithm like the Richter scale so every increment of 1 Wurtz is 10 times more reasonable than the last Wurtz (e.g. 5 Wurtz is 100 times more reasonable than 3 Wurtz)</qco> </h3>      \n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.17&nbsp;\n8:54 pm</dco> &nbsp;<qco> what is the true meaning of the \"hi, I'm steve\" song</qco> </h3>      there are 2 songs in that video\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.17&nbsp;\n8:46 pm</dco> &nbsp;<qco> How will I know when I have ceased to be mediocre? Or can I ever know?&nbsp;</qco> </h3>      you can decide for yourself. other people can decide too. maybe you both disagree you could fight\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.17&nbsp;\n8:43 pm</dco> &nbsp;<qco> do you think you will ever reach the point where you can link every question to one on your faq?&nbsp;</qco> </h3>      i can already do that with the majority of questions, but i've stopped doing that because i have been developing a more advanced way of dealing with those questions\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.17&nbsp;\n8:41 pm</dco> &nbsp;<qco> how do you overcome mediocrity</qco> </h3>      try rotating it\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.17&nbsp;\n8:40 pm</dco> &nbsp;<qco> are you excited about the project you are currently working on? i am! :)) i am always excited about what you are working on!&nbsp;</qco> </h3>      i still haven't actually been able to choose the next project. i have actually been answering questions the entire time since the last project was finished. it is a strange and problematic situation. also, before i choose the next project, i need to make 4 reality videos because i am supposed to be doing them every day and i haven't done them in 4 days, the 1st day because i was  finishing the 'movie star' video, and every subsequent day because i've been answering questions the entire time. also today i had to do another important task which was write the next 8 days worth of tweets\n\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.17&nbsp;\n7:48 pm</dco> &nbsp;<qco> When im in the random question \"page\" (accessed by the im feeling lucky button), there's a \"new random question\" button, but refreshing the page does the same thing. Why add a button instead of just writing somethinf like \"refresh for a new random question\" or, in bill wurtz style, \"ive added a button to your keyboard that serves you a new random question. Ive named it F5. Click it for a new random question\"</qco> </h3>      i think your solution is nice, but much much too complicated\n<br><br>"
+  },
+  {
+    "html": "<h3> <dco>8.5.17&nbsp;\n7:21 pm</dco> &nbsp;<qco> How long have you been interested in making music?</qco> </h3>      as long as i can remember\n<br><br>"
+  }
+]

@@ -1,0 +1,226 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Bill Wurtz Question Search</title>
+    <meta name="description" content="A searchable archive of questions and answers from billwurtz.com">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: monospace;
+            word-wrap: break-word;
+            background-color: #323232;
+            color: #FFFFFF;
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        a {
+            color: #00FF00;
+        }
+        a:visited {
+            color: #67FF79;
+        }
+        h1 {
+            font-family: initial;
+            font-weight: normal;
+        }
+        #search-container {
+            margin-bottom: 2em;
+        }
+        #search-bar {
+            width: 100%;
+            padding: 12px;
+            font-size: 1.2em;
+            border: 1px solid #555;
+            background-color: #222;
+            color: #fff;
+            border-radius: 4px;
+            box-sizing: border-box; /* Ensures padding doesn't affect width */
+        }
+        #results-info {
+            margin-top: 1em;
+            font-style: italic;
+            color: #ccc;
+        }
+        #results-container h3 {
+           margin-top: 2em;
+           margin-bottom: 1em;
+        }
+        mark {
+           background-color: #E9EC54;
+           color: #000;
+           padding: 1px 2px;
+           border-radius: 2px;
+        }
+        /* Styles copied directly from billwurtz.com/questions/questions.html */
+        dco { color:#E9EC54; }
+        rco { color:#ff6600; }
+        qco { color:#B387FF; }
+        green { color: #00cc00; }
+        blue { color: #5555ff; }
+        white { color: #000000; }
+        lightred { color: #ff6666; }
+        strike { text-decoration:line-through; }
+        red { color: #ff4444; }
+        yellow { color: #ffff00; }
+        lightgreen { color: #b3ffb3; }
+        .alignright { float: right; }
+        .alignleft { float: left; }
+        quotequestion{ margin:20px; padding:5px; display:block; background-color:#444; border: 1px solid black; }
+        quotedco{ color:#e9ec54; }
+        quoteqco{ color:#b387ff; }
+        quoteaco{ color:#ffffff; font-weight:normal; }
+    </style>
+</head>
+<body>
+    <h1>
+        Se<font color="#00EE3B">a</font>rch
+        Bill W<font color="#00EE3B">u</font>rtz
+        Qu<font color="#00EE3B">e</font>stions
+    </h1>
+
+    <div id="search-container">
+        <input type="search" id="search-bar" placeholder="search through space and time..." autofocus>
+        <div id="results-info">Loading questions from the archive...</div>
+    </div>
+
+    <div id="results-container"></div>
+
+    <script>
+        let allQuestions = [];
+        const searchInput = document.getElementById('search-bar');
+        const resultsContainer = document.getElementById('results-container');
+        const resultsInfo = document.getElementById('results-info');
+        const DATA_BASE_URL = 'https://adammady.github.io/billwurtzsearch/data/';
+
+        // Simple debounce function to prevent searching on every keystroke
+        function debounce(func, wait) {
+            let timeout;
+            return function executedFunction(...args) {
+                const later = () => {
+                    clearTimeout(timeout);
+                    func(...args);
+                };
+                clearTimeout(timeout);
+                timeout = setTimeout(later, wait);
+            };
+        }
+        
+        // Helper to get plain text from HTML for searching
+        function getTextContentFromHtml(html) {
+            const tempDiv = document.createElement('div');
+            tempDiv.innerHTML = html;
+            return tempDiv.textContent || tempDiv.innerText || "";
+        }
+        
+        // Highlights matching text by wrapping it in <mark> tags
+        function highlightText(html, query) {
+            const tempDiv = document.createElement('div');
+            tempDiv.innerHTML = html;
+            
+            const regex = new RegExp(query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'gi');
+            
+            // Using a TreeWalker to only search within text nodes
+            const walker = document.createTreeWalker(tempDiv, NodeFilter.SHOW_TEXT, null, false);
+            let node;
+            const nodesToProcess = [];
+            while(node = walker.nextNode()) {
+                if (node.textContent.toLowerCase().includes(query)) {
+                    nodesToProcess.push(node);
+                }
+            }
+            
+            nodesToProcess.forEach(node => {
+                const parent = node.parentNode;
+                const parts = node.textContent.split(regex);
+                const matches = node.textContent.match(regex);
+                
+                parts.forEach((part, index) => {
+                    if (part) {
+                        parent.insertBefore(document.createTextNode(part), node);
+                    }
+                    if (matches && matches[index]) {
+                        const mark = document.createElement('mark');
+                        mark.textContent = matches[index];
+                        parent.insertBefore(mark, node);
+                    }
+                });
+                parent.removeChild(node);
+            });
+
+            return tempDiv.innerHTML;
+        }
+
+        // The main search function
+        const performSearch = debounce(function() {
+            const query = searchInput.value.toLowerCase().trim();
+
+            if (!query) {
+                resultsContainer.innerHTML = '';
+                resultsInfo.textContent = `Loaded ${allQuestions.length.toLocaleString()} questions.`;
+                return;
+            }
+
+            const startTime = performance.now();
+            const filteredResults = allQuestions.filter(item => {
+                // Pre-calculate and cache the plain text to make searches faster
+                if (!item.plainText) {
+                    item.plainText = getTextContentFromHtml(item.html).toLowerCase();
+                }
+                return item.plainText.includes(query);
+            });
+            const endTime = performance.now();
+
+            resultsInfo.textContent = 
+                `${filteredResults.length.toLocaleString()} results found for "${query}" in ${Math.round(endTime - startTime)}ms.`;
+
+            // Using a document fragment for performance when adding many elements
+            const fragment = document.createDocumentFragment();
+            filteredResults.forEach(item => {
+                const div = document.createElement('div');
+                div.innerHTML = highlightText(item.html, query) + "<br><br>";
+                fragment.appendChild(div);
+            });
+
+            resultsContainer.innerHTML = ''; // Clear previous results
+            resultsContainer.appendChild(fragment);
+
+        }, 250); // 250ms debounce delay
+
+        // Load all the data on page load
+        async function loadData() {
+            try {
+                const manifestResponse = await fetch(`${DATA_BASE_URL}manifest.json`);
+                if (!manifestResponse.ok) throw new Error(`Failed to fetch manifest: ${manifestResponse.statusText}`);
+                const manifest = await manifestResponse.json();
+
+                const allFilePromises = manifest.files.map(file => 
+                    fetch(`${DATA_BASE_URL}${file}`).then(res => {
+                        if (!res.ok) throw new Error(`Failed to fetch ${file}: ${res.statusText}`);
+                        return res.json();
+                    })
+                );
+                
+                const allChunks = await Promise.all(allFilePromises);
+                
+                allQuestions = allChunks.flat();
+                
+                resultsInfo.textContent = `Loaded ${allQuestions.length.toLocaleString()} questions. Ready to search.`;
+                searchInput.addEventListener('input', performSearch);
+                searchInput.disabled = false;
+                searchInput.focus();
+
+            } catch (error) {
+                resultsInfo.textContent = 'Error: Could not load question data. Please check the console for details.';
+                searchInput.disabled = true;
+                console.error('Data loading error:', error);
+            }
+        }
+
+        // Initialize
+        searchInput.disabled = true; // Disable until data is loaded
+        window.onload = loadData;
+    </script>
+</body>
+</html>

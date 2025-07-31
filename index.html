@@ -36,16 +36,20 @@
             background-color: #222;
             color: #fff;
             border-radius: 4px;
-            box-sizing: border-box; /* Ensures padding doesn't affect width */
+            box-sizing: border-box;
         }
-        #results-info {
+        #results-info, #loading-indicator {
             margin-top: 1em;
             font-style: italic;
             color: #ccc;
+            text-align: center;
         }
         #results-container h3 {
            margin-top: 2em;
            margin-bottom: 1em;
+        }
+        .question-item {
+            margin-bottom: 2em;
         }
         mark {
            background-color: #E9EC54;
@@ -53,24 +57,9 @@
            padding: 1px 2px;
            border-radius: 2px;
         }
-        /* Styles copied directly from billwurtz.com/questions/questions.html */
+        /* Styles copied directly from billwurtz.com */
         dco { color:#E9EC54; }
-        rco { color:#ff6600; }
         qco { color:#B387FF; }
-        green { color: #00cc00; }
-        blue { color: #5555ff; }
-        white { color: #000000; }
-        lightred { color: #ff6666; }
-        strike { text-decoration:line-through; }
-        red { color: #ff4444; }
-        yellow { color: #ffff00; }
-        lightgreen { color: #b3ffb3; }
-        .alignright { float: right; }
-        .alignleft { float: left; }
-        quotequestion{ margin:20px; padding:5px; display:block; background-color:#444; border: 1px solid black; }
-        quotedco{ color:#e9ec54; }
-        quoteqco{ color:#b387ff; }
-        quoteaco{ color:#ffffff; font-weight:normal; }
     </style>
 </head>
 <body>
@@ -86,15 +75,25 @@
     </div>
 
     <div id="results-container"></div>
+    <div id="loading-indicator" style="display: none;">Loading more questions...</div>
 
     <script>
+        // --- State Management ---
         let allQuestions = [];
+        let fileManifest = [];
+        let currentFileIndex = 0;
+        let isLoadingMore = false;
+        let searchIsActive = false;
+        let allDataLoadedForSearch = false;
+
+        // --- DOM Elements ---
         const searchInput = document.getElementById('search-bar');
         const resultsContainer = document.getElementById('results-container');
         const resultsInfo = document.getElementById('results-info');
+        const loadingIndicator = document.getElementById('loading-indicator');
         const DATA_BASE_URL = 'https://adammady.github.io/billwurtzsearch/data/';
 
-        // Simple debounce function to prevent searching on every keystroke
+        // --- Utility Functions ---
         function debounce(func, wait) {
             let timeout;
             return function executedFunction(...args) {
@@ -106,65 +105,104 @@
                 timeout = setTimeout(later, wait);
             };
         }
-        
-        // Helper to get plain text from HTML for searching
+
         function getTextContentFromHtml(html) {
             const tempDiv = document.createElement('div');
             tempDiv.innerHTML = html;
-            return tempDiv.textContent || tempDiv.innerText || "";
+            return tempDiv.textContent || "";
+        }
+
+        // --- Rendering Functions ---
+        function renderQuestions(questions, highlightQuery = '') {
+            const fragment = document.createDocumentFragment();
+            questions.forEach(item => {
+                const div = document.createElement('div');
+                div.className = 'question-item';
+                let finalHtml = item.html;
+                if (highlightQuery) {
+                    const regex = new RegExp(highlightQuery.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'gi');
+                    finalHtml = finalHtml.replace(regex, match => `<mark>${match}</mark>`);
+                }
+                div.innerHTML = finalHtml;
+                fragment.appendChild(div);
+            });
+            resultsContainer.appendChild(fragment);
+        }
+
+        // --- Data Loading Functions ---
+        async function loadNextFile() {
+            if (isLoadingMore || currentFileIndex >= fileManifest.length) {
+                if (currentFileIndex >= fileManifest.length) {
+                     resultsInfo.textContent = `All ${allQuestions.length.toLocaleString()} questions loaded.`;
+                }
+                return;
+            }
+
+            isLoadingMore = true;
+            loadingIndicator.style.display = 'block';
+
+            try {
+                const fileName = fileManifest[currentFileIndex];
+                const response = await fetch(`${DATA_BASE_URL}${fileName}`);
+                if (!response.ok) throw new Error(`Failed to fetch ${fileName}`);
+                const newQuestions = await response.json();
+                
+                allQuestions.push(...newQuestions);
+                renderQuestions(newQuestions);
+                currentFileIndex++;
+                resultsInfo.textContent = `Showing ${allQuestions.length.toLocaleString()} questions...`;
+
+            } catch (error) {
+                console.error("Error loading more data:", error);
+                resultsInfo.textContent = 'Error loading more questions.';
+            } finally {
+                isLoadingMore = false;
+                loadingIndicator.style.display = 'none';
+            }
         }
         
-        // Highlights matching text by wrapping it in <mark> tags
-        function highlightText(html, query) {
-            const tempDiv = document.createElement('div');
-            tempDiv.innerHTML = html;
-            
-            const regex = new RegExp(query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'gi');
-            
-            // Using a TreeWalker to only search within text nodes
-            const walker = document.createTreeWalker(tempDiv, NodeFilter.SHOW_TEXT, null, false);
-            let node;
-            const nodesToProcess = [];
-            while(node = walker.nextNode()) {
-                if (node.textContent.toLowerCase().includes(query)) {
-                    nodesToProcess.push(node);
-                }
-            }
-            
-            nodesToProcess.forEach(node => {
-                const parent = node.parentNode;
-                const parts = node.textContent.split(regex);
-                const matches = node.textContent.match(regex);
-                
-                parts.forEach((part, index) => {
-                    if (part) {
-                        parent.insertBefore(document.createTextNode(part), node);
-                    }
-                    if (matches && matches[index]) {
-                        const mark = document.createElement('mark');
-                        mark.textContent = matches[index];
-                        parent.insertBefore(mark, node);
-                    }
-                });
-                parent.removeChild(node);
-            });
+        async function loadAllDataForSearch() {
+             if (allDataLoadedForSearch) return;
+             resultsInfo.textContent = `Loading all ${fileManifest.length * 50} questions for search...`;
+             isLoadingMore = true; // Prevent scrolling from triggering loads
+             
+             const filesToLoad = fileManifest.slice(currentFileIndex);
+             const promises = filesToLoad.map(file => fetch(`${DATA_BASE_URL}${file}`).then(res => res.json()));
 
-            return tempDiv.innerHTML;
+             try {
+                const remainingChunks = await Promise.all(promises);
+                remainingChunks.forEach(chunk => allQuestions.push(...chunk));
+                allDataLoadedForSearch = true;
+                currentFileIndex = fileManifest.length;
+             } catch (error) {
+                console.error("Failed to load all data for search:", error);
+                resultsInfo.textContent = "Could not load all data for search.";
+             } finally {
+                isLoadingMore = false;
+             }
         }
 
-        // The main search function
-        const performSearch = debounce(function() {
+
+        // --- Search Logic ---
+        const performSearch = debounce(async function() {
             const query = searchInput.value.toLowerCase().trim();
 
             if (!query) {
-                resultsContainer.innerHTML = '';
-                resultsInfo.textContent = `Loaded ${allQuestions.length.toLocaleString()} questions.`;
+                searchIsActive = false;
+                resultsContainer.innerHTML = ''; // Clear search results
+                renderQuestions(allQuestions); // Re-render what we have loaded
+                resultsInfo.textContent = `Showing ${allQuestions.length.toLocaleString()} questions...`;
                 return;
+            }
+
+            searchIsActive = true;
+            
+            if (!allDataLoadedForSearch) {
+                await loadAllDataForSearch();
             }
 
             const startTime = performance.now();
             const filteredResults = allQuestions.filter(item => {
-                // Pre-calculate and cache the plain text to make searches faster
                 if (!item.plainText) {
                     item.plainText = getTextContentFromHtml(item.html).toLowerCase();
                 }
@@ -173,54 +211,44 @@
             const endTime = performance.now();
 
             resultsInfo.textContent = 
-                `${filteredResults.length.toLocaleString()} results found for "${query}" in ${Math.round(endTime - startTime)}ms.`;
-
-            // Using a document fragment for performance when adding many elements
-            const fragment = document.createDocumentFragment();
-            filteredResults.forEach(item => {
-                const div = document.createElement('div');
-                div.innerHTML = highlightText(item.html, query) + "<br><br>";
-                fragment.appendChild(div);
-            });
+                `${filteredResults.length.toLocaleString()} results found in ${Math.round(endTime - startTime)}ms.`;
 
             resultsContainer.innerHTML = ''; // Clear previous results
-            resultsContainer.appendChild(fragment);
+            renderQuestions(filteredResults, query);
 
-        }, 250); // 250ms debounce delay
+        }, 300);
 
-        // Load all the data on page load
-        async function loadData() {
+        // --- Event Listeners ---
+        window.addEventListener('scroll', () => {
+            if (searchIsActive || isLoadingMore) return;
+            
+            // Check if user is near the bottom of the page
+            if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight - 500) {
+                loadNextFile();
+            }
+        });
+
+        // --- Initialization ---
+        async function initialize() {
+            searchInput.disabled = true;
             try {
                 const manifestResponse = await fetch(`${DATA_BASE_URL}manifest.json`);
-                if (!manifestResponse.ok) throw new Error(`Failed to fetch manifest: ${manifestResponse.statusText}`);
+                if (!manifestResponse.ok) throw new Error('Manifest not found');
                 const manifest = await manifestResponse.json();
+                fileManifest = manifest.files;
 
-                const allFilePromises = manifest.files.map(file => 
-                    fetch(`${DATA_BASE_URL}${file}`).then(res => {
-                        if (!res.ok) throw new Error(`Failed to fetch ${file}: ${res.statusText}`);
-                        return res.json();
-                    })
-                );
-                
-                const allChunks = await Promise.all(allFilePromises);
-                
-                allQuestions = allChunks.flat();
-                
-                resultsInfo.textContent = `Loaded ${allQuestions.length.toLocaleString()} questions. Ready to search.`;
-                searchInput.addEventListener('input', performSearch);
+                await loadNextFile(); // Load the first file
+
                 searchInput.disabled = false;
                 searchInput.focus();
-
+                searchInput.addEventListener('input', performSearch);
             } catch (error) {
-                resultsInfo.textContent = 'Error: Could not load question data. Please check the console for details.';
-                searchInput.disabled = true;
-                console.error('Data loading error:', error);
+                resultsInfo.textContent = 'Fatal Error: Could not load the question archive manifest. Please check the console.';
+                console.error(error);
             }
         }
 
-        // Initialize
-        searchInput.disabled = true; // Disable until data is loaded
-        window.onload = loadData;
+        window.onload = initialize;
     </script>
 </body>
 </html>

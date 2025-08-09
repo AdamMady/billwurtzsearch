@@ -74,7 +74,6 @@
     /* question-answer block */
     .question-item {
       margin-bottom:2em;
-      /* mimic sample spacing: small vertical gaps */
     }
     mark {
       background-color:#E9EC54;
@@ -83,7 +82,6 @@
       border-radius:2px;
     }
 
-    /* responsive fallback - but sample is wide */
     @media (max-width: 900px) {
       #search-container { flex-direction: column; }
     }
@@ -110,13 +108,14 @@
 
   <script>
     // configuration
-    const DATA_BASE_URL = './data/'; // adjust to where your manifest.json and JSON chunks live
-    let manifest = [];
-    let allItems = []; // items loaded via chunking (for display)
-    let searchableItems = null; // if searchable.json is present
+    const DATA_BASE_URL = './data/'; // where manifest.json and JSON chunks live
+    let manifestFiles = [];
+    let searchableFiles = []; // new: chunked searchable list from manifest.searchable
+    let allItems = [];        // items loaded via display chunking
+    let searchableItems = null; // array when loaded
     let loadedIndex = 0;
     let loading = false;
-    let fullLoadedForSearch = false; // used only when searchable.json missing
+    let fullLoadedForSearch = false; // used only if searchableFiles not present
     let searchActive = false;
 
     const searchBar = document.getElementById('search-bar');
@@ -131,7 +130,7 @@
     function getTextFromHTML(html) {
       const temp = document.createElement('div');
       temp.innerHTML = html;
-      return temp.textContent || '';
+      return (temp.textContent || '').replace(/\s+/g,' ').trim();
     }
 
     function renderBatch(items, highlight = '') {
@@ -161,7 +160,8 @@
         const resp = await fetch(`${DATA_BASE_URL}manifest.json`);
         if (!resp.ok) throw new Error('manifest fetch failed');
         const j = await resp.json();
-        manifest = Array.isArray(j.files) ? j.files : [];
+        manifestFiles = Array.isArray(j.files) ? j.files : [];
+        searchableFiles = Array.isArray(j.searchable) ? j.searchable : [];
       } catch (e) {
         console.error(e);
         resultsInfo.textContent = 'Failed to load manifest.';
@@ -170,19 +170,18 @@
 
     async function loadNextChunk() {
       if (loading) return;
-      if (loadedIndex >= manifest.length) {
+      if (loadedIndex >= manifestFiles.length) {
         resultsInfo.textContent = `All ${allItems.length.toLocaleString()} questions loaded.`;
         return;
       }
       loading = true;
       loadingIndicator.style.display = 'block';
       try {
-        const name = manifest[loadedIndex];
+        const name = manifestFiles[loadedIndex];
         const resp = await fetch(`${DATA_BASE_URL}${name}`);
         if (!resp.ok) throw new Error('chunk load failed');
         const arr = await resp.json();
         allItems.push(...arr);
-        // if not in search, render as we go
         if (!searchActive) renderBatch(arr, '');
         loadedIndex++;
         resultsInfo.textContent = searchActive
@@ -197,18 +196,21 @@
       }
     }
 
-    async function loadAllForSearch() {
+    async function loadAllForSearchFallback() {
       if (fullLoadedForSearch) return;
       resultsInfo.textContent = 'Loading full archive for search...';
       loadingIndicator.style.display = 'block';
       loading = true;
-      const remaining = manifest.slice(loadedIndex);
+      const remaining = manifestFiles.slice(loadedIndex);
       try {
-        const promises = remaining.map(n => fetch(`${DATA_BASE_URL}${n}`).then(r => r.json()));
-        const chunks = await Promise.all(promises);
-        chunks.forEach(c => allItems.push(...c));
+        // load sequentially to be nicer to the server
+        for (const n of remaining) {
+          const r = await fetch(`${DATA_BASE_URL}${n}`);
+          const c = await r.json();
+          allItems.push(...c);
+        }
         fullLoadedForSearch = true;
-        loadedIndex = manifest.length;
+        loadedIndex = manifestFiles.length;
       } catch (e) {
         console.error(e);
         resultsInfo.textContent = 'Failed to load full archive.';
@@ -218,25 +220,50 @@
       }
     }
 
-    async function loadSearchable() {
-      try {
-        const resp = await fetch(`${DATA_BASE_URL}searchable.json`);
-        if (!resp.ok) {
-          throw new Error('no searchable index');
-        }
-        const arr = await resp.json();
-        // ensure plainText exists
-        searchableItems = arr.map(item => {
-          if (!item.plainText) {
-            const txt = getTextFromHTML(item.html).toLowerCase();
-            return { ...item, plainText: txt };
+    async function loadSearchableIfNeeded() {
+      if (searchableItems) return; // already loaded
+      if (searchableFiles && searchableFiles.length > 0) {
+        try {
+          resultsInfo.textContent = 'Loading search index...';
+          loadingIndicator.style.display = 'block';
+          // load sequentially to avoid huge parallel bursts
+          const all = [];
+          for (const f of searchableFiles) {
+            const r = await fetch(`${DATA_BASE_URL}${f}`);
+            if (!r.ok) throw new Error(`failed ${f}`);
+            const a = await r.json();
+            if (Array.isArray(a)) all.push(...a);
           }
-          return item;
-        });
-        console.log(`[searchable] loaded ${searchableItems.length.toLocaleString()} items from searchable.json`);
-      } catch (e) {
-        console.warn('searchable.json not available or failed to load:', e.message);
-        searchableItems = null;
+          // normalize: ensure plainText exists
+          searchableItems = all.map(it => {
+            if (!it.plainText) {
+              return { html: it.html, plainText: getTextFromHTML(it.html).toLowerCase() };
+            }
+            return it;
+          });
+          resultsInfo.textContent = `Search index ready (${searchableItems.length.toLocaleString()} items).`;
+        } catch (e) {
+          console.warn('Could not load chunked searchable index:', e.message);
+          searchableItems = null;
+        } finally {
+          loadingIndicator.style.display = 'none';
+        }
+      } else {
+        // legacy fallback: try single searchable.json if present
+        try {
+          const r = await fetch(`${DATA_BASE_URL}searchable.json`);
+          if (!r.ok) throw new Error('no single searchable.json');
+          const a = await r.json();
+          searchableItems = a.map(it => {
+            if (!it.plainText) {
+              return { html: it.html, plainText: getTextFromHTML(it.html).toLowerCase() };
+            }
+            return it;
+          });
+          resultsInfo.textContent = `Search index ready (${searchableItems.length.toLocaleString()} items).`;
+        } catch {
+          searchableItems = null;
+        }
       }
     }
 
@@ -245,7 +272,6 @@
       if (!q) {
         searchActive = false;
         resultsContainer.innerHTML = '';
-        // if we have chunked items already, show those
         renderBatch(allItems);
         resultsInfo.textContent = `Showing ${allItems.length.toLocaleString()} questions...`;
         return;
@@ -256,7 +282,7 @@
       if (searchableItems) {
         filtered = searchableItems.filter(item => item.plainText.includes(q));
       } else {
-        // fallback: ensure full archive loaded
+        // fallback if no separate index
         filtered = allItems.filter(item => {
           if (!item.plainText) {
             item.plainText = getTextFromHTML(item.html).toLowerCase();
@@ -287,30 +313,29 @@
 
     searchBar.addEventListener('input', async (e) => {
       const v = e.target.value;
+      // prefer loading dedicated search index first (if available)
+      if (!searchableItems) {
+        await loadSearchableIfNeeded();
+      }
       if (!searchableItems && !fullLoadedForSearch) {
-        // only load all chunks if we don't have searchable.json
-        await loadAllForSearch();
+        // fallback only if no searchable index exists
+        await loadAllForSearchFallback();
       }
       debouncedSearch(v);
     });
 
     (async function init() {
       await loadManifest();
-      if (manifest.length === 0) return;
-      // start chunking display
+      if (manifestFiles.length === 0) {
+        resultsInfo.textContent = 'No data.';
+        return;
+      }
+      // start display chunking
       await loadNextChunk();
-      // prefetch next lightly in background
       setTimeout(() => loadNextChunk(), 500);
-      // try to get searchable index in parallel
-      loadSearchable().then(() => {
-        if (searchableItems) {
-          // optional: indicate searchable index is ready (could append small note)
-          // e.g., adjust results-info if empty search
-          if (!searchActive) {
-            resultsInfo.textContent = `Showing ${allItems.length.toLocaleString()} questions (search index ready).`;
-          }
-        }
-      });
+
+      // OPTIONAL: warm-load search index in background (comment out if too heavy)
+      // loadSearchableIfNeeded();
     })();
   </script>
 </body>

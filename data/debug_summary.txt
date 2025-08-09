@@ -1,3 +1,5 @@
-existing=132283
-new=132148
-combined=264431
+--- SUMMARY ---
+Existing blocks before: 264431
+New blocks this run:   1565
+Combined expected:     265996
+searchable.json count: 265996

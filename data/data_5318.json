@@ -1,0 +1,641 @@
+[
+  {
+    "html": "<h3> <dco>1.18.18&nbsp;\n8:13 am</dco> &nbsp;<qco> will you take my money?</qco> </h3><a href=\"http://billwurtz.com/donate.html\">sure</a>",
+    "original_html": "<h3> <dco>1.18.18&nbsp;\n8:13 am</dco> &nbsp;<qco> will you take my money?</qco> </h3><a href=\"http://billwurtz.com/donate.html\">sure</a>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.18.18&nbsp;\n12:20 am</dco> &nbsp;<qco> can I give you $10000?</qco> </h3><a href=\"http://billwurtz.com/donate.html\">sure</a>",
+    "original_html": "<h3> <dco>1.18.18&nbsp;\n12:20 am</dco> &nbsp;<qco> can I give you $10000?</qco> </h3><a href=\"http://billwurtz.com/donate.html\">sure</a>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.17.18&nbsp;\n10:34 pm</dco> &nbsp;<qco> <a href=\"q.php?date=201801162052\">1.16.18&nbsp;&nbsp;8:52 pm</a>  how did you spell it the first time</qco> </h3><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201801162052\">https://billwurtz.com/questions/q.php?date=201801162052</a></quotedco><br><quoteaco><h3><dco>1.16.18&nbsp;\n8:52 pm</dco> &nbsp;<qco> Can you release the new song on Spotify?&nbsp;</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;it would be there already if i didn't spell it wrong the first time\n<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>1.17.18&nbsp;\n10:34 pm</dco> &nbsp;<qco> <a href=\"q.php?date=201801162052\">1.16.18&nbsp;&nbsp;8:52 pm</a>  how did you spell it the first time</qco> </h3>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201801162052"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201801162052",
+        "html": "<h3><dco>1.16.18&nbsp;\n8:52 pm</dco> &nbsp;<qco> Can you release the new song on Spotify?&nbsp;</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;it would be there already if i didn't spell it wrong the first time\n<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>1.17.18&nbsp;\n9:27 pm</dco> &nbsp;<qco> <a href=\"q.php?date=201801162227b\">1.16.18&nbsp;&nbsp;10:27 pm</a>  i can beat a stick against a garbage can of differentiating sizes. is that acceptable?</qco> </h3><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201801162227b\">https://billwurtz.com/questions/q.php?date=201801162227b</a></quotedco><br><quoteaco><h3><dco>1.16.18&nbsp;\n10:27 pm</dco> &nbsp;<qco> I can play a triangle, will you hire me?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i'm looking for 1 percussionist, who has strong skills on a variety of percussion instruments, such as congas, tambourines, shakers, castanets, cabasa, blocks, various other things. surprise me... bring something i have never heard before.\n<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>1.17.18&nbsp;\n9:27 pm</dco> &nbsp;<qco> <a href=\"q.php?date=201801162227b\">1.16.18&nbsp;&nbsp;10:27 pm</a>  i can beat a stick against a garbage can of differentiating sizes. is that acceptable?</qco> </h3>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201801162227b"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201801162227b",
+        "html": "<h3><dco>1.16.18&nbsp;\n10:27 pm</dco> &nbsp;<qco> I can play a triangle, will you hire me?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i'm looking for 1 percussionist, who has strong skills on a variety of percussion instruments, such as congas, tambourines, shakers, castanets, cabasa, blocks, various other things. surprise me... bring something i have never heard before.\n<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>1.17.18&nbsp;\n8:28 pm</dco> &nbsp;<qco> <a href=\"q.php?date=201801162332\">1.16.18&nbsp;&nbsp;11:32 pm</a> where have you seen this?</qco> </h3><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201801162332\">https://billwurtz.com/questions/q.php?date=201801162332</a></quotedco><br><quoteaco><h3><dco>1.16.18&nbsp;\n11:32 pm</dco> &nbsp;<qco> I just got my very humble home recording setup, well, set up. It's been years since I had anything besides a tape recorder and I'm pumped because I immediately felt inspried to start a couple songs! My goal of this year is to write and record a whole album and I plan on playing most if not all of the instruments myself. Do you have any advice or even lips about the process of doing it all yourself?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i would suggest starting with much smaller projects. getting a brand new system and starting with a large project might be a recipe for disaster.... i think i've seen this before .... \n<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>1.17.18&nbsp;\n8:28 pm</dco> &nbsp;<qco> <a href=\"q.php?date=201801162332\">1.16.18&nbsp;&nbsp;11:32 pm</a> where have you seen this?</qco> </h3>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201801162332"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201801162332",
+        "html": "<h3><dco>1.16.18&nbsp;\n11:32 pm</dco> &nbsp;<qco> I just got my very humble home recording setup, well, set up. It's been years since I had anything besides a tape recorder and I'm pumped because I immediately felt inspried to start a couple songs! My goal of this year is to write and record a whole album and I plan on playing most if not all of the instruments myself. Do you have any advice or even lips about the process of doing it all yourself?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i would suggest starting with much smaller projects. getting a brand new system and starting with a large project might be a recipe for disaster.... i think i've seen this before .... \n<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>1.17.18&nbsp; \n2:22 pm</dco> &nbsp;<qco> <a href=\"q.php?date=201801162137b\">1.16.18&nbsp;&nbsp;9:37 pm</a>  i mean me starting a conversation with a woman with the intent of seducing her by saying \"hey have you seen this cool song on youtube\" do you think it will work</qco> </h3><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201801162137b\">https://billwurtz.com/questions/q.php?date=201801162137b</a></quotedco><br><quoteaco><h3><dco>1.16.18&nbsp;\n9:37 pm</dco> &nbsp;<qco> your new video is a fucking banger my guy, what do u think of me trying to seduce a woman with it</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;do you think she won't find out you didn't make it\n<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>1.17.18&nbsp; \n2:22 pm</dco> &nbsp;<qco> <a href=\"q.php?date=201801162137b\">1.16.18&nbsp;&nbsp;9:37 pm</a>  i mean me starting a conversation with a woman with the intent of seducing her by saying \"hey have you seen this cool song on youtube\" do you think it will work</qco> </h3>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201801162137b"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201801162137b",
+        "html": "<h3><dco>1.16.18&nbsp;\n9:37 pm</dco> &nbsp;<qco> your new video is a fucking banger my guy, what do u think of me trying to seduce a woman with it</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;do you think she won't find out you didn't make it\n<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>1.17.18&nbsp;\n1:55 am</dco> &nbsp;<qco> <a href=\"q.php?date=201801141844\">1.14.18&nbsp;&nbsp;6:44 pm</a>  Yet that perspective is acceptable when you talk about music.</qco> </h3><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201801141844\">https://billwurtz.com/questions/q.php?date=201801141844</a></quotedco><br><quoteaco><h3><dco>1.14.18&nbsp;\n6:44 pm</dco> &nbsp;<qco> do you need help with the website? </qco></h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;no<h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cause this site hurts every developer's eyes\n</qco></h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;that's not why i made it, but i would suggest viewing the site from the front, not the back, which i think is a mistake developers often make when viewing sites<h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No bad intentions, seriously asking</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>1.17.18&nbsp;\n1:55 am</dco> &nbsp;<qco> <a href=\"q.php?date=201801141844\">1.14.18&nbsp;&nbsp;6:44 pm</a>  Yet that perspective is acceptable when you talk about music.</qco> </h3>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201801141844"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201801141844",
+        "html": "<h3><dco>1.14.18&nbsp;\n6:44 pm</dco> &nbsp;<qco> do you need help with the website? </qco></h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;no<h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cause this site hurts every developer's eyes\n</qco></h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;that's not why i made it, but i would suggest viewing the site from the front, not the back, which i think is a mistake developers often make when viewing sites<h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No bad intentions, seriously asking</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>1.16.18&nbsp;\n10:49 pm</dco> &nbsp;<qco> <a href=\"q.php?date=201705200711\">5.20.17&nbsp;&nbsp;7:11 am</a> are you getting more points now that you have found an alternative strategy for addressing most FAQs?</qco> </h3><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201705200711\">https://billwurtz.com/questions/q.php?date=201705200711</a></quotedco><br><quoteaco><h3><dco>5.20.17&nbsp;\n7:11 am</dco> &nbsp;<qco> isn't it faster to just answer a question rather than link to the page with other similar questions?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;yes that would be faster, but i would get less points, and become weaker\n<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>1.16.18&nbsp;\n10:49 pm</dco> &nbsp;<qco> <a href=\"q.php?date=201705200711\">5.20.17&nbsp;&nbsp;7:11 am</a> are you getting more points now that you have found an alternative strategy for addressing most FAQs?</qco> </h3>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201705200711"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201705200711",
+        "html": "<h3><dco>5.20.17&nbsp;\n7:11 am</dco> &nbsp;<qco> isn't it faster to just answer a question rather than link to the page with other similar questions?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;yes that would be faster, but i would get less points, and become weaker\n<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>1.16.18&nbsp;\n8:00 pm</dco> &nbsp;<qco> any deep Bill Wurtz Lore behind the \"now hiring all positions\" poster in ur room</qco> </h3><a href=\"q.php?date=201606212141\">6.21.16&nbsp;&nbsp;9:41 pm</a><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201606212141\">https://billwurtz.com/questions/q.php?date=201606212141</a></quotedco><br><quoteaco><h3><dco>6.21.16&nbsp;\n9:41 pm</dco> &nbsp;<qco> where did you get the \"hiring all positions\" poster on your wall?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;it was there when i got here\n<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>1.16.18&nbsp;\n8:00 pm</dco> &nbsp;<qco> any deep Bill Wurtz Lore behind the \"now hiring all positions\" poster in ur room</qco> </h3><a href=\"q.php?date=201606212141\">6.21.16&nbsp;&nbsp;9:41 pm</a>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201606212141"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201606212141",
+        "html": "<h3><dco>6.21.16&nbsp;\n9:41 pm</dco> &nbsp;<qco> where did you get the \"hiring all positions\" poster on your wall?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;it was there when i got here\n<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>1.16.18&nbsp;\n1:10 pm</dco> &nbsp;<qco> <a href=\"q.php?date=201801152112\">1.15.18&nbsp;&nbsp;9:12 pm</a>  after you fire yourself, do you have to re-apply and convince the boss (also you) that you are a good worker and will get the job done? </qco></h3><h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Or do you just hire yourself back right away?&nbsp;</qco> </h3><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201801152112\">https://billwurtz.com/questions/q.php?date=201801152112</a></quotedco><br><quoteaco><h3><dco>1.15.18&nbsp;\n9:12 pm</dco> &nbsp;<qco> Have you ever fired yourself?&nbsp;</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;every day bro\n<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>1.16.18&nbsp;\n1:10 pm</dco> &nbsp;<qco> <a href=\"q.php?date=201801152112\">1.15.18&nbsp;&nbsp;9:12 pm</a>  after you fire yourself, do you have to re-apply and convince the boss (also you) that you are a good worker and will get the job done? </qco></h3><h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Or do you just hire yourself back right away?&nbsp;</qco> </h3>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201801152112"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201801152112",
+        "html": "<h3><dco>1.15.18&nbsp;\n9:12 pm</dco> &nbsp;<qco> Have you ever fired yourself?&nbsp;</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;every day bro\n<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>1.15.18&nbsp;\n10:14 pm</dco> &nbsp;<qco> <a href=\"q.php?date=201801141440\">1.14.18&nbsp;&nbsp;2:40 pm</a>  what was the story about?</qco> </h3><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201801141440\">https://billwurtz.com/questions/q.php?date=201801141440</a></quotedco><br><quoteaco><h3><dco>1.14.18&nbsp;\n2:40 pm</dco> &nbsp;<qco> when was the last time you came up with an elaborate fictional story</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;june 23, 2017\n\n\n<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>1.15.18&nbsp;\n10:14 pm</dco> &nbsp;<qco> <a href=\"q.php?date=201801141440\">1.14.18&nbsp;&nbsp;2:40 pm</a>  what was the story about?</qco> </h3>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201801141440"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201801141440",
+        "html": "<h3><dco>1.14.18&nbsp;\n2:40 pm</dco> &nbsp;<qco> when was the last time you came up with an elaborate fictional story</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;june 23, 2017\n\n\n<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>1.13.18&nbsp;\n11:06 pm</dco> &nbsp;<qco> there's a quote i saw of your's from a while ago, about your process of making content and about how you swallowed as much content as you could and bottled it up until you couldn't help but make content yourself, i can't find it, but I really liked it and wanted to thank you for inspiring me and also could you please find that quote or say it again because it was really good and i'm 100% sure you said it and i thought i wrote it down but i guess i didn't but thanks again for being such a wonderful person and i hope you're enjoying the new year thank you and have a gooood dayyyy</qco> </h3><a href=\"q.php?date=201611151146\">11.15.16  11:46 am</a><a href=\"q.php?date=201704292314a\">4.29.17  11:14 pm</a><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201611151146\">https://billwurtz.com/questions/q.php?date=201611151146</a></quotedco><br><quoteaco><h3><dco>11.15.16&nbsp;\n11:46 am</dco> &nbsp;<qco> From all previous indications it seems as though you spend a very significant amount of time creating, and spend very little time consuming things others have created. Do you think that has influenced the way you create things, or that allowing yourself to consume more things would influence the way you create things? And do you do this because you don't enjoy consuming things, or because you want to spend more of your limited time on creating things? (Things meaning videos, songs, images, stories, and the suchlike.)</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i am on a 2 step program. step one is consume as many different types of content as possible, for many years, and get more and more enriched while also becoming more and more sad and jealous, wanting more and more desperately to create your own content, knowing and hoping in the future that some day the whole thing will flip around and you will be making mad content regularly. step 2 is when it actually does flip around and you start actually doing the content. currently on step 2\n<br><br><h3> \n</h3></quoteaco></quotequestion><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201704292314a\">https://billwurtz.com/questions/q.php?date=201704292314a</a></quotedco><br><quoteaco><h3><dco>4.29.17&nbsp;\n11:14 pm</dco> &nbsp;<qco> do you spend time looking at other people's art + creations too. I think most people spend more time listening to or looking at other people's creations than actually creating, but it depends what you mean by creating I guess, do you think you are the same?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i am on a 2 step program. step one is consume as many different types of content as possible, for many years, and get more and more enriched while also becoming more and more sad and jealous, wanting more and more desperately to create your own content, knowing and hoping in the future that some day the whole thing will flip around and you will be making mad content regularly. step 2 is when it actually does flip around and you start actually doing the content. currently on step 2 \n<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>1.13.18&nbsp;\n11:06 pm</dco> &nbsp;<qco> there's a quote i saw of your's from a while ago, about your process of making content and about how you swallowed as much content as you could and bottled it up until you couldn't help but make content yourself, i can't find it, but I really liked it and wanted to thank you for inspiring me and also could you please find that quote or say it again because it was really good and i'm 100% sure you said it and i thought i wrote it down but i guess i didn't but thanks again for being such a wonderful person and i hope you're enjoying the new year thank you and have a gooood dayyyy</qco> </h3><a href=\"q.php?date=201611151146\">11.15.16  11:46 am</a><a href=\"q.php?date=201704292314a\">4.29.17  11:14 pm</a>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201611151146",
+      "https://billwurtz.com/questions/q.php?date=201704292314a"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201611151146",
+        "html": "<h3><dco>11.15.16&nbsp;\n11:46 am</dco> &nbsp;<qco> From all previous indications it seems as though you spend a very significant amount of time creating, and spend very little time consuming things others have created. Do you think that has influenced the way you create things, or that allowing yourself to consume more things would influence the way you create things? And do you do this because you don't enjoy consuming things, or because you want to spend more of your limited time on creating things? (Things meaning videos, songs, images, stories, and the suchlike.)</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i am on a 2 step program. step one is consume as many different types of content as possible, for many years, and get more and more enriched while also becoming more and more sad and jealous, wanting more and more desperately to create your own content, knowing and hoping in the future that some day the whole thing will flip around and you will be making mad content regularly. step 2 is when it actually does flip around and you start actually doing the content. currently on step 2\n<br><br><h3> \n</h3>"
+      },
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201704292314a",
+        "html": "<h3><dco>4.29.17&nbsp;\n11:14 pm</dco> &nbsp;<qco> do you spend time looking at other people's art + creations too. I think most people spend more time listening to or looking at other people's creations than actually creating, but it depends what you mean by creating I guess, do you think you are the same?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i am on a 2 step program. step one is consume as many different types of content as possible, for many years, and get more and more enriched while also becoming more and more sad and jealous, wanting more and more desperately to create your own content, knowing and hoping in the future that some day the whole thing will flip around and you will be making mad content regularly. step 2 is when it actually does flip around and you start actually doing the content. currently on step 2 \n<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>1.13.18&nbsp;\n7:10 pm</dco> &nbsp;<qco> <a href=\"q.php?date=201801122239\">1.12.18&nbsp;&nbsp;10:39 pm</a>  i think he ment this question page not using 24 hour time</qco> </h3><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201801122239\">https://billwurtz.com/questions/q.php?date=201801122239</a></quotedco><br><quoteaco><h3><dco>1.12.18&nbsp;\n10:39 pm</dco> &nbsp;<qco> <a href=\"q.php?date=201801122015\">1.12.18&nbsp;&nbsp;8:15 pm</a>  if you prefer 24 then why don't you use it?</qco></h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i do<h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; not trying to be rude or anything, just curious.</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>1.13.18&nbsp;\n7:10 pm</dco> &nbsp;<qco> <a href=\"q.php?date=201801122239\">1.12.18&nbsp;&nbsp;10:39 pm</a>  i think he ment this question page not using 24 hour time</qco> </h3>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201801122239"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201801122239",
+        "html": "<h3><dco>1.12.18&nbsp;\n10:39 pm</dco> &nbsp;<qco> <a href=\"q.php?date=201801122015\">1.12.18&nbsp;&nbsp;8:15 pm</a>  if you prefer 24 then why don't you use it?</qco></h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i do<h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; not trying to be rude or anything, just curious.</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>1.12.18&nbsp;\n10:39 pm</dco> &nbsp;<qco> <a href=\"q.php?date=201801122015\">1.12.18&nbsp;&nbsp;8:15 pm</a>  if you prefer 24 then why don't you use it?</qco></h3><h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; not trying to be rude or anything, just curious.</qco> </h3><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201801122015\">https://billwurtz.com/questions/q.php?date=201801122015</a></quotedco><br><quoteaco><h3><dco>1.12.18&nbsp;\n8:15 pm</dco> &nbsp;<qco> do you prefer 12 hour format (ex. 4:00pm) or 24 hour format (ex. 16:00)?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;24\n<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>1.12.18&nbsp;\n10:39 pm</dco> &nbsp;<qco> <a href=\"q.php?date=201801122015\">1.12.18&nbsp;&nbsp;8:15 pm</a>  if you prefer 24 then why don't you use it?</qco></h3><h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; not trying to be rude or anything, just curious.</qco> </h3>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201801122015"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201801122015",
+        "html": "<h3><dco>1.12.18&nbsp;\n8:15 pm</dco> &nbsp;<qco> do you prefer 12 hour format (ex. 4:00pm) or 24 hour format (ex. 16:00)?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;24\n<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>1.12.18&nbsp;\n10:31 pm</dco> &nbsp;<qco> <a href=\"q.php?date=201801121104\">1.12.18&nbsp;&nbsp;11:04 am</a>  ok why was that car so noisy?</qco> </h3><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201801121104\">https://billwurtz.com/questions/q.php?date=201801121104</a></quotedco><br><quoteaco><h3><dco>1.12.18&nbsp;\n11:04 am</dco> &nbsp;<qco> <a href=\"q.php?date=201801120157\">1.12.18&nbsp;&nbsp;1:57 am</a>  in the reality vids there's always the background noise from your car.</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;how do you know that's the car i currently have\n<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>1.12.18&nbsp;\n10:31 pm</dco> &nbsp;<qco> <a href=\"q.php?date=201801121104\">1.12.18&nbsp;&nbsp;11:04 am</a>  ok why was that car so noisy?</qco> </h3>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201801121104"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201801121104",
+        "html": "<h3><dco>1.12.18&nbsp;\n11:04 am</dco> &nbsp;<qco> <a href=\"q.php?date=201801120157\">1.12.18&nbsp;&nbsp;1:57 am</a>  in the reality vids there's always the background noise from your car.</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;how do you know that's the car i currently have\n<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>1.12.18&nbsp;\n11:31 am</dco> &nbsp;<qco> <a href=\"q.php?date=201801112241\">1.11.18&nbsp;&nbsp;10:41 pm</a>  Let me give you a clue. The letter D is a major 3rd.&nbsp;</qco> </h3><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201801112241\">https://billwurtz.com/questions/q.php?date=201801112241</a></quotedco><br><quoteaco><h3><dco>1.11.18&nbsp;\n10:41 pm</dco> &nbsp;<qco> How's your 2018 so far?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;good\n<br><br><h3> </h3><h3><dco>1.11.18&nbsp;\n10:41 pm</dco> &nbsp;<qco> dsasdddsssdggdsasdddassdsa (guess the song)</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ndsasdddsssdggdsasdddassdsa\n<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>1.12.18&nbsp;\n11:31 am</dco> &nbsp;<qco> <a href=\"q.php?date=201801112241\">1.11.18&nbsp;&nbsp;10:41 pm</a>  Let me give you a clue. The letter D is a major 3rd.&nbsp;</qco> </h3>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201801112241"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201801112241",
+        "html": "<h3><dco>1.11.18&nbsp;\n10:41 pm</dco> &nbsp;<qco> How's your 2018 so far?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;good\n<br><br><h3> </h3><h3><dco>1.11.18&nbsp;\n10:41 pm</dco> &nbsp;<qco> dsasdddsssdggdsasdddassdsa (guess the song)</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ndsasdddsssdggdsasdddassdsa\n<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>1.12.18&nbsp;\n11:04 am</dco> &nbsp;<qco> <a href=\"q.php?date=201801120157\">1.12.18&nbsp;&nbsp;1:57 am</a>  in the reality vids there's always the background noise from your car.</qco> </h3><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201801120157\">https://billwurtz.com/questions/q.php?date=201801120157</a></quotedco><br><quoteaco><h3><dco>1.12.18&nbsp;\n1:57 am</dco> &nbsp;<qco> why is your car so noisy?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;why do you think my car is noisy\n<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>1.12.18&nbsp;\n11:04 am</dco> &nbsp;<qco> <a href=\"q.php?date=201801120157\">1.12.18&nbsp;&nbsp;1:57 am</a>  in the reality vids there's always the background noise from your car.</qco> </h3>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201801120157"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201801120157",
+        "html": "<h3><dco>1.12.18&nbsp;\n1:57 am</dco> &nbsp;<qco> why is your car so noisy?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;why do you think my car is noisy\n<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>1.10.18&nbsp;\n5:45 pm</dco> &nbsp;<qco> <a href=\"q.php?date=201801081930\">1.8.18&nbsp;&nbsp;7:30 pm</a>  What is the first thing you do when making a song?</qco> </h3><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201801081930\">https://billwurtz.com/questions/q.php?date=201801081930</a></quotedco><br><quoteaco><h3><dco>1.8.18&nbsp;\n7:30 pm</dco> &nbsp;<qco> when writing a song, do you find that it's better to write a chord progression first, then make a melody with those chords, or to write a melody first and then find chords that work for that melody?\n<br></qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;both at the same time\n<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>1.10.18&nbsp;\n5:45 pm</dco> &nbsp;<qco> <a href=\"q.php?date=201801081930\">1.8.18&nbsp;&nbsp;7:30 pm</a>  What is the first thing you do when making a song?</qco> </h3>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201801081930"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201801081930",
+        "html": "<h3><dco>1.8.18&nbsp;\n7:30 pm</dco> &nbsp;<qco> when writing a song, do you find that it's better to write a chord progression first, then make a melody with those chords, or to write a melody first and then find chords that work for that melody?\n<br></qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;both at the same time\n<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>1.8.18&nbsp;\n6:33 am</dco> &nbsp;<qco> <a href=\"q.php?date=201801071035\">1.7.18&nbsp;&nbsp;10:35 am</a>  It's clearly underrepresented, but the type of data you collect doesn't show this. The average capital/lower case letter ratio is already bad enough in other texts. Two cases, should be fifty-fifty if we actually want EQUALITY between the two cases.</qco> </h3><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201801071035\">https://billwurtz.com/questions/q.php?date=201801071035</a></quotedco><br><quoteaco><h3><dco>1.7.18&nbsp; \n10:35 am</dco> &nbsp;<qco> why are you racist towards CAPITAL letters?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;why are you so oblivious to my <a href=\"capitals-report.php\">use of them</a><br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>1.8.18&nbsp;\n6:33 am</dco> &nbsp;<qco> <a href=\"q.php?date=201801071035\">1.7.18&nbsp;&nbsp;10:35 am</a>  It's clearly underrepresented, but the type of data you collect doesn't show this. The average capital/lower case letter ratio is already bad enough in other texts. Two cases, should be fifty-fifty if we actually want EQUALITY between the two cases.</qco> </h3>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201801071035"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201801071035",
+        "html": "<h3><dco>1.7.18&nbsp; \n10:35 am</dco> &nbsp;<qco> why are you racist towards CAPITAL letters?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;why are you so oblivious to my <a href=\"capitals-report.php\">use of them</a><br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>1.7.18&nbsp; \n10:45 am</dco> &nbsp;<qco> Can you tell me a bedtime story?</qco> </h3><a href=\"q.php?date=201704190205\">4.19.17&nbsp;&nbsp;2:05 am</a><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201704190205\">https://billwurtz.com/questions/q.php?date=201704190205</a></quotedco><br><quoteaco><h3><dco>4.19.17&nbsp;\n2:05 am</dco> &nbsp;<qco> would you please tell me a little bedtime story?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;once upon a time there was a bed\n<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>1.7.18&nbsp; \n10:45 am</dco> &nbsp;<qco> Can you tell me a bedtime story?</qco> </h3><a href=\"q.php?date=201704190205\">4.19.17&nbsp;&nbsp;2:05 am</a>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201704190205"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201704190205",
+        "html": "<h3><dco>4.19.17&nbsp;\n2:05 am</dco> &nbsp;<qco> would you please tell me a little bedtime story?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;once upon a time there was a bed\n<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>1.7.18&nbsp; \n7:42 am</dco> &nbsp;<qco> <a href=\"q.php?date=201801020814\">1.2.18&nbsp;&nbsp;8:14 am</a> \n<br>\n<br>so, what's your favorite thing about humanity?</qco> </h3><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201801020814\">https://billwurtz.com/questions/q.php?date=201801020814</a></quotedco><br><quoteaco><h3><dco>1.2.18&nbsp;\n8:14 am</dco> &nbsp;<qco> Least favourite thing about humanity?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;obsession with 'favoritism'\n<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>1.7.18&nbsp; \n7:42 am</dco> &nbsp;<qco> <a href=\"q.php?date=201801020814\">1.2.18&nbsp;&nbsp;8:14 am</a> \n<br>\n<br>so, what's your favorite thing about humanity?</qco> </h3>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201801020814"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201801020814",
+        "html": "<h3><dco>1.2.18&nbsp;\n8:14 am</dco> &nbsp;<qco> Least favourite thing about humanity?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;obsession with 'favoritism'\n<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>1.7.18&nbsp; \n6:40 am</dco> &nbsp;<qco> <a href=\"q.php?date=201801060635\">1.6.18&nbsp;&nbsp;6:35 am</a>  no like I'm a person who you inspired to start making music and I'm asking from a place of ignorance</qco> </h3><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201801060635\">https://billwurtz.com/questions/q.php?date=201801060635</a></quotedco><br><quoteaco><h3><dco>1.6.18&nbsp;\n6:35 am</dco> &nbsp;<qco> what's the point in beaming notes?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if you think your life would be better without beaming notes, be my guest. write everything without beams. but don't come crying to me if you decide u need the beams\n<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>1.7.18&nbsp; \n6:40 am</dco> &nbsp;<qco> <a href=\"q.php?date=201801060635\">1.6.18&nbsp;&nbsp;6:35 am</a>  no like I'm a person who you inspired to start making music and I'm asking from a place of ignorance</qco> </h3>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201801060635"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201801060635",
+        "html": "<h3><dco>1.6.18&nbsp;\n6:35 am</dco> &nbsp;<qco> what's the point in beaming notes?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if you think your life would be better without beaming notes, be my guest. write everything without beams. but don't come crying to me if you decide u need the beams\n<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>1.6.18&nbsp;\n6:14 pm</dco> &nbsp;<qco> what would you talk about if you did a TED talk</qco> </h3><a href=\"q.php?date=201711081745\">11.8.17&nbsp;&nbsp;5:45 pm</a><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201711081745\">https://billwurtz.com/questions/q.php?date=201711081745</a></quotedco><br><quoteaco><h3><dco>11.8.17&nbsp;\n5:45 pm</dco> &nbsp;<qco> what would you talk about if you had to give a ted talk</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ted\n<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>1.6.18&nbsp;\n6:14 pm</dco> &nbsp;<qco> what would you talk about if you did a TED talk</qco> </h3><a href=\"q.php?date=201711081745\">11.8.17&nbsp;&nbsp;5:45 pm</a>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201711081745"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201711081745",
+        "html": "<h3><dco>11.8.17&nbsp;\n5:45 pm</dco> &nbsp;<qco> what would you talk about if you had to give a ted talk</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ted\n<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>1.6.18&nbsp;\n5:24 pm</dco> &nbsp;<qco> <a href=\"q.php?date=201801052230\">1.5.18&nbsp;&nbsp;10:30 pm</a>  Why is it called that if it has no Eb</qco> </h3><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201801052230\">https://billwurtz.com/questions/q.php?date=201801052230</a></quotedco><br><quoteaco><h3><dco>1.5.18&nbsp;\n10:30 pm</dco> &nbsp;<qco> what is this second chord? It seems like a Fsus4 but i cant seem to figure the voicing out\n<br>\n<br>https://www.youtube.com/watch?v=bH3ZvmQxqak</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\nthat would be known as Eb over F, or you could call it F9sus4(no 5) if you prefer<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>1.6.18&nbsp;\n5:24 pm</dco> &nbsp;<qco> <a href=\"q.php?date=201801052230\">1.5.18&nbsp;&nbsp;10:30 pm</a>  Why is it called that if it has no Eb</qco> </h3>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201801052230"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201801052230",
+        "html": "<h3><dco>1.5.18&nbsp;\n10:30 pm</dco> &nbsp;<qco> what is this second chord? It seems like a Fsus4 but i cant seem to figure the voicing out\n<br>\n<br>https://www.youtube.com/watch?v=bH3ZvmQxqak</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\nthat would be known as Eb over F, or you could call it F9sus4(no 5) if you prefer<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>1.6.18&nbsp;\n1:03 am</dco> &nbsp;<qco> <a href=\"q.php?date=201801041155\">1.4.18&nbsp;&nbsp;11:55 am</a>  Why do you say that rather than I don't know?</qco> </h3><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201801041155\">https://billwurtz.com/questions/q.php?date=201801041155</a></quotedco><br><quoteaco><h3><dco>1.4.18&nbsp;\n11:55 am</dco> &nbsp;<qco> on a scale from 1-10, how done is the new video?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i can't tell you\n<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>1.6.18&nbsp;\n1:03 am</dco> &nbsp;<qco> <a href=\"q.php?date=201801041155\">1.4.18&nbsp;&nbsp;11:55 am</a>  Why do you say that rather than I don't know?</qco> </h3>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201801041155"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201801041155",
+        "html": "<h3><dco>1.4.18&nbsp;\n11:55 am</dco> &nbsp;<qco> on a scale from 1-10, how done is the new video?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i can't tell you\n<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>1.5.18&nbsp;\n9:17 am</dco> &nbsp;<qco> does buying merch help financially support you?</qco> </h3><a href=\"http://billwurtz.com/donate.html\">here</a>",
+    "original_html": "<h3> <dco>1.5.18&nbsp;\n9:17 am</dco> &nbsp;<qco> does buying merch help financially support you?</qco> </h3><a href=\"http://billwurtz.com/donate.html\">here</a>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.4.18&nbsp;\n10:50 pm</dco> &nbsp;<qco> <a href=\"q.php?date=201801040221\">1.4.18&nbsp;&nbsp;2:21 am</a> &nbsp;&nbsp;&nbsp;There's one \"d\" in formidable. were you educated, dipshit? love the insta, u do u mr. wurtz</qco> </h3><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201801040221\">https://billwurtz.com/questions/q.php?date=201801040221</a></quotedco><br><quoteaco><h3><dco>1.4.18&nbsp;\n2:21 am</dco> &nbsp;<qco> what is your opinion of sponges</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; phenomenal, if not downright formiddable\n<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>1.4.18&nbsp;\n10:50 pm</dco> &nbsp;<qco> <a href=\"q.php?date=201801040221\">1.4.18&nbsp;&nbsp;2:21 am</a> &nbsp;&nbsp;&nbsp;There's one \"d\" in formidable. were you educated, dipshit? love the insta, u do u mr. wurtz</qco> </h3>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201801040221"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201801040221",
+        "html": "<h3><dco>1.4.18&nbsp;\n2:21 am</dco> &nbsp;<qco> what is your opinion of sponges</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; phenomenal, if not downright formiddable\n<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>1.4.18&nbsp;\n12:42 pm</dco> &nbsp;<qco> <a href=\"q.php?date=201801022205\">1.2.18&nbsp;&nbsp;10:05 pm</a>  There is no corresponding color scheme elsewhere. Just look at \"scarmble\".</qco> </h3><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201801022205\">https://billwurtz.com/questions/q.php?date=201801022205</a></quotedco><br><quoteaco><h3><dco>1.2.18&nbsp;\n10:05 pm</dco> &nbsp;<qco> you misspelled questions at the top of the questions page</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;that's not necessarily true. you ignored the color scheme when forming your accusation, and i think you read it wrong\n<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>1.4.18&nbsp;\n12:42 pm</dco> &nbsp;<qco> <a href=\"q.php?date=201801022205\">1.2.18&nbsp;&nbsp;10:05 pm</a>  There is no corresponding color scheme elsewhere. Just look at \"scarmble\".</qco> </h3>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201801022205"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201801022205",
+        "html": "<h3><dco>1.2.18&nbsp;\n10:05 pm</dco> &nbsp;<qco> you misspelled questions at the top of the questions page</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;that's not necessarily true. you ignored the color scheme when forming your accusation, and i think you read it wrong\n<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>1.4.18&nbsp;\n2:44 am</dco> &nbsp;<qco> Would you have answered the opposite question like this …\n<br>\n<br>Q: <a href=\"q.php?date=201801030309\">1.3.18&nbsp;&nbsp;3:09 am</a> &nbsp;&nbsp;&nbsp;why are you so excrutiatingly detailed\n<br>\n<br>A:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;why haven't you noticed all the hundreds of questions i have answered vaguely\n<br>\n<br>… or is your deliberate vagueness still a topic you want to avoid?</qco> </h3><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201801030309\">https://billwurtz.com/questions/q.php?date=201801030309</a></quotedco><br><quoteaco><h3><dco>1.3.18&nbsp;\n3:09 am</dco> &nbsp;<qco> why are you so vague</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;why haven't you noticed all the hundreds of questions i have answered in excrutiating detail \n<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>1.4.18&nbsp;\n2:44 am</dco> &nbsp;<qco> Would you have answered the opposite question like this …\n<br>\n<br>Q: <a href=\"q.php?date=201801030309\">1.3.18&nbsp;&nbsp;3:09 am</a> &nbsp;&nbsp;&nbsp;why are you so excrutiatingly detailed\n<br>\n<br>A:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;why haven't you noticed all the hundreds of questions i have answered vaguely\n<br>\n<br>… or is your deliberate vagueness still a topic you want to avoid?</qco> </h3>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201801030309"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201801030309",
+        "html": "<h3><dco>1.3.18&nbsp;\n3:09 am</dco> &nbsp;<qco> why are you so vague</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;why haven't you noticed all the hundreds of questions i have answered in excrutiating detail \n<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>1.3.18&nbsp;\n10:45 pm</dco> &nbsp;<qco> <a href=\"q.php?date=201801030042\">1.3.18&nbsp;&nbsp;12:42 am</a> &nbsp;&nbsp;&nbsp;&nbsp;then do you subscribe to a major religion, </qco></h3><h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and if so, which?</qco> </h3><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201801030042\">https://billwurtz.com/questions/q.php?date=201801030042</a></quotedco><br><quoteaco><h3><dco>1.3.18&nbsp;\n12:42 am</dco> &nbsp;<qco> Not judging but, are you an atheist?</qco></h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;no<h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You seem like it based off of your jokes about religion back in your history of the world video but we're those serious or just jokes?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;storytelling? not sure, i haven't seen that video in a long time\n<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>1.3.18&nbsp;\n10:45 pm</dco> &nbsp;<qco> <a href=\"q.php?date=201801030042\">1.3.18&nbsp;&nbsp;12:42 am</a> &nbsp;&nbsp;&nbsp;&nbsp;then do you subscribe to a major religion, </qco></h3><h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and if so, which?</qco> </h3>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201801030042"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201801030042",
+        "html": "<h3><dco>1.3.18&nbsp;\n12:42 am</dco> &nbsp;<qco> Not judging but, are you an atheist?</qco></h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;no<h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You seem like it based off of your jokes about religion back in your history of the world video but we're those serious or just jokes?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;storytelling? not sure, i haven't seen that video in a long time\n<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>1.3.18&nbsp;\n9:00 pm</dco> &nbsp;<qco> i'm not finding that beautiful answer of yours about trying to find the perfect tuning&nbsp;&nbsp;and discovering that it was almost impossible. i rolled and rolled the bar but couldn't find it. </qco> </h3><a href=\"q.php?date=201706141538\">here</a><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201706141538\">https://billwurtz.com/questions/q.php?date=201706141538</a></quotedco><br><quoteaco><h3><dco>6.14.17&nbsp;\n3:38 pm</dco> &nbsp;<qco> i understand that you don't want searching for better and better sounds all the time to get in your way of just writing and recording, but don't you want to transcend a lot of cultural elements that have no distinct purpose to you that you were born into? like approximating the way notes fit together in harmony by using the equal temperament tuning? i dont mean like retune your keyboards, but when talking about microtonal music, i usually tend to think of tuning chords to the harmonic series, rather than the piano. i just hope you actively do that when you can instead of using an easier way all the time to get more content finished. after all you do seem like quite the creativity purist. hell im sure you've thought about it tho. nevermind. you don't need to respond to this im just rambling cause i get triggered when you say no to microtonal music. ur right, splitting half notes in half again doesn't really make that much sense</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ah, you are suggesting that i pursue the 'perfect' tuning, instead of using equal temperment tuning. this sounds like a righteous idea, but i have to tell you that i embarked on a viscious mission (in about january 2011 i believe) to get to the bottom of this situation. i set out to get a perfect tuning that at least worked in 1 key. after many hours (days? i don't remember) of experimentation, what i found surprised me. you actually can't do it. even to play within 1 key, you need to compromise. let me see if i can explain it: start by tuning a C chord properly (so that the E is a true harmony with C, and the G is a true 5th from C.) So let's get our F, that's gonna be a true 5th down from C, right? now A should be a pure major third above F, for sure. and B should surely be a pure major 3rd above G. now what should D be? you would assume that it would be a pure ninth from C (i.e. the frequency times 9 and then divided back down the octaves) which is good for the G chord also because it will be a 5th away from G. looks great, so now you've got C, D, E, F, G, A, B. but what you find next might come as a shock. D minor sounds like a nightmare. because D to A is supposed to be a 5th and now it is a very very wrong 5th. because you tuned your A to be a harmonically pure major 3rd away from F. no matter how you slice it, you inevitably run into the same argument where a 3rd needs to be a purely harmonic 3rd, but also needs to be a series of 5ths. i juggled the possibilities all around for at least a day, and i was completely stunned to find out that the essence of music, and specifically the way the \"secondary\" notes (let's say in a major key, the secondary notes are D, F, A, and also G, and the primary notes are C,E,G. that's right, G is both, the universe is a love paradox, get used to it) the secondary notes need equal tempered tuning to work right. there are surely many different ways to look at this and i made up the primary and secondary classifications for this example, but the point is that there will always be overlap. you will never have 2 exclusive sets of notes. it stems from the fact that the D note needs to be able to relate to G, but also needs to relate to the A, but the A also needs to relate to the F, and the F also definitely needs to relate to the C. now you might say \"ok, tune them differently depending on what chords you're using.\" but that really doesn't work right, because music needs all these notes to coexist. you're not going to just expect that Dmin and Fmaj will never need to blend together with the A held over. or that Dmin and Gmaj will never need to blend together with the D held over. At the end of this mind exploding journey, i basically found that it seems to be summed up perfectly in 2 chords. Cmaj, and like any combination of D,F,A, and G perhaps with G in the bass. in that 'secondary' chord, all in one moment, (which is the 'less' stable of the 2 chords when they are used in a musical context) that chord encapsulates the dual nature of the way these harmonies are working. is the F in that chord supposed to relate mainly to the C? or is it supposed to relate to the D in a pure minor third? and similarly, is the D supposed to relate to the G? the answer is, all 3 of these relationships are supposed to hold together. but this is mathematically impossible to happen exactly. so the entire essence of that Dmin, or 5dom7(sus if you like?) whatever, 'secondary' chord, the entire essence of that chord is that it contains different relationships that have to all sound like they work and yet they could never all 3 work exactly. the chord needs compromise in order to work. perhaps that is why it feels like the secondary chord or the 'less stable' or the 'i'm just waiting to go back to C' chord. realizing this changed me, because i was always told that equal tempered tuning was mainly used as a compromise to play in all 12 keys. but what i realized is you actually need it just to play in 1 key. like, just to play a 1 and a 2min. just to play the most basic essence of a key and have it work with itself. it really made me appreciate that 'secondary' chord (Dmin, G, etc) the D to F and the D to G relationship on kind of an earth shattering spiritual level, it's like the damn thing has heartbreak built right in. what you think you are hearing is the d to f relationship and the d to g relationship and the f to c relationthip, etc, all at the same time, when really it could never be, at least not exactly. but it is close enough to feel it. basically ever since this experiment i have had a wildly new appreciation for how and why music works, on an even more 'human' level than i expected. and i never questioned equal tempered tuning again\n<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>1.3.18&nbsp;\n9:00 pm</dco> &nbsp;<qco> i'm not finding that beautiful answer of yours about trying to find the perfect tuning&nbsp;&nbsp;and discovering that it was almost impossible. i rolled and rolled the bar but couldn't find it. </qco> </h3><a href=\"q.php?date=201706141538\">here</a>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201706141538"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201706141538",
+        "html": "<h3><dco>6.14.17&nbsp;\n3:38 pm</dco> &nbsp;<qco> i understand that you don't want searching for better and better sounds all the time to get in your way of just writing and recording, but don't you want to transcend a lot of cultural elements that have no distinct purpose to you that you were born into? like approximating the way notes fit together in harmony by using the equal temperament tuning? i dont mean like retune your keyboards, but when talking about microtonal music, i usually tend to think of tuning chords to the harmonic series, rather than the piano. i just hope you actively do that when you can instead of using an easier way all the time to get more content finished. after all you do seem like quite the creativity purist. hell im sure you've thought about it tho. nevermind. you don't need to respond to this im just rambling cause i get triggered when you say no to microtonal music. ur right, splitting half notes in half again doesn't really make that much sense</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ah, you are suggesting that i pursue the 'perfect' tuning, instead of using equal temperment tuning. this sounds like a righteous idea, but i have to tell you that i embarked on a viscious mission (in about january 2011 i believe) to get to the bottom of this situation. i set out to get a perfect tuning that at least worked in 1 key. after many hours (days? i don't remember) of experimentation, what i found surprised me. you actually can't do it. even to play within 1 key, you need to compromise. let me see if i can explain it: start by tuning a C chord properly (so that the E is a true harmony with C, and the G is a true 5th from C.) So let's get our F, that's gonna be a true 5th down from C, right? now A should be a pure major third above F, for sure. and B should surely be a pure major 3rd above G. now what should D be? you would assume that it would be a pure ninth from C (i.e. the frequency times 9 and then divided back down the octaves) which is good for the G chord also because it will be a 5th away from G. looks great, so now you've got C, D, E, F, G, A, B. but what you find next might come as a shock. D minor sounds like a nightmare. because D to A is supposed to be a 5th and now it is a very very wrong 5th. because you tuned your A to be a harmonically pure major 3rd away from F. no matter how you slice it, you inevitably run into the same argument where a 3rd needs to be a purely harmonic 3rd, but also needs to be a series of 5ths. i juggled the possibilities all around for at least a day, and i was completely stunned to find out that the essence of music, and specifically the way the \"secondary\" notes (let's say in a major key, the secondary notes are D, F, A, and also G, and the primary notes are C,E,G. that's right, G is both, the universe is a love paradox, get used to it) the secondary notes need equal tempered tuning to work right. there are surely many different ways to look at this and i made up the primary and secondary classifications for this example, but the point is that there will always be overlap. you will never have 2 exclusive sets of notes. it stems from the fact that the D note needs to be able to relate to G, but also needs to relate to the A, but the A also needs to relate to the F, and the F also definitely needs to relate to the C. now you might say \"ok, tune them differently depending on what chords you're using.\" but that really doesn't work right, because music needs all these notes to coexist. you're not going to just expect that Dmin and Fmaj will never need to blend together with the A held over. or that Dmin and Gmaj will never need to blend together with the D held over. At the end of this mind exploding journey, i basically found that it seems to be summed up perfectly in 2 chords. Cmaj, and like any combination of D,F,A, and G perhaps with G in the bass. in that 'secondary' chord, all in one moment, (which is the 'less' stable of the 2 chords when they are used in a musical context) that chord encapsulates the dual nature of the way these harmonies are working. is the F in that chord supposed to relate mainly to the C? or is it supposed to relate to the D in a pure minor third? and similarly, is the D supposed to relate to the G? the answer is, all 3 of these relationships are supposed to hold together. but this is mathematically impossible to happen exactly. so the entire essence of that Dmin, or 5dom7(sus if you like?) whatever, 'secondary' chord, the entire essence of that chord is that it contains different relationships that have to all sound like they work and yet they could never all 3 work exactly. the chord needs compromise in order to work. perhaps that is why it feels like the secondary chord or the 'less stable' or the 'i'm just waiting to go back to C' chord. realizing this changed me, because i was always told that equal tempered tuning was mainly used as a compromise to play in all 12 keys. but what i realized is you actually need it just to play in 1 key. like, just to play a 1 and a 2min. just to play the most basic essence of a key and have it work with itself. it really made me appreciate that 'secondary' chord (Dmin, G, etc) the D to F and the D to G relationship on kind of an earth shattering spiritual level, it's like the damn thing has heartbreak built right in. what you think you are hearing is the d to f relationship and the d to g relationship and the f to c relationthip, etc, all at the same time, when really it could never be, at least not exactly. but it is close enough to feel it. basically ever since this experiment i have had a wildly new appreciation for how and why music works, on an even more 'human' level than i expected. and i never questioned equal tempered tuning again\n<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>1.1.18&nbsp;\n1:34 pm</dco> &nbsp;<qco> <a href=\"q.php?date=201712311629\">12.31.17&nbsp;&nbsp;4:29 pm</a>  Oh, ok. Playing the different modes while keeping the root the same is actually a big help in hearing the different qualities of each one. Thanks! But, wouldn't thinking in terms of modes mostly come in handy when you have a song where the harmony is just kind of vamping on 1 chord for a long time (or maybe multiple chords, but that change slowly.. as in, one chord every few bars or whatever)? \n\n\n</qco></h3><h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\nI guess it's really important to establish what the root is. Like C lydian is technically G major, so if you want it sound lydian and not like G major, you really gotta focus in on C and F# in the melody and hammer it in that you're not in plain old G major.</qco></h3><h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I guess thinking in terms of modes is mostly useful when you're really going for that specific quality/sound the modes have? </qco></h3><h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The way I was taught it (way back when I was taking lessons still) was to use modes when 'soloing over chord changes'. Like, if you have (to chose a boring, textbook example) a I-vi-ii-V in C, that you think ionian over the I, aeloian over the vi, dorain over the ii and mixolydian over the V. But that was never helpful to me to think in those terms.</qco> </h3><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201712311629\">https://billwurtz.com/questions/q.php?date=201712311629</a></quotedco><br><quoteaco><h3><dco>12.31.17&nbsp; \n4:29 pm</dco> &nbsp;<qco> What the heck are modes for? Like, I get that it's basically taking a scale and changing the starting point (D dorian is C major, but starting on D, and E phrygian is C major but starting on E, etc)..</qco></h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;that's how everyone explains it but that's not really a good way to understand what they're for<h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; but, like, what does any of that have to do with playing or writing music? I never really understood the significance of modes. I never think about them when playing or writing music.</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;forget the idea of the way you explained it. think of them all with a C root. then i think you'll get it. u know the c major scale, right? ever wanted a flat 7 in that scale, and keeping the rest major? pow, thats mixolydian. ever wanted a minor scale with a natural 6? i bet you do, that would be sly. pow thats dorian. ever wanted to take a major scale and sharp the 4, for that childlike wonder in the intro to a steven spielberg movie? pow, thats lydian. hope that helps<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>1.1.18&nbsp;\n1:34 pm</dco> &nbsp;<qco> <a href=\"q.php?date=201712311629\">12.31.17&nbsp;&nbsp;4:29 pm</a>  Oh, ok. Playing the different modes while keeping the root the same is actually a big help in hearing the different qualities of each one. Thanks! But, wouldn't thinking in terms of modes mostly come in handy when you have a song where the harmony is just kind of vamping on 1 chord for a long time (or maybe multiple chords, but that change slowly.. as in, one chord every few bars or whatever)? \n\n\n</qco></h3><h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\nI guess it's really important to establish what the root is. Like C lydian is technically G major, so if you want it sound lydian and not like G major, you really gotta focus in on C and F# in the melody and hammer it in that you're not in plain old G major.</qco></h3><h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I guess thinking in terms of modes is mostly useful when you're really going for that specific quality/sound the modes have? </qco></h3><h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The way I was taught it (way back when I was taking lessons still) was to use modes when 'soloing over chord changes'. Like, if you have (to chose a boring, textbook example) a I-vi-ii-V in C, that you think ionian over the I, aeloian over the vi, dorain over the ii and mixolydian over the V. But that was never helpful to me to think in those terms.</qco> </h3>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201712311629"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201712311629",
+        "html": "<h3><dco>12.31.17&nbsp; \n4:29 pm</dco> &nbsp;<qco> What the heck are modes for? Like, I get that it's basically taking a scale and changing the starting point (D dorian is C major, but starting on D, and E phrygian is C major but starting on E, etc)..</qco></h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;that's how everyone explains it but that's not really a good way to understand what they're for<h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; but, like, what does any of that have to do with playing or writing music? I never really understood the significance of modes. I never think about them when playing or writing music.</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;forget the idea of the way you explained it. think of them all with a C root. then i think you'll get it. u know the c major scale, right? ever wanted a flat 7 in that scale, and keeping the rest major? pow, thats mixolydian. ever wanted a minor scale with a natural 6? i bet you do, that would be sly. pow thats dorian. ever wanted to take a major scale and sharp the 4, for that childlike wonder in the intro to a steven spielberg movie? pow, thats lydian. hope that helps<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>12.31.17&nbsp;\n5:06 am</dco> &nbsp;<qco> <a href=\"q.php?date=201712301647\">12.30.17&nbsp;&nbsp;4:47 pm</a>  (Not the same person) Yeah but trying to make everything in a hurry doesn't make you sacrifice quality? \n</qco></h3><h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Like you do risk making some choices instead of others just because of time.</qco></h3><h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wouldn't it be better to work on several songs at the same time and switching between them when/before you get tired?&nbsp;</qco> </h3><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201712301647\">https://billwurtz.com/questions/q.php?date=201712301647</a></quotedco><br><quoteaco><h3><dco>12.30.17&nbsp; \n4:47 pm</dco> &nbsp;<qco> I really enjoy making music, but sometimes I get fatigued of hearing the songs I make. I try to get rest when it happens, but I feel unproductive when I stop. What should I do?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;try to make them faster, before you get tired of them<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>12.31.17&nbsp;\n5:06 am</dco> &nbsp;<qco> <a href=\"q.php?date=201712301647\">12.30.17&nbsp;&nbsp;4:47 pm</a>  (Not the same person) Yeah but trying to make everything in a hurry doesn't make you sacrifice quality? \n</qco></h3><h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Like you do risk making some choices instead of others just because of time.</qco></h3><h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wouldn't it be better to work on several songs at the same time and switching between them when/before you get tired?&nbsp;</qco> </h3>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201712301647"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201712301647",
+        "html": "<h3><dco>12.30.17&nbsp; \n4:47 pm</dco> &nbsp;<qco> I really enjoy making music, but sometimes I get fatigued of hearing the songs I make. I try to get rest when it happens, but I feel unproductive when I stop. What should I do?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;try to make them faster, before you get tired of them<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>12.29.17&nbsp;\n11:30 pm</dco> &nbsp;<qco> <a href=\"q.php?date=201712262326\">12.26.17&nbsp;&nbsp;11:26 pm</a>  okay, what's the goo made of?</qco> </h3><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201712262326\">https://billwurtz.com/questions/q.php?date=201712262326</a></quotedco><br><quoteaco><h3><dco>12.26.17&nbsp;\n11:26 pm</dco> &nbsp;<qco> what can be defined as 'the source code that shapes reality'</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;this may surprise you, but it's actually made of goo\n<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>12.29.17&nbsp;\n11:30 pm</dco> &nbsp;<qco> <a href=\"q.php?date=201712262326\">12.26.17&nbsp;&nbsp;11:26 pm</a>  okay, what's the goo made of?</qco> </h3>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201712262326"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201712262326",
+        "html": "<h3><dco>12.26.17&nbsp;\n11:26 pm</dco> &nbsp;<qco> what can be defined as 'the source code that shapes reality'</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;this may surprise you, but it's actually made of goo\n<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>12.29.17&nbsp;\n10:34 pm</dco> &nbsp;<qco> Are there any more soap tips that you didn't mention before?</qco> </h3><a href=\"q.php?date=201710101741\">10.10.17&nbsp;&nbsp;5:41 pm</a><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201710101741\">https://billwurtz.com/questions/q.php?date=201710101741</a></quotedco><br><quoteaco><h3><dco>10.10.17&nbsp;\n5:41 pm</dco> &nbsp;<qco> any further soap tips?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;just be friendly and generally respectful toward soap\n<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>12.29.17&nbsp;\n10:34 pm</dco> &nbsp;<qco> Are there any more soap tips that you didn't mention before?</qco> </h3><a href=\"q.php?date=201710101741\">10.10.17&nbsp;&nbsp;5:41 pm</a>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201710101741"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201710101741",
+        "html": "<h3><dco>10.10.17&nbsp;\n5:41 pm</dco> &nbsp;<qco> any further soap tips?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;just be friendly and generally respectful toward soap\n<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>12.29.17&nbsp;\n6:48 pm</dco> &nbsp;<qco> what's your opinion On the movie \"kill bill\" ?</qco> </h3><a href=\"q.php?date=201705280501\">5.28.17&nbsp;&nbsp;5:01 am</a><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201705280501\">https://billwurtz.com/questions/q.php?date=201705280501</a></quotedco><br><quoteaco><h3><dco>5.28.17&nbsp; \n5:01 am</dco> &nbsp;<qco> how do you feel about kill bill? do you get anxious watching that movie</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tarantino movies in general have a lot of detailed violence, which is admirable and respectable, but not my cup of tea per se<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>12.29.17&nbsp;\n6:48 pm</dco> &nbsp;<qco> what's your opinion On the movie \"kill bill\" ?</qco> </h3><a href=\"q.php?date=201705280501\">5.28.17&nbsp;&nbsp;5:01 am</a>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201705280501"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201705280501",
+        "html": "<h3><dco>5.28.17&nbsp; \n5:01 am</dco> &nbsp;<qco> how do you feel about kill bill? do you get anxious watching that movie</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tarantino movies in general have a lot of detailed violence, which is admirable and respectable, but not my cup of tea per se<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>12.28.17&nbsp;\n11:53 pm</dco> &nbsp;<qco> <a href=\"q.php?date=201712270056\">12.27.17&nbsp;&nbsp;12:56 am</a> &nbsp;&nbsp;&nbsp;answer it on this webpage, fuckface</qco> </h3><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201712270056\">https://billwurtz.com/questions/q.php?date=201712270056</a></quotedco><br><quoteaco><h3><dco>12.27.17&nbsp;\n12:56 am</dco> &nbsp;<qco> <a href=\"q.php?date=201712261155\">12.26.17&nbsp;&nbsp;11:55 am</a> &nbsp;&nbsp;answer the question dipshit</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ok<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>12.28.17&nbsp;\n11:53 pm</dco> &nbsp;<qco> <a href=\"q.php?date=201712270056\">12.27.17&nbsp;&nbsp;12:56 am</a> &nbsp;&nbsp;&nbsp;answer it on this webpage, fuckface</qco> </h3>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201712270056"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201712270056",
+        "html": "<h3><dco>12.27.17&nbsp;\n12:56 am</dco> &nbsp;<qco> <a href=\"q.php?date=201712261155\">12.26.17&nbsp;&nbsp;11:55 am</a> &nbsp;&nbsp;answer the question dipshit</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ok<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>12.28.17&nbsp;\n5:09 pm</dco> &nbsp;<qco> <a href=\"same-questions.html\">Do questions ever get repetitive for you?</a></qco> </h3><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/same-questions.html\">https://billwurtz.com/questions/same-questions.html</a></quotedco><br><quoteaco><br><br><h3> <dco>8.28.17&nbsp;\n1:30 pm</dco> &nbsp;<qco> do you get annoyed when people ask you questions that alredy have been answered?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br><h3> <dco>7.8.17&nbsp; \n11:39 am</dco> &nbsp;<qco> do you ever get tired of being asked repeat questions?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br><h3> <dco>6.4.17&nbsp; \n9:07 am</dco> &nbsp;<qco> Do you get upset that people ask the same questions over and over? </qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br><h3> <dco>5.31.17&nbsp;\n10:07 am</dco> &nbsp;<qco> Do you get annoyed by repeat questions?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <dco>5.17.17&nbsp;\n6:06 pm</dco> &nbsp;<qco> do you ever get annoyed at repeated questions?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">1.6.17&nbsp;\n4:32 pm</font> &nbsp;<font color=\"#3A81FF\"> Do you get tired of repetitive questions?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">11.6.16&nbsp;\n2:42 pm</font> &nbsp;<font color=\"#3A81FF\"> do you get annoyed at repeat questions</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">10.12.16&nbsp;\n8:06 am</font> &nbsp;<font color=\"#3A81FF\"> is it annoying to constantly be asked the same questions?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">7.24.16&nbsp;\n11:27 pm</font> &nbsp;<font color=\"#3A81FF\"> do you ever find it annoying to be asked the same questions over and over again?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">7.14.16&nbsp;\n3:04 am</font> &nbsp;<font color=\"#3A81FF\"> do you get annoyed when people ask the same questions?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">6.28.16&nbsp;\n1:08 am</font> &nbsp;<font color=\"#3A81FF\"> are you annoyed by the repetitiveness of the same questions ?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">5.21.16&nbsp; \n6:07 am</font> &nbsp;<font color=\"#3A81FF\"> Do you get tired with people asking you the same questions over and over again?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\n\n\n\n\n<br><br><h3> <font color=\"#EE4B4B\">5.4.16&nbsp; \n3:37 am</font> &nbsp;<font color=\"#3A81FF\"> getting the same question over and over again must be tiring right? </font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">4.18.16&nbsp; \n11:42 pm</font> &nbsp;<font color=\"#3A81FF\"> Do you ever get tired about answering the same questions over and over again? </font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\n\n<br><br>&nbsp;&nbsp;&nbsp;&nbsp; no\n\n<br></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>12.28.17&nbsp;\n5:09 pm</dco> &nbsp;<qco> <a href=\"same-questions.html\">Do questions ever get repetitive for you?</a></qco> </h3>",
+    "answer_links": [
+      "https://billwurtz.com/questions/same-questions.html"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/same-questions.html",
+        "html": "<br><br><h3> <dco>8.28.17&nbsp;\n1:30 pm</dco> &nbsp;<qco> do you get annoyed when people ask you questions that alredy have been answered?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br><h3> <dco>7.8.17&nbsp; \n11:39 am</dco> &nbsp;<qco> do you ever get tired of being asked repeat questions?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br><h3> <dco>6.4.17&nbsp; \n9:07 am</dco> &nbsp;<qco> Do you get upset that people ask the same questions over and over? </qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br><h3> <dco>5.31.17&nbsp;\n10:07 am</dco> &nbsp;<qco> Do you get annoyed by repeat questions?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <dco>5.17.17&nbsp;\n6:06 pm</dco> &nbsp;<qco> do you ever get annoyed at repeated questions?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">1.6.17&nbsp;\n4:32 pm</font> &nbsp;<font color=\"#3A81FF\"> Do you get tired of repetitive questions?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">11.6.16&nbsp;\n2:42 pm</font> &nbsp;<font color=\"#3A81FF\"> do you get annoyed at repeat questions</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">10.12.16&nbsp;\n8:06 am</font> &nbsp;<font color=\"#3A81FF\"> is it annoying to constantly be asked the same questions?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">7.24.16&nbsp;\n11:27 pm</font> &nbsp;<font color=\"#3A81FF\"> do you ever find it annoying to be asked the same questions over and over again?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">7.14.16&nbsp;\n3:04 am</font> &nbsp;<font color=\"#3A81FF\"> do you get annoyed when people ask the same questions?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">6.28.16&nbsp;\n1:08 am</font> &nbsp;<font color=\"#3A81FF\"> are you annoyed by the repetitiveness of the same questions ?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">5.21.16&nbsp; \n6:07 am</font> &nbsp;<font color=\"#3A81FF\"> Do you get tired with people asking you the same questions over and over again?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\n\n\n\n\n<br><br><h3> <font color=\"#EE4B4B\">5.4.16&nbsp; \n3:37 am</font> &nbsp;<font color=\"#3A81FF\"> getting the same question over and over again must be tiring right? </font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">4.18.16&nbsp; \n11:42 pm</font> &nbsp;<font color=\"#3A81FF\"> Do you ever get tired about answering the same questions over and over again? </font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\n\n<br><br>&nbsp;&nbsp;&nbsp;&nbsp; no\n\n<br>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>12.27.17&nbsp;\n11:25 pm</dco> &nbsp;<qco> Howâ€™s that one strip blue polo that you used to wear a lot in videos? Do you still have it?&nbsp;</qco> </h3><a href=\"q.php?date=201611262330\">11.26.16&nbsp;&nbsp;11:30 pm</a><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201611262330\">https://billwurtz.com/questions/q.php?date=201611262330</a></quotedco><br><quoteaco><h3><dco>11.26.16&nbsp;\n11:30 pm</dco> &nbsp;<qco> do you still own the blue and black striped shirt from the bookstacking video (and several others)</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;yes but the rips have gotten worse\n<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>12.27.17&nbsp;\n11:25 pm</dco> &nbsp;<qco> Howâ€™s that one strip blue polo that you used to wear a lot in videos? Do you still have it?&nbsp;</qco> </h3><a href=\"q.php?date=201611262330\">11.26.16&nbsp;&nbsp;11:30 pm</a>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201611262330"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201611262330",
+        "html": "<h3><dco>11.26.16&nbsp;\n11:30 pm</dco> &nbsp;<qco> do you still own the blue and black striped shirt from the bookstacking video (and several others)</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;yes but the rips have gotten worse\n<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>12.27.17&nbsp;\n12:56 am</dco> &nbsp;<qco> <a href=\"q.php?date=201712261155\">12.26.17&nbsp;&nbsp;11:55 am</a> &nbsp;&nbsp;answer the question dipshit</qco> </h3><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201712261155\">https://billwurtz.com/questions/q.php?date=201712261155</a></quotedco><br><quoteaco><h3><dco>12.26.17&nbsp;\n11:55 am</dco> &nbsp;<qco> Is your family supportive of the videos you create on YouTube?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i actually don't create them on youtube, i make them offline, and then upload them to my website (and youtube also) when they are done<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>12.27.17&nbsp;\n12:56 am</dco> &nbsp;<qco> <a href=\"q.php?date=201712261155\">12.26.17&nbsp;&nbsp;11:55 am</a> &nbsp;&nbsp;answer the question dipshit</qco> </h3>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201712261155"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201712261155",
+        "html": "<h3><dco>12.26.17&nbsp;\n11:55 am</dco> &nbsp;<qco> Is your family supportive of the videos you create on YouTube?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i actually don't create them on youtube, i make them offline, and then upload them to my website (and youtube also) when they are done<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>12.26.17&nbsp;\n6:30 pm</dco> &nbsp;<qco> <a href=\"q.php?date=201712260405\">12.26.17&nbsp;&nbsp;4:05 am</a> &nbsp;&nbsp;do you actually do this</qco> </h3><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201712260405\">https://billwurtz.com/questions/q.php?date=201712260405</a></quotedco><br><quoteaco><h3><dco>12.26.17&nbsp;\n4:05 am</dco> &nbsp;<qco> What to do when its boxing day?\n<br>(also Merry Christler For Yesterday)</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;take my gifts, put them back in the box, and sell them online\n<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>12.26.17&nbsp;\n6:30 pm</dco> &nbsp;<qco> <a href=\"q.php?date=201712260405\">12.26.17&nbsp;&nbsp;4:05 am</a> &nbsp;&nbsp;do you actually do this</qco> </h3>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201712260405"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201712260405",
+        "html": "<h3><dco>12.26.17&nbsp;\n4:05 am</dco> &nbsp;<qco> What to do when its boxing day?\n<br>(also Merry Christler For Yesterday)</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;take my gifts, put them back in the box, and sell them online\n<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>12.26.17&nbsp;\n3:49 pm</dco> &nbsp;<qco> Why do you like music?</qco> </h3><a href=\"q.php?date=201706200851\">6.20.17&nbsp;&nbsp;8:51 am</a><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201706200851\">https://billwurtz.com/questions/q.php?date=201706200851</a></quotedco><br><quoteaco><h3><dco>6.20.17&nbsp;\n8:51 am</dco> &nbsp;<qco> why do you like music?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i don't know. but it likes me\n<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>12.26.17&nbsp;\n3:49 pm</dco> &nbsp;<qco> Why do you like music?</qco> </h3><a href=\"q.php?date=201706200851\">6.20.17&nbsp;&nbsp;8:51 am</a>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201706200851"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201706200851",
+        "html": "<h3><dco>6.20.17&nbsp;\n8:51 am</dco> &nbsp;<qco> why do you like music?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i don't know. but it likes me\n<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>12.25.17&nbsp;\n11:29 pm</dco> &nbsp;<qco> there is sunday but no moonday, why?</qco> </h3><a href=\"q.php?date=201701220030\">1.22.17&nbsp;&nbsp;12:30 am</a><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201701220030\">https://billwurtz.com/questions/q.php?date=201701220030</a></quotedco><br><quoteaco><h3><dco>1.22.17&nbsp;\n12:30 am</dco> &nbsp;<qco> if we have sunday, why dont we have moonday</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;we do, it's called monday\n<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>12.25.17&nbsp;\n11:29 pm</dco> &nbsp;<qco> there is sunday but no moonday, why?</qco> </h3><a href=\"q.php?date=201701220030\">1.22.17&nbsp;&nbsp;12:30 am</a>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201701220030"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201701220030",
+        "html": "<h3><dco>1.22.17&nbsp;\n12:30 am</dco> &nbsp;<qco> if we have sunday, why dont we have moonday</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;we do, it's called monday\n<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>12.20.17&nbsp;\n6:38 pm</dco> &nbsp;<qco> What was the purpose of stacking those books when you were stacking those books in that one video?</qco> </h3><a href=\"q.php?date=201607050128\">7.5.16&nbsp;&nbsp;1:28 am</a><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201607050128\">https://billwurtz.com/questions/q.php?date=201607050128</a></quotedco><br><quoteaco><h3><dco>7.5.16&nbsp;\n1:28 am</dco> &nbsp;<qco> in that 1 video why were u stacking books?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to see how tall it would be\n<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>12.20.17&nbsp;\n6:38 pm</dco> &nbsp;<qco> What was the purpose of stacking those books when you were stacking those books in that one video?</qco> </h3><a href=\"q.php?date=201607050128\">7.5.16&nbsp;&nbsp;1:28 am</a>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201607050128"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201607050128",
+        "html": "<h3><dco>7.5.16&nbsp;\n1:28 am</dco> &nbsp;<qco> in that 1 video why were u stacking books?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to see how tall it would be\n<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>12.19.17&nbsp;\n8:54 pm</dco> &nbsp;<qco> How do you stay so cool and collected?&nbsp;</qco> </h3><a href=\"q.php?date=201705030234\">5.3.17&nbsp;&nbsp;2:34 am</a><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201705030234\">https://billwurtz.com/questions/q.php?date=201705030234</a></quotedco><br><quoteaco><h3><dco>5.3.17&nbsp; \n2:34 am</dco> &nbsp;<qco> How do you stay so calm and collected?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i get a lot of practice<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>12.19.17&nbsp;\n8:54 pm</dco> &nbsp;<qco> How do you stay so cool and collected?&nbsp;</qco> </h3><a href=\"q.php?date=201705030234\">5.3.17&nbsp;&nbsp;2:34 am</a>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201705030234"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201705030234",
+        "html": "<h3><dco>5.3.17&nbsp; \n2:34 am</dco> &nbsp;<qco> How do you stay so calm and collected?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i get a lot of practice<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>12.18.17&nbsp;\n7:21 pm</dco> &nbsp;<qco> what is your opinion on the emoji movie</qco> </h3><a href=\"q.php?date=201709140842\">9.14.17&nbsp;&nbsp;8:42 am</a><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201709140842\">https://billwurtz.com/questions/q.php?date=201709140842</a></quotedco><br><quoteaco><h3><dco>9.14.17&nbsp;\n8:42 am</dco> &nbsp;<qco> what do you think about the emoji movie</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;looks like it's shaping up to be the next bee movie\n<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>12.18.17&nbsp;\n7:21 pm</dco> &nbsp;<qco> what is your opinion on the emoji movie</qco> </h3><a href=\"q.php?date=201709140842\">9.14.17&nbsp;&nbsp;8:42 am</a>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201709140842"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201709140842",
+        "html": "<h3><dco>9.14.17&nbsp;\n8:42 am</dco> &nbsp;<qco> what do you think about the emoji movie</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;looks like it's shaping up to be the next bee movie\n<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>12.17.17&nbsp;\n7:53 pm</dco> &nbsp;<qco> <a href=\"q.php?date=201712171144\">12.17.17 11:44 am</a>  jeez, can I help you escape the library so u can play real drums</qco> </h3><a href=\"http://billwurtz.com/donate.html\">sure</a><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201712171144\">https://billwurtz.com/questions/q.php?date=201712171144</a></quotedco><br><quoteaco><h3><dco>12.17.17&nbsp;\n11:44 am</dco> &nbsp;<qco> why do you play invisible drums</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;because i am in the library<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>12.17.17&nbsp;\n7:53 pm</dco> &nbsp;<qco> <a href=\"q.php?date=201712171144\">12.17.17 11:44 am</a>  jeez, can I help you escape the library so u can play real drums</qco> </h3><a href=\"http://billwurtz.com/donate.html\">sure</a>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201712171144"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201712171144",
+        "html": "<h3><dco>12.17.17&nbsp;\n11:44 am</dco> &nbsp;<qco> why do you play invisible drums</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;because i am in the library<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>12.17.17&nbsp;\n5:45 pm</dco> &nbsp;<qco> <a href=\"q.php?date=201712161838\">12.16.17&nbsp;&nbsp;6:38 pm</a>  But I meant the video \"history of the world\"</qco> </h3><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201712161838\">https://billwurtz.com/questions/q.php?date=201712161838</a></quotedco><br><quoteaco><h3><dco>12.16.17&nbsp; \n6:38 pm</dco> &nbsp;<qco> After hotewig, how did you react when you remembered you had already made a comprehensive history of the world video?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i already knew it during production and before. it was conprehensive but it mainly included japan. so history of the entire world was a necessary expansion, to include some more non-japan things<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>12.17.17&nbsp;\n5:45 pm</dco> &nbsp;<qco> <a href=\"q.php?date=201712161838\">12.16.17&nbsp;&nbsp;6:38 pm</a>  But I meant the video \"history of the world\"</qco> </h3>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201712161838"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201712161838",
+        "html": "<h3><dco>12.16.17&nbsp; \n6:38 pm</dco> &nbsp;<qco> After hotewig, how did you react when you remembered you had already made a comprehensive history of the world video?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i already knew it during production and before. it was conprehensive but it mainly included japan. so history of the entire world was a necessary expansion, to include some more non-japan things<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>12.17.17&nbsp;\n1:09 pm</dco> &nbsp;<qco> <a href=\"q.php?date=201712161324\">12.16.17&nbsp;&nbsp;1:24 pm</a>\n<br>Are you truly an orphan or was that a non-serious answer to the question?</qco> </h3><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201712161324\">https://billwurtz.com/questions/q.php?date=201712161324</a></quotedco><br><quoteaco><h3><dco>12.16.17&nbsp; \n1:24 pm</dco> &nbsp;<qco> who is yours instagrandma?&nbsp;</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i am an orphan<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>12.17.17&nbsp;\n1:09 pm</dco> &nbsp;<qco> <a href=\"q.php?date=201712161324\">12.16.17&nbsp;&nbsp;1:24 pm</a>\n<br>Are you truly an orphan or was that a non-serious answer to the question?</qco> </h3>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201712161324"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201712161324",
+        "html": "<h3><dco>12.16.17&nbsp; \n1:24 pm</dco> &nbsp;<qco> who is yours instagrandma?&nbsp;</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i am an orphan<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>12.17.17&nbsp; \n12:59 am</dco> &nbsp;<qco> <a href=\"q.php?date=201712152207\">12.15.17&nbsp;&nbsp;10:07 pm</a>  do you have an opinion about that whole religion thing he did, whatever that was(probably not a big deal)\n<br>-dixjxn</qco> </h3><a href=\"q.php?date=201612150720\">12.15.16&nbsp;&nbsp;7:20 am</a><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201712152207\">https://billwurtz.com/questions/q.php?date=201712152207</a></quotedco><br><quoteaco><h3><dco>12.15.17&nbsp;\n10:07 pm</dco> &nbsp;<qco> what goes through your mind before posting a video?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the voice of L. ron hubbard, in one of his lectures\n<br><br><h3> \n</h3></quoteaco></quotequestion><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201612150720\">https://billwurtz.com/questions/q.php?date=201612150720</a></quotedco><br><quoteaco><h3><dco>12.15.16&nbsp;\n7:20 am</dco> &nbsp;<qco> any thoughts on scientology?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;like a newly formed star, it gives modern religionoligists an unprecedented view into how a religion is formed\n<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>12.17.17&nbsp; \n12:59 am</dco> &nbsp;<qco> <a href=\"q.php?date=201712152207\">12.15.17&nbsp;&nbsp;10:07 pm</a>  do you have an opinion about that whole religion thing he did, whatever that was(probably not a big deal)\n<br>-dixjxn</qco> </h3><a href=\"q.php?date=201612150720\">12.15.16&nbsp;&nbsp;7:20 am</a>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201712152207",
+      "https://billwurtz.com/questions/q.php?date=201612150720"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201712152207",
+        "html": "<h3><dco>12.15.17&nbsp;\n10:07 pm</dco> &nbsp;<qco> what goes through your mind before posting a video?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the voice of L. ron hubbard, in one of his lectures\n<br><br><h3> \n</h3>"
+      },
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201612150720",
+        "html": "<h3><dco>12.15.16&nbsp;\n7:20 am</dco> &nbsp;<qco> any thoughts on scientology?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;like a newly formed star, it gives modern religionoligists an unprecedented view into how a religion is formed\n<br><br><h3> \n</h3>"
+      }
+    ]
+  }
+]

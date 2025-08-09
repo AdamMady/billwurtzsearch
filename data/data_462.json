@@ -1,0 +1,309 @@
+[
+  {
+    "html": "<h3> <dco>1.11.23&nbsp; \n9:41 am</dco> &nbsp;<qco> is ten a good number</qco> </h3>",
+    "original_html": "<h3> <dco>1.11.23&nbsp; \n9:41 am</dco> &nbsp;<qco> is ten a good number</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.11.23&nbsp; \n9:10 am</dco> &nbsp;<qco> Can you cheer me up?</qco> </h3>",
+    "original_html": "<h3> <dco>1.11.23&nbsp; \n9:10 am</dco> &nbsp;<qco> Can you cheer me up?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.11.23&nbsp; \n8:43 am</dco> &nbsp;<qco> <a href=\"q.php?date=202301100924\">1.10.23&nbsp;&nbsp;9:24 am</a>  what kind of things do you use trigonometry for</qco> </h3><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=202301100924\">https://billwurtz.com/questions/q.php?date=202301100924</a></quotedco><br><quoteaco><h3><dco>1.10.23&nbsp; \n9:24 am</dco> &nbsp;<qco> will i ever use trigonometry after i graduate high school</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ni don't know, but i certainly do\n<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>1.11.23&nbsp; \n8:43 am</dco> &nbsp;<qco> <a href=\"q.php?date=202301100924\">1.10.23&nbsp;&nbsp;9:24 am</a>  what kind of things do you use trigonometry for</qco> </h3>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=202301100924"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=202301100924",
+        "html": "<h3><dco>1.10.23&nbsp; \n9:24 am</dco> &nbsp;<qco> will i ever use trigonometry after i graduate high school</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ni don't know, but i certainly do\n<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>1.11.23&nbsp; \n7:43 am</dco> &nbsp;<qco> how much does the earth cost</qco> </h3>",
+    "original_html": "<h3> <dco>1.11.23&nbsp; \n7:43 am</dco> &nbsp;<qco> how much does the earth cost</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.11.23&nbsp; \n7:01 am</dco> &nbsp;<qco> are you locked in a basement</qco> </h3>",
+    "original_html": "<h3> <dco>1.11.23&nbsp; \n7:01 am</dco> &nbsp;<qco> are you locked in a basement</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.11.23&nbsp; \n2:27 am</dco> &nbsp;<qco> do you ever play two keyboards at the same time?</qco> </h3>",
+    "original_html": "<h3> <dco>1.11.23&nbsp; \n2:27 am</dco> &nbsp;<qco> do you ever play two keyboards at the same time?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.11.23&nbsp; \n2:23 am</dco> &nbsp;<qco> what are some good songs for beginners starting out at music&nbsp;</qco> </h3>",
+    "original_html": "<h3> <dco>1.11.23&nbsp; \n2:23 am</dco> &nbsp;<qco> what are some good songs for beginners starting out at music&nbsp;</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.11.23&nbsp; \n1:25 am</dco> &nbsp;<qco> what's your current goal&nbsp;</qco> </h3>",
+    "original_html": "<h3> <dco>1.11.23&nbsp; \n1:25 am</dco> &nbsp;<qco> what's your current goal&nbsp;</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.11.23&nbsp; \n1:12 am</dco> &nbsp;<qco> do you think you'll ever use stop motion or something similar in one of your videos?</qco> </h3>",
+    "original_html": "<h3> <dco>1.11.23&nbsp; \n1:12 am</dco> &nbsp;<qco> do you think you'll ever use stop motion or something similar in one of your videos?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.11.23&nbsp; \n12:46 am</dco> &nbsp;<qco> thoughts on toasters</qco> </h3>",
+    "original_html": "<h3> <dco>1.11.23&nbsp; \n12:46 am</dco> &nbsp;<qco> thoughts on toasters</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.10.23&nbsp; \n11:34 pm</dco> &nbsp;<qco> how many songs have you scrapped and why</qco> </h3>",
+    "original_html": "<h3> <dco>1.10.23&nbsp; \n11:34 pm</dco> &nbsp;<qco> how many songs have you scrapped and why</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.10.23&nbsp; \n8:30 pm</dco> &nbsp;<qco> Does a 9 chord have a dominant 7 or major 7</qco> </h3>",
+    "original_html": "<h3> <dco>1.10.23&nbsp; \n8:30 pm</dco> &nbsp;<qco> Does a 9 chord have a dominant 7 or major 7</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.10.23&nbsp; \n6:58 pm</dco> &nbsp;<qco> what's the optimal dip time for oreos in milk?</qco> </h3>",
+    "original_html": "<h3> <dco>1.10.23&nbsp; \n6:58 pm</dco> &nbsp;<qco> what's the optimal dip time for oreos in milk?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.10.23&nbsp; \n5:01 pm</dco> &nbsp;<qco> whats the difference between a bandwagon and a regular wagon</qco> </h3>",
+    "original_html": "<h3> <dco>1.10.23&nbsp; \n5:01 pm</dco> &nbsp;<qco> whats the difference between a bandwagon and a regular wagon</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.10.23&nbsp; \n4:43 pm</dco> &nbsp;<qco> Is it feasible to be reasonable?&nbsp;</qco> </h3>",
+    "original_html": "<h3> <dco>1.10.23&nbsp; \n4:43 pm</dco> &nbsp;<qco> Is it feasible to be reasonable?&nbsp;</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.10.23&nbsp; \n4:30 pm</dco> &nbsp;<qco> why is \"and i'm happy times have changed\" in i'm scared if it doesn't grammatically make sense?</qco> </h3>",
+    "original_html": "<h3> <dco>1.10.23&nbsp; \n4:30 pm</dco> &nbsp;<qco> why is \"and i'm happy times have changed\" in i'm scared if it doesn't grammatically make sense?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.10.23&nbsp; \n3:16 pm</dco> &nbsp;<qco> THOUGHTS ON THE BACK MID OPEN ROUND VOWEL capslock</qco> </h3>",
+    "original_html": "<h3> <dco>1.10.23&nbsp; \n3:16 pm</dco> &nbsp;<qco> THOUGHTS ON THE BACK MID OPEN ROUND VOWEL capslock</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.10.23&nbsp; \n2:07 pm</dco> &nbsp;<qco> should i pay my friends the aliens a visit</qco> </h3>",
+    "original_html": "<h3> <dco>1.10.23&nbsp; \n2:07 pm</dco> &nbsp;<qco> should i pay my friends the aliens a visit</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.10.23&nbsp; \n11:18 am</dco> &nbsp;<qco> dont you hate it whenever someone answers \"depends in which situation\"</qco> </h3>",
+    "original_html": "<h3> <dco>1.10.23&nbsp; \n11:18 am</dco> &nbsp;<qco> dont you hate it whenever someone answers \"depends in which situation\"</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.10.23&nbsp; \n10:53 am</dco> &nbsp;<qco> ok so bill i've been wondering this for a while but the question is: is the official title for your song from 4.19.21 'money' or 'got some money'? the youtube video is 'got some money' but the song listing on the website is 'money' </qco></h3><h3><qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and also you usually refer to it as 'money'</qco> </h3>",
+    "original_html": "<h3> <dco>1.10.23&nbsp; \n10:53 am</dco> &nbsp;<qco> ok so bill i've been wondering this for a while but the question is: is the official title for your song from 4.19.21 'money' or 'got some money'? the youtube video is 'got some money' but the song listing on the website is 'money' </qco></h3><h3><qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and also you usually refer to it as 'money'</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.10.23&nbsp; \n10:20 am</dco> &nbsp;<qco> I've been playing guitar for about 6 years now but I'm still only relatively moderate at playing it.(i.e. can only play simple chords and strumming patterns.) how do I continue to improve at my playing?&nbsp;</qco> </h3>",
+    "original_html": "<h3> <dco>1.10.23&nbsp; \n10:20 am</dco> &nbsp;<qco> I've been playing guitar for about 6 years now but I'm still only relatively moderate at playing it.(i.e. can only play simple chords and strumming patterns.) how do I continue to improve at my playing?&nbsp;</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.10.23&nbsp; \n9:28 am</dco> &nbsp;<qco> what is the most not surprising thing</qco> </h3>",
+    "original_html": "<h3> <dco>1.10.23&nbsp; \n9:28 am</dco> &nbsp;<qco> what is the most not surprising thing</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.10.23&nbsp; \n9:24 am</dco> &nbsp;<qco> will i ever use trigonometry after i graduate high school</qco> </h3>",
+    "original_html": "<h3> <dco>1.10.23&nbsp; \n9:24 am</dco> &nbsp;<qco> will i ever use trigonometry after i graduate high school</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.10.23&nbsp; \n9:15 am</dco> &nbsp;<qco> Does the bad thing in \"Just did a bad thing\" refer to one specific bad thing you did, or is it just how you feel after you do a bad thing\n<br></qco> </h3>",
+    "original_html": "<h3> <dco>1.10.23&nbsp; \n9:15 am</dco> &nbsp;<qco> Does the bad thing in \"Just did a bad thing\" refer to one specific bad thing you did, or is it just how you feel after you do a bad thing\n<br></qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.10.23&nbsp; \n8:55 am</dco> &nbsp;<qco> do you think you'll ever do a video with a big focus on cel style animation?</qco> </h3>",
+    "original_html": "<h3> <dco>1.10.23&nbsp; \n8:55 am</dco> &nbsp;<qco> do you think you'll ever do a video with a big focus on cel style animation?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.10.23&nbsp; \n6:55 am</dco> &nbsp;<qco> should I conquer the world?&nbsp;</qco> </h3>",
+    "original_html": "<h3> <dco>1.10.23&nbsp; \n6:55 am</dco> &nbsp;<qco> should I conquer the world?&nbsp;</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.10.23&nbsp; \n2:49 am</dco> &nbsp;<qco> have you tried going on the internet?</qco> </h3>",
+    "original_html": "<h3> <dco>1.10.23&nbsp; \n2:49 am</dco> &nbsp;<qco> have you tried going on the internet?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.10.23&nbsp; \n1:22 am</dco> &nbsp;<qco> When would a situation call for standing on a bench?</qco> </h3>",
+    "original_html": "<h3> <dco>1.10.23&nbsp; \n1:22 am</dco> &nbsp;<qco> When would a situation call for standing on a bench?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.10.23&nbsp; \n1:13 am</dco> &nbsp;<qco> opinions on blue raspberry flavor</qco> </h3>",
+    "original_html": "<h3> <dco>1.10.23&nbsp; \n1:13 am</dco> &nbsp;<qco> opinions on blue raspberry flavor</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.9.23&nbsp; \n10:13 pm</dco> &nbsp;<qco> What is the moral of \"Perfect\"?</qco> </h3>",
+    "original_html": "<h3> <dco>1.9.23&nbsp; \n10:13 pm</dco> &nbsp;<qco> What is the moral of \"Perfect\"?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.9.23&nbsp; \n9:14 pm</dco> &nbsp;<qco> should we be importing trees from another planet so that we dont have to deforestate ours</qco> </h3>",
+    "original_html": "<h3> <dco>1.9.23&nbsp; \n9:14 pm</dco> &nbsp;<qco> should we be importing trees from another planet so that we dont have to deforestate ours</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.9.23&nbsp; \n8:55 pm</dco> &nbsp;<qco> Do you have any ideas for new projects in 2023? </qco></h3><h3><qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Have you considered them yet?</qco> </h3>",
+    "original_html": "<h3> <dco>1.9.23&nbsp; \n8:55 pm</dco> &nbsp;<qco> Do you have any ideas for new projects in 2023? </qco></h3><h3><qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Have you considered them yet?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.9.23&nbsp; \n6:44 pm</dco> &nbsp;<qco> You've been granted admin access to the physics engine of our universe. </qco></h3><h3><qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;What will you tweak?</qco> </h3>",
+    "original_html": "<h3> <dco>1.9.23&nbsp; \n6:44 pm</dco> &nbsp;<qco> You've been granted admin access to the physics engine of our universe. </qco></h3><h3><qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;What will you tweak?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.9.23&nbsp; \n6:10 pm</dco> &nbsp;<qco> Is anything truly mainstream?</qco> </h3>",
+    "original_html": "<h3> <dco>1.9.23&nbsp; \n6:10 pm</dco> &nbsp;<qco> Is anything truly mainstream?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.9.23&nbsp; \n4:38 pm</dco> &nbsp;<qco> Why are reflections so visually pleasing to so many people? Like what is it about reflections that makes them so pretty</qco> </h3>",
+    "original_html": "<h3> <dco>1.9.23&nbsp; \n4:38 pm</dco> &nbsp;<qco> Why are reflections so visually pleasing to so many people? Like what is it about reflections that makes them so pretty</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.9.23&nbsp; \n3:50 pm</dco> &nbsp;<qco> how to get some firm beliefs when every new belief excites me and overwrites the previous one</qco> </h3>",
+    "original_html": "<h3> <dco>1.9.23&nbsp; \n3:50 pm</dco> &nbsp;<qco> how to get some firm beliefs when every new belief excites me and overwrites the previous one</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.9.23&nbsp; \n3:13 pm</dco> &nbsp;<qco> is the next vid gonna be a song?</qco> </h3>",
+    "original_html": "<h3> <dco>1.9.23&nbsp; \n3:13 pm</dco> &nbsp;<qco> is the next vid gonna be a song?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.9.23&nbsp; \n2:42 pm</dco> &nbsp;<qco> What is your inspiration?</qco> </h3>",
+    "original_html": "<h3> <dco>1.9.23&nbsp; \n2:42 pm</dco> &nbsp;<qco> What is your inspiration?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.9.23&nbsp; \n2:28 pm</dco> &nbsp;<qco> Is your name john jacob jingleheimer schmidt</qco> </h3>",
+    "original_html": "<h3> <dco>1.9.23&nbsp; \n2:28 pm</dco> &nbsp;<qco> Is your name john jacob jingleheimer schmidt</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.9.23&nbsp; \n12:54 pm</dco> &nbsp;<qco> do you like changing, staying the same, and changing between staying the same and changing?</qco> </h3>",
+    "original_html": "<h3> <dco>1.9.23&nbsp; \n12:54 pm</dco> &nbsp;<qco> do you like changing, staying the same, and changing between staying the same and changing?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.9.23&nbsp; \n12:40 pm</dco> &nbsp;<qco> Can you believe 2004 was 30 years ago?</qco> </h3>",
+    "original_html": "<h3> <dco>1.9.23&nbsp; \n12:40 pm</dco> &nbsp;<qco> Can you believe 2004 was 30 years ago?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.9.23&nbsp; \n12:02 pm</dco> &nbsp;<qco> I often feel discouraged when I try to make art, what is your solution?</qco> </h3>",
+    "original_html": "<h3> <dco>1.9.23&nbsp; \n12:02 pm</dco> &nbsp;<qco> I often feel discouraged when I try to make art, what is your solution?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.9.23&nbsp; \n11:46 am</dco> &nbsp;<qco> how many languages do you speak (for real, not like music or happiness i mean things like english or latin)</qco> </h3>",
+    "original_html": "<h3> <dco>1.9.23&nbsp; \n11:46 am</dco> &nbsp;<qco> how many languages do you speak (for real, not like music or happiness i mean things like english or latin)</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.9.23&nbsp; \n11:45 am</dco> &nbsp;<qco> would you call yourself an animator?</qco> </h3>",
+    "original_html": "<h3> <dco>1.9.23&nbsp; \n11:45 am</dco> &nbsp;<qco> would you call yourself an animator?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.9.23&nbsp; \n10:24 am</dco> &nbsp;<qco> Have you ever been on an airplane?</qco> </h3>",
+    "original_html": "<h3> <dco>1.9.23&nbsp; \n10:24 am</dco> &nbsp;<qco> Have you ever been on an airplane?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.9.23&nbsp; \n10:17 am</dco> &nbsp;<qco> What's your #1 life advice&nbsp;</qco> </h3>",
+    "original_html": "<h3> <dco>1.9.23&nbsp; \n10:17 am</dco> &nbsp;<qco> What's your #1 life advice&nbsp;</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.9.23&nbsp; \n9:28 am</dco> &nbsp;<qco> How do you manage to find the motivation to do what you want to do? </qco></h3><h3><qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And how do you stick to that thing?</qco> </h3>",
+    "original_html": "<h3> <dco>1.9.23&nbsp; \n9:28 am</dco> &nbsp;<qco> How do you manage to find the motivation to do what you want to do? </qco></h3><h3><qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And how do you stick to that thing?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.9.23&nbsp; \n8:06 am</dco> &nbsp;<qco> Is the universe gonna explode tomorrow</qco> </h3>",
+    "original_html": "<h3> <dco>1.9.23&nbsp; \n8:06 am</dco> &nbsp;<qco> Is the universe gonna explode tomorrow</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.9.23&nbsp; \n7:09 am</dco> &nbsp;<qco> in your live shows will you use a keytar?</qco> </h3>",
+    "original_html": "<h3> <dco>1.9.23&nbsp; \n7:09 am</dco> &nbsp;<qco> in your live shows will you use a keytar?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.9.23&nbsp; \n6:39 am</dco> &nbsp;<qco> do you know why paul sounds like he's saying 'mendow' sometimes in that 'love mix' tune. </qco></h3><h3><qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;also do you have a name for when a chorus gets so excited to repeat itself that it just can't wait until the nearest power of two, and skips ahead a bar, like in that 'love mix' tune</qco> </h3>",
+    "original_html": "<h3> <dco>1.9.23&nbsp; \n6:39 am</dco> &nbsp;<qco> do you know why paul sounds like he's saying 'mendow' sometimes in that 'love mix' tune. </qco></h3><h3><qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;also do you have a name for when a chorus gets so excited to repeat itself that it just can't wait until the nearest power of two, and skips ahead a bar, like in that 'love mix' tune</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  }
+]

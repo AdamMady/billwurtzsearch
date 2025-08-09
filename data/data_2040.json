@@ -1,0 +1,344 @@
+[
+  {
+    "html": "<h3> <dco>1.31.18&nbsp;\n11:25 am</dco> &nbsp;<qco> What is your favourite shape?</qco> </h3>",
+    "original_html": "<h3> <dco>1.31.18&nbsp;\n11:25 am</dco> &nbsp;<qco> What is your favourite shape?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.31.18&nbsp;\n11:22 am</dco> &nbsp;<qco> when will you release a full-length album</qco> </h3>",
+    "original_html": "<h3> <dco>1.31.18&nbsp;\n11:22 am</dco> &nbsp;<qco> when will you release a full-length album</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.31.18&nbsp;\n11:00 am</dco> &nbsp;<qco> what is an aesthetic</qco> </h3>",
+    "original_html": "<h3> <dco>1.31.18&nbsp;\n11:00 am</dco> &nbsp;<qco> what is an aesthetic</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.31.18&nbsp;\n9:38 am</dco> &nbsp;<qco> why do you use capital letters sometimes?</qco> </h3><a href=\"q.php?date=201801011340\">1.1.18&nbsp;&nbsp;1:40 pm</a><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201801011340\">https://billwurtz.com/questions/q.php?date=201801011340</a></quotedco><br><quoteaco><h3><dco>1.1.18&nbsp;\n1:40 pm</dco> &nbsp;<qco> why do you have capital letters</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;because they are useful and handy, for emphasis, acronyms, and other types of creative expression\n<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>1.31.18&nbsp;\n9:38 am</dco> &nbsp;<qco> why do you use capital letters sometimes?</qco> </h3><a href=\"q.php?date=201801011340\">1.1.18&nbsp;&nbsp;1:40 pm</a>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201801011340"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201801011340",
+        "html": "<h3><dco>1.1.18&nbsp;\n1:40 pm</dco> &nbsp;<qco> why do you have capital letters</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;because they are useful and handy, for emphasis, acronyms, and other types of creative expression\n<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>1.31.18&nbsp;\n9:27 am</dco> &nbsp;<qco> Without being vague or sarcastic, no offence, could you describe a little more behind the motives and meanings of \"Blade of grass\",</qco></h3><a href=\"q.php?date=201801301923b\">1.30.18&nbsp;&nbsp;7:23 pm</a><h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I find it a little more spontaneous and feel it might be deeper, as it kinda made me feel sad inside for some reason. am I just overthinking?&nbsp;</qco> </h3><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201801301923b\">https://billwurtz.com/questions/q.php?date=201801301923b</a></quotedco><br><quoteaco><h3><dco>1.30.18&nbsp;\n7:23 pm</dco> &nbsp;<qco> what was maybe i could eat blades of grass about</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;writing something deliberately executable in less than 2 weeks\n<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>1.31.18&nbsp;\n9:27 am</dco> &nbsp;<qco> Without being vague or sarcastic, no offence, could you describe a little more behind the motives and meanings of \"Blade of grass\",</qco></h3><a href=\"q.php?date=201801301923b\">1.30.18&nbsp;&nbsp;7:23 pm</a><h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I find it a little more spontaneous and feel it might be deeper, as it kinda made me feel sad inside for some reason. am I just overthinking?&nbsp;</qco> </h3>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201801301923b"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201801301923b",
+        "html": "<h3><dco>1.30.18&nbsp;\n7:23 pm</dco> &nbsp;<qco> what was maybe i could eat blades of grass about</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;writing something deliberately executable in less than 2 weeks\n<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>1.31.18&nbsp;\n9:08 am</dco> &nbsp;<qco> What is the best way to learn French</qco> </h3>",
+    "original_html": "<h3> <dco>1.31.18&nbsp;\n9:08 am</dco> &nbsp;<qco> What is the best way to learn French</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.31.18&nbsp;\n8:57 am</dco> &nbsp;<qco> Where does it all stop?</qco> </h3>",
+    "original_html": "<h3> <dco>1.31.18&nbsp;\n8:57 am</dco> &nbsp;<qco> Where does it all stop?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.31.18&nbsp;\n8:21 am</dco> &nbsp;<qco> What's your most embarassing moment</qco> </h3><a href=\"q.php?date=201710040100\">10.4.17&nbsp;&nbsp;1:00 am</a><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201710040100\">https://billwurtz.com/questions/q.php?date=201710040100</a></quotedco><br><quoteaco><h3><dco>10.4.17&nbsp;\n1:00 am</dco> &nbsp;<qco> what is your most embarrassing moment?&nbsp;</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;right now<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>1.31.18&nbsp;\n8:21 am</dco> &nbsp;<qco> What's your most embarassing moment</qco> </h3><a href=\"q.php?date=201710040100\">10.4.17&nbsp;&nbsp;1:00 am</a>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201710040100"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201710040100",
+        "html": "<h3><dco>10.4.17&nbsp;\n1:00 am</dco> &nbsp;<qco> what is your most embarrassing moment?&nbsp;</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;right now<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>1.31.18&nbsp;\n8:17 am</dco> &nbsp;<qco> Will you ever do a livestream Q&amp;A to get to know your fans a bit better/ to help your fans know you a bit better outside of the normal videos, or is that not your 'style'?</qco> </h3><a href=\"questions.html\">this</a>",
+    "original_html": "<h3> <dco>1.31.18&nbsp;\n8:17 am</dco> &nbsp;<qco> Will you ever do a livestream Q&amp;A to get to know your fans a bit better/ to help your fans know you a bit better outside of the normal videos, or is that not your 'style'?</qco> </h3><a href=\"questions.html\">this</a>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.31.18&nbsp;\n8:17 am</dco> &nbsp;<qco> i'm curious about the creative process behin \"blades of grass\"&nbsp;</qco> </h3><a href=\"q.php?date=201801271917\">1.27.18&nbsp;&nbsp;7:17 pm</a><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201801271917\">https://billwurtz.com/questions/q.php?date=201801271917</a></quotedco><br><quoteaco><h3><dco>1.27.18&nbsp;\n7:17 pm</dco> &nbsp;<qco> What is your process for making a video?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;first figure out how it should go, then figure out how to make it go how i said it should go. then do what i said i should do to make it go how i think it should go. then look at it and freak out because it's not going how i thought it should go. then make a list of adjustments i can make to try to get it to go the way i want it to go. then do what it says on the list. then make another smaller list, and do that list. then make an even smaller list, and do what's on that list. then make an even smaller list and skip that list, and post it online\n<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>1.31.18&nbsp;\n8:17 am</dco> &nbsp;<qco> i'm curious about the creative process behin \"blades of grass\"&nbsp;</qco> </h3><a href=\"q.php?date=201801271917\">1.27.18&nbsp;&nbsp;7:17 pm</a>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201801271917"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201801271917",
+        "html": "<h3><dco>1.27.18&nbsp;\n7:17 pm</dco> &nbsp;<qco> What is your process for making a video?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;first figure out how it should go, then figure out how to make it go how i said it should go. then do what i said i should do to make it go how i think it should go. then look at it and freak out because it's not going how i thought it should go. then make a list of adjustments i can make to try to get it to go the way i want it to go. then do what it says on the list. then make another smaller list, and do that list. then make an even smaller list, and do what's on that list. then make an even smaller list and skip that list, and post it online\n<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>1.31.18&nbsp;\n7:36 am</dco> &nbsp;<qco> I have a problem, whenever I read a script I always change some of the words to make it sound nice.</qco></h3><h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I was reading the script for the Japan video and its a bit different to the actual video and I wondered if you do that to.</qco> </h3>",
+    "original_html": "<h3> <dco>1.31.18&nbsp;\n7:36 am</dco> &nbsp;<qco> I have a problem, whenever I read a script I always change some of the words to make it sound nice.</qco></h3><h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I was reading the script for the Japan video and its a bit different to the actual video and I wondered if you do that to.</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.31.18&nbsp;\n7:20 am</dco> &nbsp;<qco> what do you think about surrealism?</qco> </h3>",
+    "original_html": "<h3> <dco>1.31.18&nbsp;\n7:20 am</dco> &nbsp;<qco> what do you think about surrealism?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.31.18&nbsp;\n6:51 am</dco> &nbsp;<qco> Do the visuals in your songs have meaning?</qco> </h3>",
+    "original_html": "<h3> <dco>1.31.18&nbsp;\n6:51 am</dco> &nbsp;<qco> Do the visuals in your songs have meaning?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.31.18&nbsp;\n5:26 am</dco> &nbsp;<qco> how come we don't have a word for the day after tomorrow?</qco> </h3>",
+    "original_html": "<h3> <dco>1.31.18&nbsp;\n5:26 am</dco> &nbsp;<qco> how come we don't have a word for the day after tomorrow?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.31.18&nbsp;\n4:55 am</dco> &nbsp;<qco> your song \"new canaan\" is stuck in my head since monday, how can I remove it?</qco> </h3>",
+    "original_html": "<h3> <dco>1.31.18&nbsp;\n4:55 am</dco> &nbsp;<qco> your song \"new canaan\" is stuck in my head since monday, how can I remove it?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.31.18&nbsp;\n4:52 am</dco> &nbsp;<qco> it seems odd to me that so many people talk to god. it's like, dude... that's wack.</qco> </h3>",
+    "original_html": "<h3> <dco>1.31.18&nbsp;\n4:52 am</dco> &nbsp;<qco> it seems odd to me that so many people talk to god. it's like, dude... that's wack.</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.31.18&nbsp;\n4:17 am</dco> &nbsp;<qco> all of the music in your videos seem similar;&nbsp;I'm getting into writing music and what sort of chords / scale do you mostly use.</qco> </h3>",
+    "original_html": "<h3> <dco>1.31.18&nbsp;\n4:17 am</dco> &nbsp;<qco> all of the music in your videos seem similar;&nbsp;I'm getting into writing music and what sort of chords / scale do you mostly use.</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.31.18&nbsp;\n4:14 am</dco> &nbsp;<qco> I'm sad because I don't know what will happen</qco> </h3>",
+    "original_html": "<h3> <dco>1.31.18&nbsp;\n4:14 am</dco> &nbsp;<qco> I'm sad because I don't know what will happen</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.31.18&nbsp;\n3:46 am</dco> &nbsp;<qco> What made you decide to become so much more active?</qco> </h3>",
+    "original_html": "<h3> <dco>1.31.18&nbsp;\n3:46 am</dco> &nbsp;<qco> What made you decide to become so much more active?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.31.18&nbsp;\n3:07 am</dco> &nbsp;<qco> what do you like about life</qco> </h3>",
+    "original_html": "<h3> <dco>1.31.18&nbsp;\n3:07 am</dco> &nbsp;<qco> what do you like about life</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.31.18&nbsp;\n2:46 am</dco> &nbsp;<qco> How sunny is the Sun?</qco> </h3>",
+    "original_html": "<h3> <dco>1.31.18&nbsp;\n2:46 am</dco> &nbsp;<qco> How sunny is the Sun?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.31.18&nbsp;\n2:07 am</dco> &nbsp;<qco> can we prove that we're alive?</qco> </h3>",
+    "original_html": "<h3> <dco>1.31.18&nbsp;\n2:07 am</dco> &nbsp;<qco> can we prove that we're alive?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.31.18&nbsp;\n1:56 am</dco> &nbsp;<qco> Do you ever feel saddened/frustrated by the constraints people put on their imaginations? </qco></h3><h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\nI'm not trying to sound snobbish;&nbsp;I struggle with it too. It can be absolutely maddening.</qco> </h3>",
+    "original_html": "<h3> <dco>1.31.18&nbsp;\n1:56 am</dco> &nbsp;<qco> Do you ever feel saddened/frustrated by the constraints people put on their imaginations? </qco></h3><h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\nI'm not trying to sound snobbish;&nbsp;I struggle with it too. It can be absolutely maddening.</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.31.18&nbsp;\n1:54 am</dco> &nbsp;<qco> bar soap or liquid soap?</qco> </h3>",
+    "original_html": "<h3> <dco>1.31.18&nbsp;\n1:54 am</dco> &nbsp;<qco> bar soap or liquid soap?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.31.18&nbsp;\n1:48 am</dco> &nbsp;<qco> Is the title of the maybe I could eat blades of grass video a commentary on clickbait and how some videos only mention anything that remotely relates to the title once and the rest of the video has absolutely nothing to do with it?</qco> </h3>",
+    "original_html": "<h3> <dco>1.31.18&nbsp;\n1:48 am</dco> &nbsp;<qco> Is the title of the maybe I could eat blades of grass video a commentary on clickbait and how some videos only mention anything that remotely relates to the title once and the rest of the video has absolutely nothing to do with it?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.31.18&nbsp;\n1:28 am</dco> &nbsp;<qco> can explosions explode?</qco> </h3>",
+    "original_html": "<h3> <dco>1.31.18&nbsp;\n1:28 am</dco> &nbsp;<qco> can explosions explode?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.31.18&nbsp;\n1:21 am</dco> &nbsp;<qco> What's an existential crisis</qco> </h3>",
+    "original_html": "<h3> <dco>1.31.18&nbsp;\n1:21 am</dco> &nbsp;<qco> What's an existential crisis</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.31.18&nbsp;\n12:57 am</dco> &nbsp;<qco> If an orange is called an orange, why isn't a banana called a yellow?</qco> </h3><a href=\"q.php?date=201708042311\">8.4.17&nbsp;&nbsp;11:11 pm</a><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201708042311\">https://billwurtz.com/questions/q.php?date=201708042311</a></quotedco><br><quoteaco><h3><dco>8.4.17&nbsp;\n11:11 pm</dco> &nbsp;<qco> if oranges are orange why arnt lemons called yellows</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the color orange was named after the orange fruit. the orange fruit was not named after the color\n<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>1.31.18&nbsp;\n12:57 am</dco> &nbsp;<qco> If an orange is called an orange, why isn't a banana called a yellow?</qco> </h3><a href=\"q.php?date=201708042311\">8.4.17&nbsp;&nbsp;11:11 pm</a>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201708042311"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201708042311",
+        "html": "<h3><dco>8.4.17&nbsp;\n11:11 pm</dco> &nbsp;<qco> if oranges are orange why arnt lemons called yellows</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the color orange was named after the orange fruit. the orange fruit was not named after the color\n<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>1.31.18&nbsp;\n12:48 am</dco> &nbsp;<qco> how long do you have to count for to get to infinity?</qco> </h3>",
+    "original_html": "<h3> <dco>1.31.18&nbsp;\n12:48 am</dco> &nbsp;<qco> how long do you have to count for to get to infinity?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.31.18&nbsp;\n12:36 am</dco> &nbsp;<qco> You get a lot of repeat questions, why don't you create an FAQ list so you don't have to answer them over and over?</qco></h3><h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Is it a simplicity or personal choice to do so?</qco> </h3>",
+    "original_html": "<h3> <dco>1.31.18&nbsp;\n12:36 am</dco> &nbsp;<qco> You get a lot of repeat questions, why don't you create an FAQ list so you don't have to answer them over and over?</qco></h3><h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Is it a simplicity or personal choice to do so?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.30.18&nbsp;\n11:58 pm</dco> &nbsp;<qco> what is the best time of day for communism</qco> </h3>",
+    "original_html": "<h3> <dco>1.30.18&nbsp;\n11:58 pm</dco> &nbsp;<qco> what is the best time of day for communism</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.30.18&nbsp;\n11:21 pm</dco> &nbsp;<qco> Is the meaning of life to give your life meaning?</qco> </h3>",
+    "original_html": "<h3> <dco>1.30.18&nbsp;\n11:21 pm</dco> &nbsp;<qco> Is the meaning of life to give your life meaning?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.30.18&nbsp;\n11:18 pm</dco> &nbsp;<qco> How to conquer myself?</qco> </h3>",
+    "original_html": "<h3> <dco>1.30.18&nbsp;\n11:18 pm</dco> &nbsp;<qco> How to conquer myself?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.30.18&nbsp;\n11:14 pm</dco> &nbsp;<qco> are you a human or a human</qco> </h3>",
+    "original_html": "<h3> <dco>1.30.18&nbsp;\n11:14 pm</dco> &nbsp;<qco> are you a human or a human</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.30.18&nbsp;\n11:04 pm</dco> &nbsp;<qco> What kind of birds sing to you in the morning?</qco> </h3>",
+    "original_html": "<h3> <dco>1.30.18&nbsp;\n11:04 pm</dco> &nbsp;<qco> What kind of birds sing to you in the morning?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.30.18&nbsp;\n10:54 pm</dco> &nbsp;<qco> what were the books you stacked in bookstacking? </qco></h3><h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;also did you like them.</qco> </h3>",
+    "original_html": "<h3> <dco>1.30.18&nbsp;\n10:54 pm</dco> &nbsp;<qco> what were the books you stacked in bookstacking? </qco></h3><h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;also did you like them.</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.30.18&nbsp;\n10:37 pm</dco> &nbsp;<qco> why are you so against things like monetization&nbsp;&nbsp;of your videos and making people sign up to use a website? </qco></h3><h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\nI feel like (as a consumer) I wouldn't mind watching an ad before one of your videos as opposed to a snl skit or something.</qco> </h3>",
+    "original_html": "<h3> <dco>1.30.18&nbsp;\n10:37 pm</dco> &nbsp;<qco> why are you so against things like monetization&nbsp;&nbsp;of your videos and making people sign up to use a website? </qco></h3><h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\nI feel like (as a consumer) I wouldn't mind watching an ad before one of your videos as opposed to a snl skit or something.</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.30.18&nbsp;\n10:35 pm</dco> &nbsp;<qco> why are firetrucks red?</qco> </h3>",
+    "original_html": "<h3> <dco>1.30.18&nbsp;\n10:35 pm</dco> &nbsp;<qco> why are firetrucks red?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.30.18&nbsp;\n10:35 pm</dco> &nbsp;<qco> How do i have fun?</qco> </h3>",
+    "original_html": "<h3> <dco>1.30.18&nbsp;\n10:35 pm</dco> &nbsp;<qco> How do i have fun?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.30.18&nbsp;\n10:27 pm</dco> &nbsp;<qco> Is the \"blade of grass\" video supposed to be a bit of a take off on people picking apart/putting down your works?</qco> </h3>",
+    "original_html": "<h3> <dco>1.30.18&nbsp;\n10:27 pm</dco> &nbsp;<qco> Is the \"blade of grass\" video supposed to be a bit of a take off on people picking apart/putting down your works?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.30.18&nbsp;\n10:16 pm</dco> &nbsp;<qco> how long is a long time</qco> </h3>",
+    "original_html": "<h3> <dco>1.30.18&nbsp;\n10:16 pm</dco> &nbsp;<qco> how long is a long time</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.30.18&nbsp;\n10:15 pm</dco> &nbsp;<qco> also my friend want toknow what color is art</qco> </h3>",
+    "original_html": "<h3> <dco>1.30.18&nbsp;\n10:15 pm</dco> &nbsp;<qco> also my friend want toknow what color is art</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.30.18&nbsp;\n10:13 pm</dco> &nbsp;<qco> what is your favorite number and letter combination</qco> </h3>",
+    "original_html": "<h3> <dco>1.30.18&nbsp;\n10:13 pm</dco> &nbsp;<qco> what is your favorite number and letter combination</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.30.18&nbsp;\n10:02 pm</dco> &nbsp;<qco> Do you know why bad things happen to goodish people?</qco> </h3><a href=\"q.php?date=201801151727\">1.15.18&nbsp;&nbsp;5:27 pm</a><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201801151727\">https://billwurtz.com/questions/q.php?date=201801151727</a></quotedco><br><quoteaco><h3><dco>1.15.18&nbsp;\n5:27 pm</dco> &nbsp;<qco> Why do bad things happen to good people&nbsp;</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;because you may have been cherrypicking the data\n<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>1.30.18&nbsp;\n10:02 pm</dco> &nbsp;<qco> Do you know why bad things happen to goodish people?</qco> </h3><a href=\"q.php?date=201801151727\">1.15.18&nbsp;&nbsp;5:27 pm</a>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201801151727"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201801151727",
+        "html": "<h3><dco>1.15.18&nbsp;\n5:27 pm</dco> &nbsp;<qco> Why do bad things happen to good people&nbsp;</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;because you may have been cherrypicking the data\n<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>1.30.18&nbsp;\n9:58 pm</dco> &nbsp;<qco> Hey, I'm not sure if butterflies really exist...</qco> </h3>",
+    "original_html": "<h3> <dco>1.30.18&nbsp;\n9:58 pm</dco> &nbsp;<qco> Hey, I'm not sure if butterflies really exist...</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.30.18&nbsp;\n9:48 pm</dco> &nbsp;<qco> Is bass fun to slap?</qco> </h3>",
+    "original_html": "<h3> <dco>1.30.18&nbsp;\n9:48 pm</dco> &nbsp;<qco> Is bass fun to slap?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.30.18&nbsp;\n9:26 pm</dco> &nbsp;<qco> What do you think of Florida?</qco> </h3>",
+    "original_html": "<h3> <dco>1.30.18&nbsp;\n9:26 pm</dco> &nbsp;<qco> What do you think of Florida?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.30.18&nbsp;\n9:22 pm</dco> &nbsp;<qco> sometimes i hold my phone and want to throw it and shatter it just to know what it feels. how do i stop this feeling.</qco> </h3>",
+    "original_html": "<h3> <dco>1.30.18&nbsp;\n9:22 pm</dco> &nbsp;<qco> sometimes i hold my phone and want to throw it and shatter it just to know what it feels. how do i stop this feeling.</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.30.18&nbsp;\n9:15 pm</dco> &nbsp;<qco> is damien based on a real person</qco> </h3><a href=\"https://www.vine.co/v/ebK9qx7aD27\">this</a>",
+    "original_html": "<h3> <dco>1.30.18&nbsp;\n9:15 pm</dco> &nbsp;<qco> is damien based on a real person</qco> </h3><a href=\"https://www.vine.co/v/ebK9qx7aD27\">this</a>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>1.30.18&nbsp;\n9:12 pm</dco> &nbsp;<qco> is your content better when you sit down and try and think of it or when it comes to you all of a sudden?</qco> </h3>",
+    "original_html": "<h3> <dco>1.30.18&nbsp;\n9:12 pm</dco> &nbsp;<qco> is your content better when you sit down and try and think of it or when it comes to you all of a sudden?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  }
+]

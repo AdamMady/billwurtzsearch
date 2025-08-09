@@ -1,0 +1,309 @@
+[
+  {
+    "html": "<h3> <dco>4.9.24&nbsp; \n9:22 am</dco> &nbsp;<qco> ¿Tú hablas español?</qco> </h3>",
+    "original_html": "<h3> <dco>4.9.24&nbsp; \n9:22 am</dco> &nbsp;<qco> ¿Tú hablas español?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.9.24&nbsp; \n9:13 am</dco> &nbsp;<qco> what's the progression of time signatures in the ending?</qco> </h3><a href=\"q.php?date=202208232349\" target=\"_blank\">this</a><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=202208232349\">https://billwurtz.com/questions/q.php?date=202208232349</a></quotedco><br><quoteaco><h3><dco>8.23.22&nbsp; \n11:49 pm</dco> &nbsp;<qco> holy moly bill can i maybe get a road map for the time sigs in your newest song, thanks</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n&nbsp;sure. there's probably many ways to do it, but here's how i would do it, if it were written down. tempo = 128.<br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n4/4 for 4 bar instrumental intro<br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\"getting ready...\" 4/4, 4/4, 2/4<br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\"weather\"... 4/4, 4/4, 2/4, 4/4, 2/4  (*option to blow through in all 4)<br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\"yes i'd\" 4/4, 4/4, 4/4, 2/4, 2/4, 4/4, 2/4  (*that's the way it feels, but nevermind those two 2/4s in a row. that's probably stupid. just call it 4 there)<br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\"out, i'm not worthy\" 4/4 for 8 bars <br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\"ue, it's not true it's not true that's not true\" 4/4 for 6 bars<br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\"musical music\" 4/4 for 4 bars<br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\"don't really know\" 4/4, 5/4, 4/4, 3/4, 4/4, 4/4 (or, if you are playing the cowbell here, perhaps you'd prefer a chart that just keeps it all in 4. vocalist or anyone playing along with the vocal riff would probably prefer to break it up into skips as shown)<br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\"weep, skip\" 4/4 for 4 bars<br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\"slow it\" 5/4, 6/4, 5/4, 4/4 HOLD (fermatta, but the recording specifically adds one additional bar of 5/8)<br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\"riff\" 4/4, 4/4, 4/4, 2/4<br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\"more riff\" 4/4, 4/4, 2/4, 4/4, 2/4 (*or, again, if you prefer you may skip this pair of 2/4s and cancel it out)<br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\"i'm not worthy\" 4/4 for 9 bars<br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\"true\" and vamp. 4/4 + 5/4 alternating until the end\n\n\n\n\n<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>4.9.24&nbsp; \n9:13 am</dco> &nbsp;<qco> what's the progression of time signatures in the ending?</qco> </h3><a href=\"q.php?date=202208232349\" target=\"_blank\">this</a>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=202208232349"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=202208232349",
+        "html": "<h3><dco>8.23.22&nbsp; \n11:49 pm</dco> &nbsp;<qco> holy moly bill can i maybe get a road map for the time sigs in your newest song, thanks</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n&nbsp;sure. there's probably many ways to do it, but here's how i would do it, if it were written down. tempo = 128.<br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n4/4 for 4 bar instrumental intro<br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\"getting ready...\" 4/4, 4/4, 2/4<br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\"weather\"... 4/4, 4/4, 2/4, 4/4, 2/4  (*option to blow through in all 4)<br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\"yes i'd\" 4/4, 4/4, 4/4, 2/4, 2/4, 4/4, 2/4  (*that's the way it feels, but nevermind those two 2/4s in a row. that's probably stupid. just call it 4 there)<br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\"out, i'm not worthy\" 4/4 for 8 bars <br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\"ue, it's not true it's not true that's not true\" 4/4 for 6 bars<br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\"musical music\" 4/4 for 4 bars<br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\"don't really know\" 4/4, 5/4, 4/4, 3/4, 4/4, 4/4 (or, if you are playing the cowbell here, perhaps you'd prefer a chart that just keeps it all in 4. vocalist or anyone playing along with the vocal riff would probably prefer to break it up into skips as shown)<br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\"weep, skip\" 4/4 for 4 bars<br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\"slow it\" 5/4, 6/4, 5/4, 4/4 HOLD (fermatta, but the recording specifically adds one additional bar of 5/8)<br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\"riff\" 4/4, 4/4, 4/4, 2/4<br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\"more riff\" 4/4, 4/4, 2/4, 4/4, 2/4 (*or, again, if you prefer you may skip this pair of 2/4s and cancel it out)<br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\"i'm not worthy\" 4/4 for 9 bars<br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\"true\" and vamp. 4/4 + 5/4 alternating until the end\n\n\n\n\n<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>4.9.24&nbsp; \n8:41 am</dco> &nbsp;<qco> do you think we should have an international nap time</qco> </h3>",
+    "original_html": "<h3> <dco>4.9.24&nbsp; \n8:41 am</dco> &nbsp;<qco> do you think we should have an international nap time</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.9.24&nbsp; \n1:52 am</dco> &nbsp;<qco> How should I go about thinking of a good question to ask you?</qco> </h3>",
+    "original_html": "<h3> <dco>4.9.24&nbsp; \n1:52 am</dco> &nbsp;<qco> How should I go about thinking of a good question to ask you?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.8.24&nbsp; \n10:28 pm</dco> &nbsp;<qco> why am i me right now?</qco> </h3>",
+    "original_html": "<h3> <dco>4.8.24&nbsp; \n10:28 pm</dco> &nbsp;<qco> why am i me right now?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.8.24&nbsp; \n10:02 pm</dco> &nbsp;<qco> Have you ever considered writing a musical with your songs? Or an album?</qco> </h3>",
+    "original_html": "<h3> <dco>4.8.24&nbsp; \n10:02 pm</dco> &nbsp;<qco> Have you ever considered writing a musical with your songs? Or an album?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.8.24&nbsp; \n9:33 pm</dco> &nbsp;<qco> whats the most internet thing you can think of</qco> </h3>",
+    "original_html": "<h3> <dco>4.8.24&nbsp; \n9:33 pm</dco> &nbsp;<qco> whats the most internet thing you can think of</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.8.24&nbsp; \n8:14 pm</dco> &nbsp;<qco> why do you think mathematicians like greek but everyone else uses latin phrases</qco> </h3>",
+    "original_html": "<h3> <dco>4.8.24&nbsp; \n8:14 pm</dco> &nbsp;<qco> why do you think mathematicians like greek but everyone else uses latin phrases</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.8.24&nbsp; \n7:38 pm</dco> &nbsp;<qco> what number makes the whole thing blue\n<br>\n<br>please bill I've wondering for a year now</qco> </h3>",
+    "original_html": "<h3> <dco>4.8.24&nbsp; \n7:38 pm</dco> &nbsp;<qco> what number makes the whole thing blue\n<br>\n<br>please bill I've wondering for a year now</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.8.24&nbsp; \n4:06 pm</dco> &nbsp;<qco> what's the first digit of pi</qco> </h3>",
+    "original_html": "<h3> <dco>4.8.24&nbsp; \n4:06 pm</dco> &nbsp;<qco> what's the first digit of pi</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.8.24&nbsp; \n2:37 pm</dco> &nbsp;<qco> what are ur thoughts on the solar eclipse?</qco> </h3>",
+    "original_html": "<h3> <dco>4.8.24&nbsp; \n2:37 pm</dco> &nbsp;<qco> what are ur thoughts on the solar eclipse?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.8.24&nbsp; \n1:59 pm</dco> &nbsp;<qco> How often do you hear music in a dream and actually remember the tune?</qco> </h3>",
+    "original_html": "<h3> <dco>4.8.24&nbsp; \n1:59 pm</dco> &nbsp;<qco> How often do you hear music in a dream and actually remember the tune?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.8.24&nbsp; \n1:06 pm</dco> &nbsp;<qco> how do i remember which month has 29 days</qco> </h3>",
+    "original_html": "<h3> <dco>4.8.24&nbsp; \n1:06 pm</dco> &nbsp;<qco> how do i remember which month has 29 days</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.8.24&nbsp; \n1:04 pm</dco> &nbsp;<qco> Do you think \"if it's impossible then make it possible\" is sound advice</qco> </h3>",
+    "original_html": "<h3> <dco>4.8.24&nbsp; \n1:04 pm</dco> &nbsp;<qco> Do you think \"if it's impossible then make it possible\" is sound advice</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.8.24&nbsp; \n11:27 am</dco> &nbsp;<qco> What do you think about people submitting non-questions on this page\n<br></qco> </h3>",
+    "original_html": "<h3> <dco>4.8.24&nbsp; \n11:27 am</dco> &nbsp;<qco> What do you think about people submitting non-questions on this page\n<br></qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.8.24&nbsp; \n11:08 am</dco> &nbsp;<qco> what do you think about wizards</qco> </h3>",
+    "original_html": "<h3> <dco>4.8.24&nbsp; \n11:08 am</dco> &nbsp;<qco> what do you think about wizards</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.8.24&nbsp; \n9:31 am</dco> &nbsp;<qco> is \"ueqstions\" pronounced like \"ooh-ehck-stions\" or is there a better way to pronounce it?</qco> </h3>",
+    "original_html": "<h3> <dco>4.8.24&nbsp; \n9:31 am</dco> &nbsp;<qco> is \"ueqstions\" pronounced like \"ooh-ehck-stions\" or is there a better way to pronounce it?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.8.24&nbsp; \n7:42 am</dco> &nbsp;<qco> Favorite greek letter?</qco> </h3>",
+    "original_html": "<h3> <dco>4.8.24&nbsp; \n7:42 am</dco> &nbsp;<qco> Favorite greek letter?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.8.24&nbsp; \n5:29 am</dco> &nbsp;<qco> So I've been working on this project for a while now and I've been struggling to work on it consistently due to anxiety, fear of failure etc. Recently though it's been going pretty well, but the problem now is whenever I'm actually able to work on said project I lose track of almost everything else in my life. Exercise, sleep, eating/drinking regularly and other daily tasks. I kind of get \"devoured\" by the project and it seems really difficult to keep a balance. Any tips on how to deal with this and sort of find a middle ground?</qco> </h3>",
+    "original_html": "<h3> <dco>4.8.24&nbsp; \n5:29 am</dco> &nbsp;<qco> So I've been working on this project for a while now and I've been struggling to work on it consistently due to anxiety, fear of failure etc. Recently though it's been going pretty well, but the problem now is whenever I'm actually able to work on said project I lose track of almost everything else in my life. Exercise, sleep, eating/drinking regularly and other daily tasks. I kind of get \"devoured\" by the project and it seems really difficult to keep a balance. Any tips on how to deal with this and sort of find a middle ground?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.8.24&nbsp; \n3:12 am</dco> &nbsp;<qco> is the randy in the im feeling randy button supposed to short for random? or is that its own word</qco> </h3>",
+    "original_html": "<h3> <dco>4.8.24&nbsp; \n3:12 am</dco> &nbsp;<qco> is the randy in the im feeling randy button supposed to short for random? or is that its own word</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.7.24&nbsp; \n11:08 pm</dco> &nbsp;<qco> How and why is our universe infinite and finite at the same time?</qco> </h3>",
+    "original_html": "<h3> <dco>4.7.24&nbsp; \n11:08 pm</dco> &nbsp;<qco> How and why is our universe infinite and finite at the same time?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.7.24&nbsp; \n10:59 pm</dco> &nbsp;<qco> Do you ever ask yourself the question to drum up publicity and/or get on a soap box&nbsp;</qco> </h3>",
+    "original_html": "<h3> <dco>4.7.24&nbsp; \n10:59 pm</dco> &nbsp;<qco> Do you ever ask yourself the question to drum up publicity and/or get on a soap box&nbsp;</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.7.24&nbsp; \n10:16 pm</dco> &nbsp;<qco> What language do you like the most?</qco> </h3>",
+    "original_html": "<h3> <dco>4.7.24&nbsp; \n10:16 pm</dco> &nbsp;<qco> What language do you like the most?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.7.24&nbsp; \n10:12 pm</dco> &nbsp;<qco> how do you deal with having ideas that are outside of your skill range</qco> </h3>",
+    "original_html": "<h3> <dco>4.7.24&nbsp; \n10:12 pm</dco> &nbsp;<qco> how do you deal with having ideas that are outside of your skill range</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.7.24&nbsp; \n7:00 pm</dco> &nbsp;<qco> do you know of any normal genre music that isn't made by you?</qco> </h3>",
+    "original_html": "<h3> <dco>4.7.24&nbsp; \n7:00 pm</dco> &nbsp;<qco> do you know of any normal genre music that isn't made by you?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.7.24&nbsp; \n6:16 pm</dco> &nbsp;<qco> Why does \"I thought/wished I'd always\" get processed as \"I'd always thought/wished\". Are they actually the same, i.e, is the former correct? My favourite hypothesis is that one just forgets to add the 'always' until after the verb but it's probably something else to do with those specific verbs. And even stranger is that the following verb can't be something that you can do repetitively! Plus although similar words like \"dreamed of\" work, something like \"decided\" doesn't.</qco> </h3>",
+    "original_html": "<h3> <dco>4.7.24&nbsp; \n6:16 pm</dco> &nbsp;<qco> Why does \"I thought/wished I'd always\" get processed as \"I'd always thought/wished\". Are they actually the same, i.e, is the former correct? My favourite hypothesis is that one just forgets to add the 'always' until after the verb but it's probably something else to do with those specific verbs. And even stranger is that the following verb can't be something that you can do repetitively! Plus although similar words like \"dreamed of\" work, something like \"decided\" doesn't.</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.7.24&nbsp; \n5:45 pm</dco> &nbsp;<qco> Do you think the questions here have ever influenced your work?</qco> </h3>",
+    "original_html": "<h3> <dco>4.7.24&nbsp; \n5:45 pm</dco> &nbsp;<qco> Do you think the questions here have ever influenced your work?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.7.24&nbsp; \n5:41 pm</dco> &nbsp;<qco> what is the purpose of making music?</qco> </h3>",
+    "original_html": "<h3> <dco>4.7.24&nbsp; \n5:41 pm</dco> &nbsp;<qco> what is the purpose of making music?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.7.24&nbsp; \n3:24 pm</dco> &nbsp;<qco> i feel like you really understand feminine rage. thank you</qco> </h3>",
+    "original_html": "<h3> <dco>4.7.24&nbsp; \n3:24 pm</dco> &nbsp;<qco> i feel like you really understand feminine rage. thank you</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.7.24&nbsp; \n3:22 pm</dco> &nbsp;<qco> What would you rather do: a) wear a fake mustache every day for the rest of your life or b) have jurassic park be real</qco> </h3>",
+    "original_html": "<h3> <dco>4.7.24&nbsp; \n3:22 pm</dco> &nbsp;<qco> What would you rather do: a) wear a fake mustache every day for the rest of your life or b) have jurassic park be real</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.7.24&nbsp; \n8:02 am</dco> &nbsp;<qco> what key is 'the ending' in? I've checked online and every website says it's either G major or A flat, but I feel it's A Major, it's driving&nbsp;&nbsp;me crazy, are my ears deceiving me? The beginning is literally the a major scale downwards</qco> </h3>",
+    "original_html": "<h3> <dco>4.7.24&nbsp; \n8:02 am</dco> &nbsp;<qco> what key is 'the ending' in? I've checked online and every website says it's either G major or A flat, but I feel it's A Major, it's driving&nbsp;&nbsp;me crazy, are my ears deceiving me? The beginning is literally the a major scale downwards</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.7.24&nbsp; \n8:01 am</dco> &nbsp;<qco> What would you say the chords are on \"way down in congress, the lights go black\"?</qco> </h3>",
+    "original_html": "<h3> <dco>4.7.24&nbsp; \n8:01 am</dco> &nbsp;<qco> What would you say the chords are on \"way down in congress, the lights go black\"?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.7.24&nbsp; \n12:24 am</dco> &nbsp;<qco> should i learn to death metal scream as a coping mechanism for really hating my regular singing voice, or should i just try to get better at singing</qco> </h3>",
+    "original_html": "<h3> <dco>4.7.24&nbsp; \n12:24 am</dco> &nbsp;<qco> should i learn to death metal scream as a coping mechanism for really hating my regular singing voice, or should i just try to get better at singing</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.6.24&nbsp; \n10:06 pm</dco> &nbsp;<qco> will you make a song with 432hz tuning</qco> </h3>",
+    "original_html": "<h3> <dco>4.6.24&nbsp; \n10:06 pm</dco> &nbsp;<qco> will you make a song with 432hz tuning</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.6.24&nbsp; 7:00 pm</dco> &nbsp;<qco> What is your religion?</qco> </h3>",
+    "original_html": "<h3> <dco>4.6.24&nbsp; 7:00 pm</dco> &nbsp;<qco> What is your religion?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.6.24&nbsp; \n6:10 pm</dco> &nbsp;<qco> What's your phone wallpaper right now?</qco> </h3>",
+    "original_html": "<h3> <dco>4.6.24&nbsp; \n6:10 pm</dco> &nbsp;<qco> What's your phone wallpaper right now?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.6.24&nbsp; \n6:07 pm</dco> &nbsp;<qco> What is your favourite type of elephant&nbsp;</qco> </h3>",
+    "original_html": "<h3> <dco>4.6.24&nbsp; \n6:07 pm</dco> &nbsp;<qco> What is your favourite type of elephant&nbsp;</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.6.24&nbsp; \n6:02 pm</dco> &nbsp;<qco> if day follows after night, is it crazy to think that good will follow the bad?</qco> </h3>",
+    "original_html": "<h3> <dco>4.6.24&nbsp; \n6:02 pm</dco> &nbsp;<qco> if day follows after night, is it crazy to think that good will follow the bad?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.6.24&nbsp; \n3:22 pm</dco> &nbsp;<qco> ueqstion: what do you think about a possible 3rd kind (aliens)</qco> </h3>",
+    "original_html": "<h3> <dco>4.6.24&nbsp; \n3:22 pm</dco> &nbsp;<qco> ueqstion: what do you think about a possible 3rd kind (aliens)</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.6.24&nbsp; \n2:30 pm</dco> &nbsp;<qco> what is irony?</qco> </h3>",
+    "original_html": "<h3> <dco>4.6.24&nbsp; \n2:30 pm</dco> &nbsp;<qco> what is irony?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.6.24&nbsp; \n12:45 pm</dco> &nbsp;<qco> do you think your brain works differently than other people?\n<br></qco> </h3>",
+    "original_html": "<h3> <dco>4.6.24&nbsp; \n12:45 pm</dco> &nbsp;<qco> do you think your brain works differently than other people?\n<br></qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.6.24&nbsp; \n12:36 pm</dco> &nbsp;<qco> how do i battle a crippling addiction to both my phone and the internet in general (which also extends to my computer to some degree)?</qco> </h3>",
+    "original_html": "<h3> <dco>4.6.24&nbsp; \n12:36 pm</dco> &nbsp;<qco> how do i battle a crippling addiction to both my phone and the internet in general (which also extends to my computer to some degree)?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.6.24&nbsp; \n12:32 pm</dco> &nbsp;<qco> What is the most beautiful chord you can possibly think of? And why?</qco> </h3>",
+    "original_html": "<h3> <dco>4.6.24&nbsp; \n12:32 pm</dco> &nbsp;<qco> What is the most beautiful chord you can possibly think of? And why?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.6.24&nbsp; \n10:36 am</dco> &nbsp;<qco> what decade do you think had the best movies</qco> </h3>",
+    "original_html": "<h3> <dco>4.6.24&nbsp; \n10:36 am</dco> &nbsp;<qco> what decade do you think had the best movies</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.6.24&nbsp; \n9:34 am</dco> &nbsp;<qco> Why make art?</qco> </h3>",
+    "original_html": "<h3> <dco>4.6.24&nbsp; \n9:34 am</dco> &nbsp;<qco> Why make art?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.6.24&nbsp; \n9:03 am</dco> &nbsp;<qco> how did you teach yourself bass?</qco> </h3>",
+    "original_html": "<h3> <dco>4.6.24&nbsp; \n9:03 am</dco> &nbsp;<qco> how did you teach yourself bass?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.6.24&nbsp; 4:50 am</dco> &nbsp;<qco> what is your favourite word?</qco> </h3>",
+    "original_html": "<h3> <dco>4.6.24&nbsp; 4:50 am</dco> &nbsp;<qco> what is your favourite word?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.6.24&nbsp; 2:29 am</dco> &nbsp;<qco> what is your favorite song out of every song you made?</qco> </h3>",
+    "original_html": "<h3> <dco>4.6.24&nbsp; 2:29 am</dco> &nbsp;<qco> what is your favorite song out of every song you made?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.6.24&nbsp; \n1:57 am</dco> &nbsp;<qco> In a previous question you said you did April Fools on different days. What's the last day you've done April Fools?</qco> </h3>",
+    "original_html": "<h3> <dco>4.6.24&nbsp; \n1:57 am</dco> &nbsp;<qco> In a previous question you said you did April Fools on different days. What's the last day you've done April Fools?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.5.24&nbsp; \n11:53 pm</dco> &nbsp;<qco> Why is it my fault&nbsp;</qco> </h3>",
+    "original_html": "<h3> <dco>4.5.24&nbsp; \n11:53 pm</dco> &nbsp;<qco> Why is it my fault&nbsp;</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  }
+]

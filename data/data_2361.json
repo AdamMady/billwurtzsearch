@@ -1,0 +1,351 @@
+[
+  {
+    "html": "<h3> <dco>4.9.17&nbsp; \n3:19 pm</dco> &nbsp;<qco> What is your favorite quadrilateral? </qco> </h3>",
+    "original_html": "<h3> <dco>4.9.17&nbsp; \n3:19 pm</dco> &nbsp;<qco> What is your favorite quadrilateral? </qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.9.17&nbsp; \n2:33 pm</dco> &nbsp;<qco> <a href=\"pineapple-on-pizza.html\">what do you think of pineapple on pizza?</a></qco> </h3><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/pineapple-on-pizza.html\">https://billwurtz.com/questions/pineapple-on-pizza.html</a></quotedco><br><quoteaco><br><br><h3> <dco>4.15.17&nbsp;\n3:08 am</dco> &nbsp;<qco> What do you think of pineapple pizza?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <dco>4.14.17&nbsp;\n1:57 am</dco> &nbsp;<qco> Pineapple on pizza?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <dco>4.9.17&nbsp; \n2:33 pm</dco> &nbsp;<qco> what do you think of pineapple on pizza?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <dco>4.6.17&nbsp;\n2:44 am</dco> &nbsp;<qco> do you enjoy pineapple on pizza?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">3.29.17&nbsp;\n11:22 pm</font> &nbsp;<font color=\"#3A81FF\"> Thoughts on putting pineapple on pizza?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">2.28.17&nbsp;\n1:42 am</font> &nbsp;<font color=\"#3A81FF\"> what do you think about pineapple pizza?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br><h3> <font color=\"#EE4B4B\">1.27.17&nbsp;\n9:57 am</font> &nbsp;<font color=\"#3A81FF\"> Does pineapple go on pizza?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">12.21.16&nbsp;\n8:57 am</font> &nbsp;<font color=\"#3A81FF\"> Does pineapple go on pizza?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\n<br><br><h3> <font color=\"#EE4B4B\">8.28.16&nbsp;\n5:55 am</font> &nbsp;<font color=\"#3A81FF\"> pineapple on pizza?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">4.4.16&nbsp;\n7:07 pm</font> &nbsp;<font color=\"#3A81FF\"> pineapple on pizza - yes or no?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\n\n\n\n\n\n\n<br><br>&nbsp;&nbsp;&nbsp;&nbsp; has anyone thought of putting the pizza on the pineapple\n\n<br></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>4.9.17&nbsp; \n2:33 pm</dco> &nbsp;<qco> <a href=\"pineapple-on-pizza.html\">what do you think of pineapple on pizza?</a></qco> </h3>",
+    "answer_links": [
+      "https://billwurtz.com/questions/pineapple-on-pizza.html"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/pineapple-on-pizza.html",
+        "html": "<br><br><h3> <dco>4.15.17&nbsp;\n3:08 am</dco> &nbsp;<qco> What do you think of pineapple pizza?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <dco>4.14.17&nbsp;\n1:57 am</dco> &nbsp;<qco> Pineapple on pizza?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <dco>4.9.17&nbsp; \n2:33 pm</dco> &nbsp;<qco> what do you think of pineapple on pizza?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <dco>4.6.17&nbsp;\n2:44 am</dco> &nbsp;<qco> do you enjoy pineapple on pizza?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">3.29.17&nbsp;\n11:22 pm</font> &nbsp;<font color=\"#3A81FF\"> Thoughts on putting pineapple on pizza?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">2.28.17&nbsp;\n1:42 am</font> &nbsp;<font color=\"#3A81FF\"> what do you think about pineapple pizza?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br><h3> <font color=\"#EE4B4B\">1.27.17&nbsp;\n9:57 am</font> &nbsp;<font color=\"#3A81FF\"> Does pineapple go on pizza?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">12.21.16&nbsp;\n8:57 am</font> &nbsp;<font color=\"#3A81FF\"> Does pineapple go on pizza?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\n<br><br><h3> <font color=\"#EE4B4B\">8.28.16&nbsp;\n5:55 am</font> &nbsp;<font color=\"#3A81FF\"> pineapple on pizza?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">4.4.16&nbsp;\n7:07 pm</font> &nbsp;<font color=\"#3A81FF\"> pineapple on pizza - yes or no?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\n\n\n\n\n\n\n<br><br>&nbsp;&nbsp;&nbsp;&nbsp; has anyone thought of putting the pizza on the pineapple\n\n<br>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>4.9.17&nbsp; \n2:14 pm</dco> &nbsp;<qco> what stage are you on with the video?</qco> </h3>",
+    "original_html": "<h3> <dco>4.9.17&nbsp; \n2:14 pm</dco> &nbsp;<qco> what stage are you on with the video?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.9.17&nbsp; \n1:42 pm</dco> &nbsp;<qco> do you ever hesitate to stay up late to work on projects bc the lack of sleep at that point might affect the quality of the project</qco> </h3>",
+    "original_html": "<h3> <dco>4.9.17&nbsp; \n1:42 pm</dco> &nbsp;<qco> do you ever hesitate to stay up late to work on projects bc the lack of sleep at that point might affect the quality of the project</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.9.17&nbsp; \n1:28 pm</dco> &nbsp;<qco> What got you into making the short, funny jingles that you make?</qco> </h3>",
+    "original_html": "<h3> <dco>4.9.17&nbsp; \n1:28 pm</dco> &nbsp;<qco> What got you into making the short, funny jingles that you make?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.9.17&nbsp; \n1:06 pm</dco> &nbsp;<qco> help i forgot how to ask a question </qco> </h3>",
+    "original_html": "<h3> <dco>4.9.17&nbsp; \n1:06 pm</dco> &nbsp;<qco> help i forgot how to ask a question </qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.9.17&nbsp; \n1:00 pm</dco> &nbsp;<qco> why is rain made out of water?</qco> </h3>",
+    "original_html": "<h3> <dco>4.9.17&nbsp; \n1:00 pm</dco> &nbsp;<qco> why is rain made out of water?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.9.17&nbsp; \n12:36 pm</dco> &nbsp;<qco> <a href=\"why-did-you-stop-making-videos.html\">why have you stopped making videos?</a></qco> </h3><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/why-did-you-stop-making-videos.html\">https://billwurtz.com/questions/why-did-you-stop-making-videos.html</a></quotedco><br><quoteaco><br><br><h3> <dco>4.11.17&nbsp;\n10:40 am</dco> &nbsp;<qco> why did you stop making videos?\n</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br><h3> <dco>4.9.17&nbsp; \n11:43 pm</dco> &nbsp;<qco> when will u start making videos again?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br><h3> <dco>4.9.17&nbsp; \n12:36 pm</dco> &nbsp;<qco> why have you stopped making videos?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br><h3> <dco>4.4.17&nbsp; \n6:39 pm</dco> &nbsp;<qco> y u no do any more vids kthxbai</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">3.20.17&nbsp; \n8:50 am</font> &nbsp;<font color=\"#3A81FF\"> Why wont you make videos anymore?\n</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">3.14.17&nbsp;\n7:22 am</font> &nbsp;<font color=\"#3A81FF\"> I have a dream about having your new videos and I already watched it. In reality, you don't have either one. Why no more videos?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">3.11.17&nbsp; \n9:22 pm</font> &nbsp;<font color=\"#3A81FF\"> &gt;tfw i'll never know why you stopoed making videos</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">3.2.17&nbsp; \n2:01 pm</font> &nbsp;<font color=\"#3A81FF\"> you are dead (sorry beacuse you ended videos)</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">2.28.17&nbsp;\n2:09 am</font> &nbsp;<font color=\"#3A81FF\"> Are you gonna make any more videos soon?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">1.5.17&nbsp;\n1:19 pm</font> &nbsp;<font color=\"#3A81FF\"> Why did you stop making videos?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">1.2.17&nbsp;\n6:54 pm</font> &nbsp;<font color=\"#3A81FF\"> If you are not making videos, then how do you afford thins like \"rent\" and \"food\".</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">12.31.16&nbsp;\n7:59 pm</font> &nbsp;<font color=\"#3A81FF\"> why haven't you made a video in so long?a</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">11.30.16&nbsp;\n5:19 am</font> &nbsp;<font color=\"#3A81FF\"> Why are you not posting any more videos</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">11.29.16&nbsp;\n6:45 pm</font> &nbsp;<font color=\"#3A81FF\"> Why haven't you made any content recently for your youtube channel?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">11.7.16&nbsp;\n9:06 am</font> &nbsp;<font color=\"#3A81FF\"> do you care that you are losing subscribers because you haven't made a video in a long time?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">10.12.16&nbsp;\n2:45 pm</font> &nbsp;<font color=\"#3A81FF\"> YOU STOPPED UPLOADING VIDEOS! </font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">10.8.16&nbsp;\n12:15 pm</font> &nbsp;<font color=\"#3A81FF\"> why'd you stop making videos?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">10.2.16&nbsp;\n4:55 pm</font> &nbsp;<font color=\"#3A81FF\"> You haven't made any videos in a while...</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\n\n\n\n\n\n<br><br>&nbsp;&nbsp;&nbsp;&nbsp; i did not stop making videos. sorry for the confusion\n\n\n<br></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>4.9.17&nbsp; \n12:36 pm</dco> &nbsp;<qco> <a href=\"why-did-you-stop-making-videos.html\">why have you stopped making videos?</a></qco> </h3>",
+    "answer_links": [
+      "https://billwurtz.com/questions/why-did-you-stop-making-videos.html"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/why-did-you-stop-making-videos.html",
+        "html": "<br><br><h3> <dco>4.11.17&nbsp;\n10:40 am</dco> &nbsp;<qco> why did you stop making videos?\n</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br><h3> <dco>4.9.17&nbsp; \n11:43 pm</dco> &nbsp;<qco> when will u start making videos again?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br><h3> <dco>4.9.17&nbsp; \n12:36 pm</dco> &nbsp;<qco> why have you stopped making videos?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br><h3> <dco>4.4.17&nbsp; \n6:39 pm</dco> &nbsp;<qco> y u no do any more vids kthxbai</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">3.20.17&nbsp; \n8:50 am</font> &nbsp;<font color=\"#3A81FF\"> Why wont you make videos anymore?\n</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">3.14.17&nbsp;\n7:22 am</font> &nbsp;<font color=\"#3A81FF\"> I have a dream about having your new videos and I already watched it. In reality, you don't have either one. Why no more videos?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">3.11.17&nbsp; \n9:22 pm</font> &nbsp;<font color=\"#3A81FF\"> &gt;tfw i'll never know why you stopoed making videos</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">3.2.17&nbsp; \n2:01 pm</font> &nbsp;<font color=\"#3A81FF\"> you are dead (sorry beacuse you ended videos)</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">2.28.17&nbsp;\n2:09 am</font> &nbsp;<font color=\"#3A81FF\"> Are you gonna make any more videos soon?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">1.5.17&nbsp;\n1:19 pm</font> &nbsp;<font color=\"#3A81FF\"> Why did you stop making videos?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">1.2.17&nbsp;\n6:54 pm</font> &nbsp;<font color=\"#3A81FF\"> If you are not making videos, then how do you afford thins like \"rent\" and \"food\".</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">12.31.16&nbsp;\n7:59 pm</font> &nbsp;<font color=\"#3A81FF\"> why haven't you made a video in so long?a</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">11.30.16&nbsp;\n5:19 am</font> &nbsp;<font color=\"#3A81FF\"> Why are you not posting any more videos</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">11.29.16&nbsp;\n6:45 pm</font> &nbsp;<font color=\"#3A81FF\"> Why haven't you made any content recently for your youtube channel?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">11.7.16&nbsp;\n9:06 am</font> &nbsp;<font color=\"#3A81FF\"> do you care that you are losing subscribers because you haven't made a video in a long time?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">10.12.16&nbsp;\n2:45 pm</font> &nbsp;<font color=\"#3A81FF\"> YOU STOPPED UPLOADING VIDEOS! </font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">10.8.16&nbsp;\n12:15 pm</font> &nbsp;<font color=\"#3A81FF\"> why'd you stop making videos?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">10.2.16&nbsp;\n4:55 pm</font> &nbsp;<font color=\"#3A81FF\"> You haven't made any videos in a while...</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\n\n\n\n\n\n<br><br>&nbsp;&nbsp;&nbsp;&nbsp; i did not stop making videos. sorry for the confusion\n\n\n<br>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>4.9.17&nbsp; \n12:06 pm</dco> &nbsp;<qco> What makes us different from the other animals? I mean intrinsically. </qco> </h3>",
+    "original_html": "<h3> <dco>4.9.17&nbsp; \n12:06 pm</dco> &nbsp;<qco> What makes us different from the other animals? I mean intrinsically. </qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.9.17&nbsp; \n11:02 am</dco> &nbsp;<qco> As a follow up to my question about song length, will you ever make a long song?</qco> </h3>",
+    "original_html": "<h3> <dco>4.9.17&nbsp; \n11:02 am</dco> &nbsp;<qco> As a follow up to my question about song length, will you ever make a long song?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.9.17&nbsp; \n10:54 am</dco> &nbsp;<qco> <a href=\"why-are-you-so-random.html\">Why are you so random?</a></qco> </h3><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/why-are-you-so-random.html\">https://billwurtz.com/questions/why-are-you-so-random.html</a></quotedco><br><quoteaco><br><br><h3> <dco>5.15.17&nbsp;\n7:32 am</dco> &nbsp;<qco> Why are you so rnd()?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <dco>4.9.17&nbsp; \n10:54 am</dco> &nbsp;<qco> Why are you so random?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br><h3> <font color=\"#EE4B4B\">3.25.17&nbsp; \n2:22 am</font> &nbsp;<font color=\"#3A81FF\"> Is your content actually as random as most people think it is?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br><h3> <font color=\"#EE4B4B\">1.26.17&nbsp; \n2:34 am</font> &nbsp;<font color=\"#3A81FF\"> are your thoughts as random as they seem? or is there an underlying order to the chaos?\n</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">11.20.16&nbsp; \n7:54 pm</font> &nbsp;<font color=\"#3A81FF\"> Why so random?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">9.16.16&nbsp; \n8:56 am</font> &nbsp;<font color=\"#3A81FF\"> Hey dude, why are you so random? XD</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">6.30.16&nbsp; \n10:38 am</font> &nbsp;<font color=\"#3A81FF\"> Would you say that the topics of your videos are random, or is there a particular method to coming up with them?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">6.12.16&nbsp; \n7:59 pm</font> &nbsp;<font color=\"#3A81FF\"> Do you enjoy being random?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\n\n\n\n\n<br><br>&nbsp;&nbsp;&nbsp;&nbsp; i'm just trying to be reasonable\n\n<br></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>4.9.17&nbsp; \n10:54 am</dco> &nbsp;<qco> <a href=\"why-are-you-so-random.html\">Why are you so random?</a></qco> </h3>",
+    "answer_links": [
+      "https://billwurtz.com/questions/why-are-you-so-random.html"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/why-are-you-so-random.html",
+        "html": "<br><br><h3> <dco>5.15.17&nbsp;\n7:32 am</dco> &nbsp;<qco> Why are you so rnd()?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <dco>4.9.17&nbsp; \n10:54 am</dco> &nbsp;<qco> Why are you so random?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br><h3> <font color=\"#EE4B4B\">3.25.17&nbsp; \n2:22 am</font> &nbsp;<font color=\"#3A81FF\"> Is your content actually as random as most people think it is?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br><h3> <font color=\"#EE4B4B\">1.26.17&nbsp; \n2:34 am</font> &nbsp;<font color=\"#3A81FF\"> are your thoughts as random as they seem? or is there an underlying order to the chaos?\n</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">11.20.16&nbsp; \n7:54 pm</font> &nbsp;<font color=\"#3A81FF\"> Why so random?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">9.16.16&nbsp; \n8:56 am</font> &nbsp;<font color=\"#3A81FF\"> Hey dude, why are you so random? XD</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">6.30.16&nbsp; \n10:38 am</font> &nbsp;<font color=\"#3A81FF\"> Would you say that the topics of your videos are random, or is there a particular method to coming up with them?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">6.12.16&nbsp; \n7:59 pm</font> &nbsp;<font color=\"#3A81FF\"> Do you enjoy being random?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\n\n\n\n\n<br><br>&nbsp;&nbsp;&nbsp;&nbsp; i'm just trying to be reasonable\n\n<br>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>4.9.17&nbsp; \n10:20 am</dco> &nbsp;<qco> is it possible to read every single question here without dying of boredom</qco> </h3>",
+    "original_html": "<h3> <dco>4.9.17&nbsp; \n10:20 am</dco> &nbsp;<qco> is it possible to read every single question here without dying of boredom</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.9.17&nbsp; \n10:18 am</dco> &nbsp;<qco> Are you doing the mix now or are you past that stage by now?\n</qco> </h3>",
+    "original_html": "<h3> <dco>4.9.17&nbsp; \n10:18 am</dco> &nbsp;<qco> Are you doing the mix now or are you past that stage by now?\n</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.9.17&nbsp; \n10:01 am</dco> &nbsp;<qco> Have you ever turned the tables (metaphorically speaking)?</qco> </h3>",
+    "original_html": "<h3> <dco>4.9.17&nbsp; \n10:01 am</dco> &nbsp;<qco> Have you ever turned the tables (metaphorically speaking)?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.9.17&nbsp; \n9:44 am</dco> &nbsp;<qco> Is tonight the Big Night? As in, the new Bill Wurtz video release night? </qco> </h3>",
+    "original_html": "<h3> <dco>4.9.17&nbsp; \n9:44 am</dco> &nbsp;<qco> Is tonight the Big Night? As in, the new Bill Wurtz video release night? </qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.9.17&nbsp; \n8:54 am</dco> &nbsp;<qco> <a href=\"how-long-have-you-been-making-music.html\">How long have you been playing piano?</a></qco> </h3><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/how-long-have-you-been-making-music.html\">https://billwurtz.com/questions/how-long-have-you-been-making-music.html</a></quotedco><br><quoteaco><br><br><h3> <dco>4.25.17&nbsp;\n3:16 pm</dco> &nbsp;<qco> How long have you been making music for?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <dco>4.9.17&nbsp; \n8:54 am</dco> &nbsp;<qco> How long have you been playing piano?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\n<br><br><h3> <font color=\"#EE4B4B\">11.13.16&nbsp;\n6:00 pm</font> &nbsp;<font color=\"#3A81FF\"> How long have you been making music?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\n\n<br><br><h3> <font color=\"#EE4B4B\">7.15.16&nbsp;\n8:28 am</font> &nbsp;<font color=\"#3A81FF\"> how long have you been musicing?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\n\n<br><br><h3> <font color=\"#EE4B4B\">7.5.16&nbsp;\n1:53 am</font> &nbsp;<font color=\"#3A81FF\"> Hey, how long have you been making music? </font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\n\n<br><br><h3> <font color=\"#EE4B4B\">6.26.16&nbsp;\n6:21 pm</font> &nbsp;<font color=\"#3A81FF\"> I was wondering how long you've been playing piano?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\n\n\n\n<br><br>&nbsp;&nbsp;&nbsp;&nbsp; since i was 2\n\n<br></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>4.9.17&nbsp; \n8:54 am</dco> &nbsp;<qco> <a href=\"how-long-have-you-been-making-music.html\">How long have you been playing piano?</a></qco> </h3>",
+    "answer_links": [
+      "https://billwurtz.com/questions/how-long-have-you-been-making-music.html"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/how-long-have-you-been-making-music.html",
+        "html": "<br><br><h3> <dco>4.25.17&nbsp;\n3:16 pm</dco> &nbsp;<qco> How long have you been making music for?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <dco>4.9.17&nbsp; \n8:54 am</dco> &nbsp;<qco> How long have you been playing piano?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\n<br><br><h3> <font color=\"#EE4B4B\">11.13.16&nbsp;\n6:00 pm</font> &nbsp;<font color=\"#3A81FF\"> How long have you been making music?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\n\n<br><br><h3> <font color=\"#EE4B4B\">7.15.16&nbsp;\n8:28 am</font> &nbsp;<font color=\"#3A81FF\"> how long have you been musicing?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\n\n<br><br><h3> <font color=\"#EE4B4B\">7.5.16&nbsp;\n1:53 am</font> &nbsp;<font color=\"#3A81FF\"> Hey, how long have you been making music? </font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\n\n<br><br><h3> <font color=\"#EE4B4B\">6.26.16&nbsp;\n6:21 pm</font> &nbsp;<font color=\"#3A81FF\"> I was wondering how long you've been playing piano?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\n\n\n\n<br><br>&nbsp;&nbsp;&nbsp;&nbsp; since i was 2\n\n<br>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>4.9.17&nbsp; \n7:23 am</dco> &nbsp;<qco> Will the new video be out in the next 4 days, 7 hours, 23 minutes, 49 seconds and 3 milliseconds? </qco> </h3>",
+    "original_html": "<h3> <dco>4.9.17&nbsp; \n7:23 am</dco> &nbsp;<qco> Will the new video be out in the next 4 days, 7 hours, 23 minutes, 49 seconds and 3 milliseconds? </qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.9.17&nbsp; \n7:20 am</dco> &nbsp;<qco> why people laugh when i wear socks that doesn't match?</qco> </h3>",
+    "original_html": "<h3> <dco>4.9.17&nbsp; \n7:20 am</dco> &nbsp;<qco> why people laugh when i wear socks that doesn't match?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.9.17&nbsp; \n7:15 am</dco> &nbsp;<qco> <a href=\"how-to-not-be-depressed.html\">how to get out of a depression?</a></qco> </h3><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/how-to-not-be-depressed.html\">https://billwurtz.com/questions/how-to-not-be-depressed.html</a></quotedco><br><quoteaco><br><br><h3> <dco>4.9.17&nbsp; \n7:15 am</dco> &nbsp;<qco> how to get out of a depression?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br><h3> <font color=\"#EE4B4B\">2.9.17&nbsp;\n1:30 am</font> &nbsp;<font color=\"#3A81FF\"> Do you have any tips on dealing with depression?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br><h3> <font color=\"#EE4B4B\">5.27.16&nbsp; \n7:12 pm</font> &nbsp;<font color=\"#3A81FF\"> Bill how can I stop being depressed</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br><h3> <font color=\"#EE4B4B\">4.29.16&nbsp;\n4:10 am</font> &nbsp;<font color=\"#3A81FF\"> I think I have depression. Any tips on how to survive</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\n\n\n\n\n\n\n<br><br>&nbsp;&nbsp;&nbsp;&nbsp;get abducted by aliens\n <!--build a world-->\n\n<br></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>4.9.17&nbsp; \n7:15 am</dco> &nbsp;<qco> <a href=\"how-to-not-be-depressed.html\">how to get out of a depression?</a></qco> </h3>",
+    "answer_links": [
+      "https://billwurtz.com/questions/how-to-not-be-depressed.html"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/how-to-not-be-depressed.html",
+        "html": "<br><br><h3> <dco>4.9.17&nbsp; \n7:15 am</dco> &nbsp;<qco> how to get out of a depression?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br><h3> <font color=\"#EE4B4B\">2.9.17&nbsp;\n1:30 am</font> &nbsp;<font color=\"#3A81FF\"> Do you have any tips on dealing with depression?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br><h3> <font color=\"#EE4B4B\">5.27.16&nbsp; \n7:12 pm</font> &nbsp;<font color=\"#3A81FF\"> Bill how can I stop being depressed</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br><h3> <font color=\"#EE4B4B\">4.29.16&nbsp;\n4:10 am</font> &nbsp;<font color=\"#3A81FF\"> I think I have depression. Any tips on how to survive</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\n\n\n\n\n\n\n<br><br>&nbsp;&nbsp;&nbsp;&nbsp;get abducted by aliens\n <!--build a world-->\n\n<br>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>4.9.17&nbsp; \n7:14 am</dco> &nbsp;<qco> <a href=\"how-do-i-know-i-am-real.html\">how do i know i am real?</a>\n</qco> </h3><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/how-do-i-know-i-am-real.html\">https://billwurtz.com/questions/how-do-i-know-i-am-real.html</a></quotedco><br><quoteaco><br><br><h3> <dco>4.9.17&nbsp; \n7:14 am</dco> &nbsp;<qco> how do i know i am real?\n</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">10.10.16&nbsp;\n9:23 am</font> &nbsp;<font color=\"#3A81FF\"> How do I know I am real?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">6.3.16&nbsp;\n6:25 pm</font> &nbsp;<font color=\"#3A81FF\"> How do I know I am real?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">5.22.16&nbsp;\n5:40 pm</font> &nbsp;<font color=\"#3A81FF\"> i am not sure if im real what do i do</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">4.14.16&nbsp;\n12:56 am</font> &nbsp;<font color=\"#3A81FF\"> how do i know for sure if im real or fake</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\n\n\n\n\n<br><br>&nbsp;&nbsp;&nbsp;&nbsp; if you are wondering if you are real, then you are real\n\n<br></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>4.9.17&nbsp; \n7:14 am</dco> &nbsp;<qco> <a href=\"how-do-i-know-i-am-real.html\">how do i know i am real?</a>\n</qco> </h3>",
+    "answer_links": [
+      "https://billwurtz.com/questions/how-do-i-know-i-am-real.html"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/how-do-i-know-i-am-real.html",
+        "html": "<br><br><h3> <dco>4.9.17&nbsp; \n7:14 am</dco> &nbsp;<qco> how do i know i am real?\n</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">10.10.16&nbsp;\n9:23 am</font> &nbsp;<font color=\"#3A81FF\"> How do I know I am real?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">6.3.16&nbsp;\n6:25 pm</font> &nbsp;<font color=\"#3A81FF\"> How do I know I am real?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">5.22.16&nbsp;\n5:40 pm</font> &nbsp;<font color=\"#3A81FF\"> i am not sure if im real what do i do</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">4.14.16&nbsp;\n12:56 am</font> &nbsp;<font color=\"#3A81FF\"> how do i know for sure if im real or fake</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\n\n\n\n\n<br><br>&nbsp;&nbsp;&nbsp;&nbsp; if you are wondering if you are real, then you are real\n\n<br>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>4.9.17&nbsp; \n7:13 am</dco> &nbsp;<qco> <a href=\"can-plants-feel.html\">can plants feel?</a>\n</qco> </h3><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/can-plants-feel.html\">https://billwurtz.com/questions/can-plants-feel.html</a></quotedco><br><quoteaco><br><br><h3> <dco>4.9.17&nbsp; \n7:13 am</dco> &nbsp;<qco> can plants feel?\n</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">1.12.17&nbsp;\n4:43 am</font> &nbsp;<font color=\"#3A81FF\"> Do you think that plants have opinions on things?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">1.11.17&nbsp;\n3:31 pm</font> &nbsp;<font color=\"#3A81FF\"> can plants be intelligent?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\n<br><br><h3> <font color=\"#EE4B4B\">11.10.16&nbsp;\n3:47 am</font> &nbsp;<font color=\"#3A81FF\"> can plants feel?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">6.3.16&nbsp;\n6:25 pm</font> &nbsp;<font color=\"#3A81FF\"> Can plants feel?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">4.6.16&nbsp;\n8:50 pm</font> &nbsp;<font color=\"#3A81FF\"> do you think plants have a conscious? </font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\n\n\n\n\n<br><br>&nbsp;&nbsp;&nbsp;&nbsp; yes, but they do it a little different than us \n\n<br></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>4.9.17&nbsp; \n7:13 am</dco> &nbsp;<qco> <a href=\"can-plants-feel.html\">can plants feel?</a>\n</qco> </h3>",
+    "answer_links": [
+      "https://billwurtz.com/questions/can-plants-feel.html"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/can-plants-feel.html",
+        "html": "<br><br><h3> <dco>4.9.17&nbsp; \n7:13 am</dco> &nbsp;<qco> can plants feel?\n</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">1.12.17&nbsp;\n4:43 am</font> &nbsp;<font color=\"#3A81FF\"> Do you think that plants have opinions on things?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">1.11.17&nbsp;\n3:31 pm</font> &nbsp;<font color=\"#3A81FF\"> can plants be intelligent?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\n<br><br><h3> <font color=\"#EE4B4B\">11.10.16&nbsp;\n3:47 am</font> &nbsp;<font color=\"#3A81FF\"> can plants feel?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">6.3.16&nbsp;\n6:25 pm</font> &nbsp;<font color=\"#3A81FF\"> Can plants feel?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">4.6.16&nbsp;\n8:50 pm</font> &nbsp;<font color=\"#3A81FF\"> do you think plants have a conscious? </font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\n\n\n\n\n<br><br>&nbsp;&nbsp;&nbsp;&nbsp; yes, but they do it a little different than us \n\n<br>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>4.9.17&nbsp; \n6:30 am</dco> &nbsp;<qco> Will you run for U.S presidency in 2020 and win?</qco> </h3>",
+    "original_html": "<h3> <dco>4.9.17&nbsp; \n6:30 am</dco> &nbsp;<qco> Will you run for U.S presidency in 2020 and win?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.9.17&nbsp; \n6:03 am</dco> &nbsp;<qco> What's left to do after the score?</qco> </h3>",
+    "original_html": "<h3> <dco>4.9.17&nbsp; \n6:03 am</dco> &nbsp;<qco> What's left to do after the score?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.9.17&nbsp; \n5:42 am</dco> &nbsp;<qco> bill, judging from the previous questions, you dont value clarity</qco> </h3>",
+    "original_html": "<h3> <dco>4.9.17&nbsp; \n5:42 am</dco> &nbsp;<qco> bill, judging from the previous questions, you dont value clarity</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.9.17&nbsp; \n5:27 am</dco> &nbsp;<qco> it must have been strange working on a deadline in december when there was still at leaast 4 months left of work to do after that</qco> </h3>",
+    "original_html": "<h3> <dco>4.9.17&nbsp; \n5:27 am</dco> &nbsp;<qco> it must have been strange working on a deadline in december when there was still at leaast 4 months left of work to do after that</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.9.17&nbsp; \n5:24 am</dco> &nbsp;<qco> theory: 19:21 is the total length of the video and by saying that's how far you are on the score you mean you've finished that part </qco> </h3><h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and are now finishing the final bits, and the video will be out monday or tuesday</qco> </h3>",
+    "original_html": "<h3> <dco>4.9.17&nbsp; \n5:24 am</dco> &nbsp;<qco> theory: 19:21 is the total length of the video and by saying that's how far you are on the score you mean you've finished that part </qco> </h3><h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and are now finishing the final bits, and the video will be out monday or tuesday</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.9.17&nbsp; \n5:15 am</dco> &nbsp;<qco> did you finish the score?</qco> </h3>",
+    "original_html": "<h3> <dco>4.9.17&nbsp; \n5:15 am</dco> &nbsp;<qco> did you finish the score?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.9.17&nbsp; \n4:06 am</dco> &nbsp;<qco> Am I your dad?</qco> </h3>",
+    "original_html": "<h3> <dco>4.9.17&nbsp; \n4:06 am</dco> &nbsp;<qco> Am I your dad?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.9.17&nbsp; \n3:53 am</dco> &nbsp;<qco> What time of day do you think would be the most affecting time to release you latest piece? Possibly in the dead of night so your fans wake up to a Christmas-like morning surprise? Maybe late afternoon so that it hits just in time to pick up steam for prime time? Just thoughts that I was thoughting.</qco> </h3>",
+    "original_html": "<h3> <dco>4.9.17&nbsp; \n3:53 am</dco> &nbsp;<qco> What time of day do you think would be the most affecting time to release you latest piece? Possibly in the dead of night so your fans wake up to a Christmas-like morning surprise? Maybe late afternoon so that it hits just in time to pick up steam for prime time? Just thoughts that I was thoughting.</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.9.17&nbsp; \n3:12 am</dco> &nbsp;<qco> you say that meat are your favourite type of balls, </qco> </h3><h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;but do you like other types of balls such as disco, popcorn, cheese, bouncy, etc.?</qco> </h3>",
+    "original_html": "<h3> <dco>4.9.17&nbsp; \n3:12 am</dco> &nbsp;<qco> you say that meat are your favourite type of balls, </qco> </h3><h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;but do you like other types of balls such as disco, popcorn, cheese, bouncy, etc.?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.9.17&nbsp; \n2:24 am</dco> &nbsp;<qco> how do i breathe</qco> </h3>",
+    "original_html": "<h3> <dco>4.9.17&nbsp; \n2:24 am</dco> &nbsp;<qco> how do i breathe</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.9.17&nbsp;\n1:43 am</dco> &nbsp;<qco> Hey you're a pretty cool music maker. How do you do it?</qco> </h3>",
+    "original_html": "<h3> <dco>4.9.17&nbsp;\n1:43 am</dco> &nbsp;<qco> Hey you're a pretty cool music maker. How do you do it?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.9.17&nbsp;\n12:56 am</dco> &nbsp;<qco> What time is it?</qco> </h3>",
+    "original_html": "<h3> <dco>4.9.17&nbsp;\n12:56 am</dco> &nbsp;<qco> What time is it?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.9.17&nbsp;\n12:19 am</dco> &nbsp;<qco> Why do you switch shirts with every instrument?</qco> </h3>",
+    "original_html": "<h3> <dco>4.9.17&nbsp;\n12:19 am</dco> &nbsp;<qco> Why do you switch shirts with every instrument?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.9.17&nbsp;\n12:17 am</dco> &nbsp;<qco> Do you ever feel like you HAVE to work because of the expectations people seem to have for you? \n</qco> </h3><h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Or are you afraid of backlash on videos you work hard on simply because they \"aren't as good/aren't like History of Japan\"?\n</qco> </h3><h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I wonder this about a lot of creators and am eager to see how you feel about these things.</qco> </h3>",
+    "original_html": "<h3> <dco>4.9.17&nbsp;\n12:17 am</dco> &nbsp;<qco> Do you ever feel like you HAVE to work because of the expectations people seem to have for you? \n</qco> </h3><h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Or are you afraid of backlash on videos you work hard on simply because they \"aren't as good/aren't like History of Japan\"?\n</qco> </h3><h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I wonder this about a lot of creators and am eager to see how you feel about these things.</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.8.17&nbsp;\n11:38 pm</dco> &nbsp;<qco> can you give me the link to the <a href=\"http://billwurtz.com/anagrams/anagrams.html\">anagrams</a> page please</qco> </h3>",
+    "original_html": "<h3> <dco>4.8.17&nbsp;\n11:38 pm</dco> &nbsp;<qco> can you give me the link to the <a href=\"http://billwurtz.com/anagrams/anagrams.html\">anagrams</a> page please</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.8.17&nbsp;\n11:37 pm</dco> &nbsp;<qco> how are you so funny?</qco> </h3>",
+    "original_html": "<h3> <dco>4.8.17&nbsp;\n11:37 pm</dco> &nbsp;<qco> how are you so funny?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.8.17&nbsp;\n10:57 pm</dco> &nbsp;<qco> any tips on not being afraid of the dark</qco> </h3>",
+    "original_html": "<h3> <dco>4.8.17&nbsp;\n10:57 pm</dco> &nbsp;<qco> any tips on not being afraid of the dark</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.8.17&nbsp;\n10:57 pm</dco> &nbsp;<qco> What's your favorite Bible scripture? </qco> </h3>",
+    "original_html": "<h3> <dco>4.8.17&nbsp;\n10:57 pm</dco> &nbsp;<qco> What's your favorite Bible scripture? </qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.8.17&nbsp;\n10:54 pm</dco> &nbsp;<qco> do you think that asking an artist to explain the meaning behind their work is wack</qco> </h3>",
+    "original_html": "<h3> <dco>4.8.17&nbsp;\n10:54 pm</dco> &nbsp;<qco> do you think that asking an artist to explain the meaning behind their work is wack</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.8.17&nbsp;\n10:39 pm</dco> &nbsp;<qco> Was it yesterday?\n</qco> </h3>",
+    "original_html": "<h3> <dco>4.8.17&nbsp;\n10:39 pm</dco> &nbsp;<qco> Was it yesterday?\n</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.8.17&nbsp;\n10:29 pm</dco> &nbsp;<qco> People tell me the best way to get better at drawing is to draw more, and I respect that. But when I start to draw I get disheartened by how shitty the drawing is and just stop halfway through. How do you stop this feeling? I really want to draw well because I have 20000 fully-formed universes, storylines and characters in my mind that I cannot express with words alone, and I'm afraid that I'll forget them if they don't appear.</qco> </h3>",
+    "original_html": "<h3> <dco>4.8.17&nbsp;\n10:29 pm</dco> &nbsp;<qco> People tell me the best way to get better at drawing is to draw more, and I respect that. But when I start to draw I get disheartened by how shitty the drawing is and just stop halfway through. How do you stop this feeling? I really want to draw well because I have 20000 fully-formed universes, storylines and characters in my mind that I cannot express with words alone, and I'm afraid that I'll forget them if they don't appear.</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.8.17&nbsp;\n10:13 pm</dco> &nbsp;<qco> Will you do Jazz Moana (How Far I'll Go)?</qco> </h3>",
+    "original_html": "<h3> <dco>4.8.17&nbsp;\n10:13 pm</dco> &nbsp;<qco> Will you do Jazz Moana (How Far I'll Go)?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.8.17&nbsp;\n9:45 pm</dco> &nbsp;<qco> How do you relax? </qco> </h3>",
+    "original_html": "<h3> <dco>4.8.17&nbsp;\n9:45 pm</dco> &nbsp;<qco> How do you relax? </qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.8.17&nbsp; \n9:41 pm</dco> &nbsp;<qco> I always get really nervous when playing instruments in front of other people. Any tips for getting over this fear? </qco> </h3>",
+    "original_html": "<h3> <dco>4.8.17&nbsp; \n9:41 pm</dco> &nbsp;<qco> I always get really nervous when playing instruments in front of other people. Any tips for getting over this fear? </qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.8.17&nbsp; \n9:35 pm</dco> &nbsp;<qco> Can u get pregante?</qco> </h3>",
+    "original_html": "<h3> <dco>4.8.17&nbsp; \n9:35 pm</dco> &nbsp;<qco> Can u get pregante?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.8.17&nbsp; \n9:25 pm</dco> &nbsp;<qco> are you good at some stuff</qco> </h3>",
+    "original_html": "<h3> <dco>4.8.17&nbsp; \n9:25 pm</dco> &nbsp;<qco> are you good at some stuff</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.8.17&nbsp; \n9:19 pm</dco> &nbsp;<qco> Given a Condition that is itself a contradiction, would all Conclusions drawn from that condition be correct? If so, can you give me an example?</qco> </h3>",
+    "original_html": "<h3> <dco>4.8.17&nbsp; \n9:19 pm</dco> &nbsp;<qco> Given a Condition that is itself a contradiction, would all Conclusions drawn from that condition be correct? If so, can you give me an example?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.8.17&nbsp; \n9:00 pm</dco> &nbsp;<qco> how do you do something for real and get it right if you've never practiced or done it or before?</qco> </h3>",
+    "original_html": "<h3> <dco>4.8.17&nbsp; \n9:00 pm</dco> &nbsp;<qco> how do you do something for real and get it right if you've never practiced or done it or before?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>4.8.17&nbsp; \n8:53 pm</dco> &nbsp;<qco> are ghosts real</qco> </h3>",
+    "original_html": "<h3> <dco>4.8.17&nbsp; \n8:53 pm</dco> &nbsp;<qco> are ghosts real</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  }
+]

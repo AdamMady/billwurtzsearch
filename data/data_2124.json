@@ -1,0 +1,323 @@
+[
+  {
+    "html": "<h3> <dco>11.11.17&nbsp;\n11:14 am</dco> &nbsp;<qco> are we a dolphins?</qco> </h3>",
+    "original_html": "<h3> <dco>11.11.17&nbsp;\n11:14 am</dco> &nbsp;<qco> are we a dolphins?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>11.11.17&nbsp;\n11:09 am</dco> &nbsp;<qco> do you like computers?</qco> </h3>",
+    "original_html": "<h3> <dco>11.11.17&nbsp;\n11:09 am</dco> &nbsp;<qco> do you like computers?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>11.11.17&nbsp;\n11:06 am</dco> &nbsp;<qco> <a href=\"q.php?date=201711091324\">11.9.17&nbsp;&nbsp;1:24 pm</a>  why didn't you make the sound legato to prevent this?</qco> </h3><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201711091324\">https://billwurtz.com/questions/q.php?date=201711091324</a></quotedco><br><quoteaco><h3><dco>11.9.17&nbsp;\n1:24 pm</dco> &nbsp;<qco> the audio for your cover of golden lady sounds messed up (rly fuzzy and crackly)- you may or may not be interested in fixing this</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;that's not the audio. that's the instrument. it has a type of distortion on it that makes it fuzzy, and it crackles crazy when you play 2 notes at the same time. so at certain overlap points you hear crackles\n<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>11.11.17&nbsp;\n11:06 am</dco> &nbsp;<qco> <a href=\"q.php?date=201711091324\">11.9.17&nbsp;&nbsp;1:24 pm</a>  why didn't you make the sound legato to prevent this?</qco> </h3>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201711091324"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201711091324",
+        "html": "<h3><dco>11.9.17&nbsp;\n1:24 pm</dco> &nbsp;<qco> the audio for your cover of golden lady sounds messed up (rly fuzzy and crackly)- you may or may not be interested in fixing this</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;that's not the audio. that's the instrument. it has a type of distortion on it that makes it fuzzy, and it crackles crazy when you play 2 notes at the same time. so at certain overlap points you hear crackles\n<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>11.11.17&nbsp;\n9:32 am</dco> &nbsp;<qco> why won't you die?</qco> </h3>",
+    "original_html": "<h3> <dco>11.11.17&nbsp;\n9:32 am</dco> &nbsp;<qco> why won't you die?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>11.11.17&nbsp;\n9:12 am</dco> &nbsp;<qco> are we exist just to reproduce ?</qco> </h3>",
+    "original_html": "<h3> <dco>11.11.17&nbsp;\n9:12 am</dco> &nbsp;<qco> are we exist just to reproduce ?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>11.11.17&nbsp;\n4:05 am</dco> &nbsp;<qco> Pick a number</qco> </h3>",
+    "original_html": "<h3> <dco>11.11.17&nbsp;\n4:05 am</dco> &nbsp;<qco> Pick a number</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>11.11.17&nbsp;\n1:39 am</dco> &nbsp;<qco> what is your signature dance move</qco> </h3>",
+    "original_html": "<h3> <dco>11.11.17&nbsp;\n1:39 am</dco> &nbsp;<qco> what is your signature dance move</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>11.11.17&nbsp;\n12:46 am</dco> &nbsp;<qco> The word 'stand' has been coupled with pretty much every direction.</qco> </h3>",
+    "original_html": "<h3> <dco>11.11.17&nbsp;\n12:46 am</dco> &nbsp;<qco> The word 'stand' has been coupled with pretty much every direction.</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>11.11.17&nbsp;\n12:33 am</dco> &nbsp;<qco> do u know english?</qco> </h3>",
+    "original_html": "<h3> <dco>11.11.17&nbsp;\n12:33 am</dco> &nbsp;<qco> do u know english?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>11.11.17&nbsp;\n12:31 am</dco> &nbsp;<qco> is bill gates ur father?</qco> </h3>",
+    "original_html": "<h3> <dco>11.11.17&nbsp;\n12:31 am</dco> &nbsp;<qco> is bill gates ur father?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>11.11.17&nbsp;\n12:28 am</dco> &nbsp;<qco> why the letter q is green in ueqstions</qco> </h3>",
+    "original_html": "<h3> <dco>11.11.17&nbsp;\n12:28 am</dco> &nbsp;<qco> why the letter q is green in ueqstions</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>11.10.17&nbsp;\n10:27 pm</dco> &nbsp;<qco> Why are you you?</qco> </h3>",
+    "original_html": "<h3> <dco>11.10.17&nbsp;\n10:27 pm</dco> &nbsp;<qco> Why are you you?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>11.10.17&nbsp;\n9:23 pm</dco> &nbsp;<qco> Are you going to prank us on april fools day?</qco> </h3>",
+    "original_html": "<h3> <dco>11.10.17&nbsp;\n9:23 pm</dco> &nbsp;<qco> Are you going to prank us on april fools day?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>11.10.17&nbsp;\n9:20 pm</dco> &nbsp;<qco> you should add dates of when you add an anagram, notebook thing, etc. to your website so people stop asking about why you \"haven't been updating\"</qco> </h3>",
+    "original_html": "<h3> <dco>11.10.17&nbsp;\n9:20 pm</dco> &nbsp;<qco> you should add dates of when you add an anagram, notebook thing, etc. to your website so people stop asking about why you \"haven't been updating\"</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>11.10.17&nbsp;\n9:11 pm</dco> &nbsp;<qco> Why do you feel the need to prove yourself to the world</qco> </h3>",
+    "original_html": "<h3> <dco>11.10.17&nbsp;\n9:11 pm</dco> &nbsp;<qco> Why do you feel the need to prove yourself to the world</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>11.10.17&nbsp;\n9:01 pm</dco> &nbsp;<qco> Do you have a manager or someone you have to answer to for your public image?</qco> </h3>",
+    "original_html": "<h3> <dco>11.10.17&nbsp;\n9:01 pm</dco> &nbsp;<qco> Do you have a manager or someone you have to answer to for your public image?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>11.10.17&nbsp;\n8:15 pm</dco> &nbsp;<qco> If you don't have kids, what'll your children think of you?</qco> </h3>",
+    "original_html": "<h3> <dco>11.10.17&nbsp;\n8:15 pm</dco> &nbsp;<qco> If you don't have kids, what'll your children think of you?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>11.10.17&nbsp;\n8:02 pm</dco> &nbsp;<qco> I really like the instrumentals in \"fish opinions\", is there a full (by full i mean longer/extended) version of it?</qco> </h3>",
+    "original_html": "<h3> <dco>11.10.17&nbsp;\n8:02 pm</dco> &nbsp;<qco> I really like the instrumentals in \"fish opinions\", is there a full (by full i mean longer/extended) version of it?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>11.10.17&nbsp;\n7:55 pm</dco> &nbsp;<qco> what's your thought process on your song \"i'm crazy / it's raining\"? i can't seem to stay away from the song, it's too catchy!</qco> </h3>",
+    "original_html": "<h3> <dco>11.10.17&nbsp;\n7:55 pm</dco> &nbsp;<qco> what's your thought process on your song \"i'm crazy / it's raining\"? i can't seem to stay away from the song, it's too catchy!</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>11.10.17&nbsp;\n7:53 pm</dco> &nbsp;<qco> Knock knock&nbsp;</qco> </h3>",
+    "original_html": "<h3> <dco>11.10.17&nbsp;\n7:53 pm</dco> &nbsp;<qco> Knock knock&nbsp;</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>11.10.17&nbsp;\n7:47 pm</dco> &nbsp;<qco> do you ever get asked how you do things but you don't know how you do it?&nbsp;</qco> </h3>",
+    "original_html": "<h3> <dco>11.10.17&nbsp;\n7:47 pm</dco> &nbsp;<qco> do you ever get asked how you do things but you don't know how you do it?&nbsp;</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>11.10.17&nbsp;\n7:21 pm</dco> &nbsp;<qco> are you \"notbillwurtz\" on instagram?</qco> </h3>",
+    "original_html": "<h3> <dco>11.10.17&nbsp;\n7:21 pm</dco> &nbsp;<qco> are you \"notbillwurtz\" on instagram?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>11.10.17&nbsp;\n7:03 pm</dco> &nbsp;<qco> Was the letter you were writing on your floor the same letter that you wrote to yourself that said you were a stupid idiot?</qco> </h3>",
+    "original_html": "<h3> <dco>11.10.17&nbsp;\n7:03 pm</dco> &nbsp;<qco> Was the letter you were writing on your floor the same letter that you wrote to yourself that said you were a stupid idiot?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>11.10.17&nbsp;\n6:20 pm</dco> &nbsp;<qco> CAN I TYPE IN ALL CAPS WITHOUT SEEMING LIKE I'M ANGRILY YELLING?</qco> </h3>",
+    "original_html": "<h3> <dco>11.10.17&nbsp;\n6:20 pm</dco> &nbsp;<qco> CAN I TYPE IN ALL CAPS WITHOUT SEEMING LIKE I'M ANGRILY YELLING?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>11.10.17&nbsp;\n6:12 pm</dco> &nbsp;<qco> Hi I thought I'd ask you another question. Your website is riddled with spelling mistakes I think you should fix these thanks.</qco> </h3>",
+    "original_html": "<h3> <dco>11.10.17&nbsp;\n6:12 pm</dco> &nbsp;<qco> Hi I thought I'd ask you another question. Your website is riddled with spelling mistakes I think you should fix these thanks.</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>11.10.17&nbsp;\n5:43 pm</dco> &nbsp;<qco> Why don't you write atonal music?&nbsp;</qco> </h3>",
+    "original_html": "<h3> <dco>11.10.17&nbsp;\n5:43 pm</dco> &nbsp;<qco> Why don't you write atonal music?&nbsp;</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>11.10.17&nbsp;\n5:27 pm</dco> &nbsp;<qco> How to release all the rage?</qco> </h3>",
+    "original_html": "<h3> <dco>11.10.17&nbsp;\n5:27 pm</dco> &nbsp;<qco> How to release all the rage?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>11.10.17&nbsp;\n5:27 pm</dco> &nbsp;<qco> can you answer this question with a four word response?</qco> </h3>",
+    "original_html": "<h3> <dco>11.10.17&nbsp;\n5:27 pm</dco> &nbsp;<qco> can you answer this question with a four word response?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>11.10.17&nbsp;\n5:14 pm</dco> &nbsp;<qco> QUICK! Tell me a fact about bees.</qco> </h3>",
+    "original_html": "<h3> <dco>11.10.17&nbsp;\n5:14 pm</dco> &nbsp;<qco> QUICK! Tell me a fact about bees.</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>11.10.17&nbsp;\n5:08 pm</dco> &nbsp;<qco> do you usually put new videos on your website or youtube first</qco> </h3>",
+    "original_html": "<h3> <dco>11.10.17&nbsp;\n5:08 pm</dco> &nbsp;<qco> do you usually put new videos on your website or youtube first</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>11.10.17&nbsp;\n4:37 pm</dco> &nbsp;<qco> yo is /u/officialbillwurtz on reddit you</qco> </h3>",
+    "original_html": "<h3> <dco>11.10.17&nbsp;\n4:37 pm</dco> &nbsp;<qco> yo is /u/officialbillwurtz on reddit you</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>11.10.17&nbsp;\n2:35 pm</dco> &nbsp;<qco> do you have a questions page</qco> </h3>",
+    "original_html": "<h3> <dco>11.10.17&nbsp;\n2:35 pm</dco> &nbsp;<qco> do you have a questions page</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>11.10.17&nbsp;\n2:32 pm</dco> &nbsp;<qco> whats your status</qco> </h3>",
+    "original_html": "<h3> <dco>11.10.17&nbsp;\n2:32 pm</dco> &nbsp;<qco> whats your status</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>11.10.17&nbsp;\n2:11 pm</dco> &nbsp;<qco> are your videos directed at a significant other?&nbsp;</qco> </h3>",
+    "original_html": "<h3> <dco>11.10.17&nbsp;\n2:11 pm</dco> &nbsp;<qco> are your videos directed at a significant other?&nbsp;</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>11.10.17&nbsp;\n1:36 pm</dco> &nbsp;<qco> Bass playin' tip of the day?</qco> </h3>",
+    "original_html": "<h3> <dco>11.10.17&nbsp;\n1:36 pm</dco> &nbsp;<qco> Bass playin' tip of the day?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>11.10.17&nbsp;\n12:36 pm</dco> &nbsp;<qco> why is \"k\" part of the alphabet when \"c\" is already doing, a good job?</qco> </h3>",
+    "original_html": "<h3> <dco>11.10.17&nbsp;\n12:36 pm</dco> &nbsp;<qco> why is \"k\" part of the alphabet when \"c\" is already doing, a good job?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>11.10.17&nbsp;\n11:09 am</dco> &nbsp;<qco> why dont you have a navigation bar at the top of your website...........what the heck</qco> </h3>",
+    "original_html": "<h3> <dco>11.10.17&nbsp;\n11:09 am</dco> &nbsp;<qco> why dont you have a navigation bar at the top of your website...........what the heck</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>11.10.17&nbsp;\n11:09 am</dco> &nbsp;<qco> is \"sjoiffeisfjisefaeimcmweaaddkaeimaiffkddskcwicmakswiejdiajksjdkckldklsmckdsmckdvkdnkvnieojaskdnkdnmclkdnvascneiwklascmnekcnaekO\" a poem?</qco> </h3>",
+    "original_html": "<h3> <dco>11.10.17&nbsp;\n11:09 am</dco> &nbsp;<qco> is \"sjoiffeisfjisefaeimcmweaaddkaeimaiffkddskcwicmakswiejdiajksjdkckldklsmckdsmckdvkdnkvnieojaskdnkdnmclkdnvascneiwklascmnekcnaekO\" a poem?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>11.10.17&nbsp;\n9:43 am</dco> &nbsp;<qco> Do you know how to say goodbye? </qco></h3><h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And do you implement it?&nbsp;</qco> </h3>",
+    "original_html": "<h3> <dco>11.10.17&nbsp;\n9:43 am</dco> &nbsp;<qco> Do you know how to say goodbye? </qco></h3><h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And do you implement it?&nbsp;</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>11.10.17&nbsp;\n9:41 am</dco> &nbsp;<qco> Do you own a printer?</qco> </h3><a href=\"http://billwurtz.com/gonna-print-out-my-feelings.mp4\">yes</a>",
+    "original_html": "<h3> <dco>11.10.17&nbsp;\n9:41 am</dco> &nbsp;<qco> Do you own a printer?</qco> </h3><a href=\"http://billwurtz.com/gonna-print-out-my-feelings.mp4\">yes</a>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>11.10.17&nbsp;\n8:40 am</dco> &nbsp;<qco> why dont you change your patreon so it says \"bill wurtz is creating things and stuff\" or something i'm sure you can figure something out. plus you could even pull the graphics free title graphics trick again</qco> </h3>",
+    "original_html": "<h3> <dco>11.10.17&nbsp;\n8:40 am</dco> &nbsp;<qco> why dont you change your patreon so it says \"bill wurtz is creating things and stuff\" or something i'm sure you can figure something out. plus you could even pull the graphics free title graphics trick again</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>11.10.17&nbsp;\n7:52 am</dco> &nbsp;<qco> are you \"officialbillwurtz\" on reddit?</qco> </h3>",
+    "original_html": "<h3> <dco>11.10.17&nbsp;\n7:52 am</dco> &nbsp;<qco> are you \"officialbillwurtz\" on reddit?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>11.10.17&nbsp;\n7:42 am</dco> &nbsp;<qco> So I just went into a bathroom that had an automatic soap dispenser and an automatic tap on the sink... neither worked for me. Sink didn't turn on. Soap didn't dispense. Then another guy came in and they worked just fine for him! I tried again, and it still didn't work for me. Please explain. Am I a god damn ghost or something?</qco> </h3>",
+    "original_html": "<h3> <dco>11.10.17&nbsp;\n7:42 am</dco> &nbsp;<qco> So I just went into a bathroom that had an automatic soap dispenser and an automatic tap on the sink... neither worked for me. Sink didn't turn on. Soap didn't dispense. Then another guy came in and they worked just fine for him! I tried again, and it still didn't work for me. Please explain. Am I a god damn ghost or something?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>11.10.17&nbsp;\n7:38 am</dco> &nbsp;<qco> <a href=\"q.php?date=201711091505\">11.9.17&nbsp;&nbsp;3:05 pm</a>  I really don't care for your usual use of punctuation, but jesus please don't use commas like that ever again. It's painful to read</qco> </h3><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201711091505\">https://billwurtz.com/questions/q.php?date=201711091505</a></quotedco><br><quoteaco><h3><dco>11.9.17&nbsp;\n3:05 pm</dco> &nbsp;<qco> Can you properly punctuate a sentence?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i prefer to do it in ways which help the reader, to understand the contents of the sentence\n<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>11.10.17&nbsp;\n7:38 am</dco> &nbsp;<qco> <a href=\"q.php?date=201711091505\">11.9.17&nbsp;&nbsp;3:05 pm</a>  I really don't care for your usual use of punctuation, but jesus please don't use commas like that ever again. It's painful to read</qco> </h3>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201711091505"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201711091505",
+        "html": "<h3><dco>11.9.17&nbsp;\n3:05 pm</dco> &nbsp;<qco> Can you properly punctuate a sentence?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i prefer to do it in ways which help the reader, to understand the contents of the sentence\n<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>11.10.17&nbsp;\n7:16 am</dco> &nbsp;<qco> i'm looking for the questions page, am i in the right place?</qco> </h3>",
+    "original_html": "<h3> <dco>11.10.17&nbsp;\n7:16 am</dco> &nbsp;<qco> i'm looking for the questions page, am i in the right place?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>11.10.17&nbsp;\n5:27 am</dco> &nbsp;<qco> are you /u/officialbillwurtz on the subreddit?</qco> </h3>",
+    "original_html": "<h3> <dco>11.10.17&nbsp;\n5:27 am</dco> &nbsp;<qco> are you /u/officialbillwurtz on the subreddit?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>11.10.17&nbsp;\n4:32 am</dco> &nbsp;<qco> what's the theme of the day?</qco> </h3>",
+    "original_html": "<h3> <dco>11.10.17&nbsp;\n4:32 am</dco> &nbsp;<qco> what's the theme of the day?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>11.10.17&nbsp;\n3:10 am</dco> &nbsp;<qco> <a href=\"q.php?date=201711081745\">11.8.17&nbsp;&nbsp;5:45 pm</a>  which ted though</qco> </h3><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201711081745\">https://billwurtz.com/questions/q.php?date=201711081745</a></quotedco><br><quoteaco><h3><dco>11.8.17&nbsp;\n5:45 pm</dco> &nbsp;<qco> what would you talk about if you had to give a ted talk</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ted\n<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>11.10.17&nbsp;\n3:10 am</dco> &nbsp;<qco> <a href=\"q.php?date=201711081745\">11.8.17&nbsp;&nbsp;5:45 pm</a>  which ted though</qco> </h3>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201711081745"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201711081745",
+        "html": "<h3><dco>11.8.17&nbsp;\n5:45 pm</dco> &nbsp;<qco> what would you talk about if you had to give a ted talk</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ted\n<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>11.10.17&nbsp;\n2:42 am</dco> &nbsp;<qco> is /u/officialbillwurtz on reddit you</qco> </h3>",
+    "original_html": "<h3> <dco>11.10.17&nbsp;\n2:42 am</dco> &nbsp;<qco> is /u/officialbillwurtz on reddit you</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>11.10.17&nbsp;\n2:42 am</dco> &nbsp;<qco> how many things does it take to make a thing?</qco> </h3>",
+    "original_html": "<h3> <dco>11.10.17&nbsp;\n2:42 am</dco> &nbsp;<qco> how many things does it take to make a thing?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  }
+]

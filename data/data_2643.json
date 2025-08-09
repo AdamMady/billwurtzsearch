@@ -1,0 +1,330 @@
+[
+  {
+    "html": "<h3> <font color=\"#E9EC54\">4.3.16&nbsp; \n10:27 am</font> &nbsp;<font color=\"#B387FF\"> can i have a scholarship to the imaginary baking school?</font> </h3>",
+    "original_html": "<h3> <font color=\"#E9EC54\">4.3.16&nbsp; \n10:27 am</font> &nbsp;<font color=\"#B387FF\"> can i have a scholarship to the imaginary baking school?</font> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <font color=\"#E9EC54\">4.3.16&nbsp; \n10:00 am</font> &nbsp;<font color=\"#B387FF\"> where are you from?</font> </h3>",
+    "original_html": "<h3> <font color=\"#E9EC54\">4.3.16&nbsp; \n10:00 am</font> &nbsp;<font color=\"#B387FF\"> where are you from?</font> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <font color=\"#E9EC54\">4.3.16&nbsp; \n8:13 am</font> &nbsp;<font color=\"#B387FF\"> how do i live</font> </h3>",
+    "original_html": "<h3> <font color=\"#E9EC54\">4.3.16&nbsp; \n8:13 am</font> &nbsp;<font color=\"#B387FF\"> how do i live</font> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <font color=\"#E9EC54\">4.3.16&nbsp;\n8:11 am</font> &nbsp;<font color=\"#B387FF\"> I wish I could give a <a href=\"http://billwurtz.com/questions/hug.html\" <=\"\" a=\"\">hug</a>  to you :'c Are you ok with it? </font> </h3><br><quotequestion><quotedco>embedded answer: <a href=\"http://billwurtz.com/questions/hug.html\">http://billwurtz.com/questions/hug.html</a></quotedco><br><quoteaco><br><br><h3> <font color=\"#EE4B4B\">1.15.17&nbsp;\n11:11 pm</font> &nbsp;<font color=\"#3A81FF\"> can I have a hug</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br><h3> <font color=\"#EE4B4B\">6.8.16&nbsp; \n5:05 am</font> &nbsp;<font color=\"#3A81FF\"> are you doing well would you like a hug</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">5.21.16&nbsp; \n6:39 pm</font> &nbsp;<font color=\"#3A81FF\"> would you like a hug</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">4.3.16&nbsp;\n8:11 am</font> &nbsp;<font color=\"#3A81FF\"> I wish I could give a hug to you :'c Are you ok with it? </font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\n<h3> <font color=\"#EE4B4B\">3.4.16&nbsp; \n11:02 pm</font> &nbsp;<font color=\"#3A81FF\"> You do a lot in your videos, and from the questions and answers I've seen, you put in a lot of work and effort everyday. So, do you need a hug? Because I love what you put out and you just may need a little break or hug. Do you need one?\n</font> </h3>\n\n\n\n\n\n\n<br><br>&nbsp;&nbsp;&nbsp;&nbsp;what's a hug\n\n\n\n<br></quoteaco></quotequestion>",
+    "original_html": "<h3> <font color=\"#E9EC54\">4.3.16&nbsp;\n8:11 am</font> &nbsp;<font color=\"#B387FF\"> I wish I could give a <a href=\"http://billwurtz.com/questions/hug.html\" <=\"\" a=\"\">hug</a>  to you :'c Are you ok with it? </font> </h3>",
+    "answer_links": [
+      "http://billwurtz.com/questions/hug.html"
+    ],
+    "answers_original": [
+      {
+        "url": "http://billwurtz.com/questions/hug.html",
+        "html": "<br><br><h3> <font color=\"#EE4B4B\">1.15.17&nbsp;\n11:11 pm</font> &nbsp;<font color=\"#3A81FF\"> can I have a hug</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br><h3> <font color=\"#EE4B4B\">6.8.16&nbsp; \n5:05 am</font> &nbsp;<font color=\"#3A81FF\"> are you doing well would you like a hug</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">5.21.16&nbsp; \n6:39 pm</font> &nbsp;<font color=\"#3A81FF\"> would you like a hug</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">4.3.16&nbsp;\n8:11 am</font> &nbsp;<font color=\"#3A81FF\"> I wish I could give a hug to you :'c Are you ok with it? </font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\n<h3> <font color=\"#EE4B4B\">3.4.16&nbsp; \n11:02 pm</font> &nbsp;<font color=\"#3A81FF\"> You do a lot in your videos, and from the questions and answers I've seen, you put in a lot of work and effort everyday. So, do you need a hug? Because I love what you put out and you just may need a little break or hug. Do you need one?\n</font> </h3>\n\n\n\n\n\n\n<br><br>&nbsp;&nbsp;&nbsp;&nbsp;what's a hug\n\n\n\n<br>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <font color=\"#E9EC54\">4.3.16&nbsp;\n6:54 am</font> &nbsp;<font color=\"#B387FF\"> 疲れた。頭が痛い。何もかもがメチャクチャでもうやめたい。</font> </h3>",
+    "original_html": "<h3> <font color=\"#E9EC54\">4.3.16&nbsp;\n6:54 am</font> &nbsp;<font color=\"#B387FF\"> 疲れた。頭が痛い。何もかもがメチャクチャでもうやめたい。</font> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <font color=\"#E9EC54\">4.3.16&nbsp;\n6:51 am</font> &nbsp;<font color=\"#B387FF\"> are you real. am i real. why does everything taste bitter. </font> </h3>",
+    "original_html": "<h3> <font color=\"#E9EC54\">4.3.16&nbsp;\n6:51 am</font> &nbsp;<font color=\"#B387FF\"> are you real. am i real. why does everything taste bitter. </font> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <font color=\"#E9EC54\">4.3.16&nbsp;\n6:36 am</font> &nbsp;<font color=\"#B387FF\"> when?\n</font> </h3>",
+    "original_html": "<h3> <font color=\"#E9EC54\">4.3.16&nbsp;\n6:36 am</font> &nbsp;<font color=\"#B387FF\"> when?\n</font> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <font color=\"#E9EC54\">4.3.16&nbsp;\n5:07 am</font> &nbsp;<font color=\"#B387FF\"> what?</font> </h3>",
+    "original_html": "<h3> <font color=\"#E9EC54\">4.3.16&nbsp;\n5:07 am</font> &nbsp;<font color=\"#B387FF\"> what?</font> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <font color=\"#E9EC54\">4.3.16&nbsp;\n3:37 am</font> &nbsp;<font color=\"#B387FF\"> Is there an estimate of <a href=\"http://billwurtz.com/questions/next-video.html\" <=\"\" a=\"\">when the next video</a>  is coming? </font> </h3><br><quotequestion><quotedco>embedded answer: <a href=\"http://billwurtz.com/questions/next-video.html\">http://billwurtz.com/questions/next-video.html</a></quotedco><br><quoteaco><br><br><h3> <font color=\"#EE4B4B\">4.3.16&nbsp;\n3:37 am</font> &nbsp;<font color=\"#3A81FF\"> Is there an estimate of when the next video is coming? </font> </h3> \n\n\n<br><br><h3> <font color=\"#EE4B4B\">4.2.16&nbsp; \n8:45 am</font> &nbsp;<font color=\"#3A81FF\"> How long until the next video?\n </font> </h3>\n\n\n<br><br><h3> <font color=\"#EE4B4B\">3.18.16&nbsp; \n6:40 am</font> &nbsp;<font color=\"#3A81FF\"> When the new video come? I can't wait!\n </font> </h3>\n\n\n\n\n<br><br>&nbsp;&nbsp;&nbsp;&nbsp; depends what you call a 'video'\n\n\n<br></quoteaco></quotequestion>",
+    "original_html": "<h3> <font color=\"#E9EC54\">4.3.16&nbsp;\n3:37 am</font> &nbsp;<font color=\"#B387FF\"> Is there an estimate of <a href=\"http://billwurtz.com/questions/next-video.html\" <=\"\" a=\"\">when the next video</a>  is coming? </font> </h3>",
+    "answer_links": [
+      "http://billwurtz.com/questions/next-video.html"
+    ],
+    "answers_original": [
+      {
+        "url": "http://billwurtz.com/questions/next-video.html",
+        "html": "<br><br><h3> <font color=\"#EE4B4B\">4.3.16&nbsp;\n3:37 am</font> &nbsp;<font color=\"#3A81FF\"> Is there an estimate of when the next video is coming? </font> </h3> \n\n\n<br><br><h3> <font color=\"#EE4B4B\">4.2.16&nbsp; \n8:45 am</font> &nbsp;<font color=\"#3A81FF\"> How long until the next video?\n </font> </h3>\n\n\n<br><br><h3> <font color=\"#EE4B4B\">3.18.16&nbsp; \n6:40 am</font> &nbsp;<font color=\"#3A81FF\"> When the new video come? I can't wait!\n </font> </h3>\n\n\n\n\n<br><br>&nbsp;&nbsp;&nbsp;&nbsp; depends what you call a 'video'\n\n\n<br>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <font color=\"#E9EC54\">4.3.16&nbsp;\n3:34 am</font> &nbsp;<font color=\"#B387FF\"> Am I as strange as you?</font> </h3>",
+    "original_html": "<h3> <font color=\"#E9EC54\">4.3.16&nbsp;\n3:34 am</font> &nbsp;<font color=\"#B387FF\"> Am I as strange as you?</font> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <font color=\"#E9EC54\">4.3.16&nbsp;\n3:33 am</font> &nbsp;<font color=\"#B387FF\"> When do you think will be the last time you are ever thought of? Do you think you will leave a legacy after you die?</font> </h3>",
+    "original_html": "<h3> <font color=\"#E9EC54\">4.3.16&nbsp;\n3:33 am</font> &nbsp;<font color=\"#B387FF\"> When do you think will be the last time you are ever thought of? Do you think you will leave a legacy after you die?</font> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <font color=\"#E9EC54\">4.3.16&nbsp;\n2:58 am</font> &nbsp;<font color=\"#B387FF\"> You are pretty alright!</font> </h3>",
+    "original_html": "<h3> <font color=\"#E9EC54\">4.3.16&nbsp;\n2:58 am</font> &nbsp;<font color=\"#B387FF\"> You are pretty alright!</font> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <font color=\"#E9EC54\">4.3.16&nbsp;\n2:55 am</font> &nbsp;<font color=\"#B387FF\"> Do you write and record jingles and incidental music for a living?</font> </h3>",
+    "original_html": "<h3> <font color=\"#E9EC54\">4.3.16&nbsp;\n2:55 am</font> &nbsp;<font color=\"#B387FF\"> Do you write and record jingles and incidental music for a living?</font> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <font color=\"#E9EC54\">4.3.16&nbsp;\n2:28 am</font> &nbsp;<font color=\"#B387FF\"> Will the next history of \"country\" tend to be similar to \"history of japan\" or you are planning to make something different and unexpected.</font> </h3>",
+    "original_html": "<h3> <font color=\"#E9EC54\">4.3.16&nbsp;\n2:28 am</font> &nbsp;<font color=\"#B387FF\"> Will the next history of \"country\" tend to be similar to \"history of japan\" or you are planning to make something different and unexpected.</font> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <font color=\"#E9EC54\">4.3.16&nbsp;\n2:12 am</font> &nbsp;<font color=\"#B387FF\"> do you only answer directly</font> </h3>",
+    "original_html": "<h3> <font color=\"#E9EC54\">4.3.16&nbsp;\n2:12 am</font> &nbsp;<font color=\"#B387FF\"> do you only answer directly</font> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <font color=\"#E9EC54\">4.3.16&nbsp;\n2:04 am</font> &nbsp;<font color=\"#B387FF\"> why</font> </h3>",
+    "original_html": "<h3> <font color=\"#E9EC54\">4.3.16&nbsp;\n2:04 am</font> &nbsp;<font color=\"#B387FF\"> why</font> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <font color=\"#E9EC54\">4.3.16&nbsp;\n1:52 am</font> &nbsp;<font color=\"#B387FF\"> Are you ever going to put the rest of your songs on your Spotify?</font> </h3>",
+    "original_html": "<h3> <font color=\"#E9EC54\">4.3.16&nbsp;\n1:52 am</font> &nbsp;<font color=\"#B387FF\"> Are you ever going to put the rest of your songs on your Spotify?</font> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <font color=\"#E9EC54\">4.3.16&nbsp;\n1:49 am</font> &nbsp;<font color=\"#B387FF\"> What's your favorite question to get asked?</font> </h3>",
+    "original_html": "<h3> <font color=\"#E9EC54\">4.3.16&nbsp;\n1:49 am</font> &nbsp;<font color=\"#B387FF\"> What's your favorite question to get asked?</font> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <font color=\"#E9EC54\">4.3.16&nbsp;\n12:07 am</font> &nbsp;<font color=\"#B387FF\"> what's a question you've never been asked before?</font> </h3>",
+    "original_html": "<h3> <font color=\"#E9EC54\">4.3.16&nbsp;\n12:07 am</font> &nbsp;<font color=\"#B387FF\"> what's a question you've never been asked before?</font> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp;\n11:13 pm</font> &nbsp;<font color=\"#B387FF\"> Pls give me a reason to continue following my dreams.</font> </h3>",
+    "original_html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp;\n11:13 pm</font> &nbsp;<font color=\"#B387FF\"> Pls give me a reason to continue following my dreams.</font> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp;\n10:37 pm</font> &nbsp;<font color=\"#B387FF\"> did you remember to turn off the oven?</font> </h3>",
+    "original_html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp;\n10:37 pm</font> &nbsp;<font color=\"#B387FF\"> did you remember to turn off the oven?</font> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp;\n10:07 pm</font> &nbsp;<font color=\"#B387FF\"> what have i got in my pocketses</font> </h3>",
+    "original_html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp;\n10:07 pm</font> &nbsp;<font color=\"#B387FF\"> what have i got in my pocketses</font> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp;\n10:02 pm</font> &nbsp;<font color=\"#B387FF\"> hi</font> </h3>",
+    "original_html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp;\n10:02 pm</font> &nbsp;<font color=\"#B387FF\"> hi</font> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp;\n10:01 pm</font> &nbsp;<font color=\"#B387FF\"> how old are you\n\nin gerbil years</font> </h3>",
+    "original_html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp;\n10:01 pm</font> &nbsp;<font color=\"#B387FF\"> how old are you\n\nin gerbil years</font> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp;\n10:01 pm</font> &nbsp;<font color=\"#B387FF\"> Will u make another history, such as china, korea, russia or so</font> </h3>",
+    "original_html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp;\n10:01 pm</font> &nbsp;<font color=\"#B387FF\"> Will u make another history, such as china, korea, russia or so</font> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp;\n10:00 pm</font> &nbsp;<font color=\"#B387FF\"> where is your answers page? i feel like having one prepared would save you some time?</font> </h3><a href=\"http://billwurtz.com/questions/questions.html\" <=\"\" a=\"\">same page</a>",
+    "original_html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp;\n10:00 pm</font> &nbsp;<font color=\"#B387FF\"> where is your answers page? i feel like having one prepared would save you some time?</font> </h3><a href=\"http://billwurtz.com/questions/questions.html\" <=\"\" a=\"\">same page</a>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp;\n9:50 pm</font> &nbsp;<font color=\"#B387FF\"> favorite genre of your favorite media, go!</font> </h3>",
+    "original_html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp;\n9:50 pm</font> &nbsp;<font color=\"#B387FF\"> favorite genre of your favorite media, go!</font> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp;\n9:47 pm</font> &nbsp;<font color=\"#B387FF\"> How long do those 8 seconds videos take to make, and, to you, are they funny?</font> </h3>",
+    "original_html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp;\n9:47 pm</font> &nbsp;<font color=\"#B387FF\"> How long do those 8 seconds videos take to make, and, to you, are they funny?</font> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp;\n9:38 pm</font> &nbsp;<font color=\"#B387FF\"> How do you use your eyes?</font> </h3>",
+    "original_html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp;\n9:38 pm</font> &nbsp;<font color=\"#B387FF\"> How do you use your eyes?</font> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp;\n9:37 pm</font> &nbsp;<font color=\"#B387FF\"> what is love?</font> </h3>",
+    "original_html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp;\n9:37 pm</font> &nbsp;<font color=\"#B387FF\"> what is love?</font> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp;\n9:29 pm</font> &nbsp;<font color=\"#B387FF\"> Do you have the instrumental track for your song \"School\"?</font> </h3>",
+    "original_html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp;\n9:29 pm</font> &nbsp;<font color=\"#B387FF\"> Do you have the instrumental track for your song \"School\"?</font> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp;\n9:21 pm</font> &nbsp;<font color=\"#B387FF\"> yes?</font> </h3><a href=\"http://billwurtz.com/no.mp4\" <=\"\" a=\"\">yes</a>",
+    "original_html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp;\n9:21 pm</font> &nbsp;<font color=\"#B387FF\"> yes?</font> </h3><a href=\"http://billwurtz.com/no.mp4\" <=\"\" a=\"\">yes</a>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp;\n8:45 pm</font> &nbsp;<font color=\"#B387FF\"> Do you have a steam account, and do you wish for any additional help in editing?</font> </h3>",
+    "original_html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp;\n8:45 pm</font> &nbsp;<font color=\"#B387FF\"> Do you have a steam account, and do you wish for any additional help in editing?</font> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp;\n8:39 pm</font> &nbsp;<font color=\"#B387FF\"> Can I help you edit videos like \"History of Japan\"?</font> </h3>",
+    "original_html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp;\n8:39 pm</font> &nbsp;<font color=\"#B387FF\"> Can I help you edit videos like \"History of Japan\"?</font> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp;\n8:06 pm</font> &nbsp;<font color=\"#B387FF\"> What's your biggest fear?</font> </h3>",
+    "original_html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp;\n8:06 pm</font> &nbsp;<font color=\"#B387FF\"> What's your biggest fear?</font> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp; \n7:35 pm</font> &nbsp;<font color=\"#B387FF\"> who would you sell to satan for the least amount of money\n</font> </h3>",
+    "original_html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp; \n7:35 pm</font> &nbsp;<font color=\"#B387FF\"> who would you sell to satan for the least amount of money\n</font> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp; \n6:30 pm</font> &nbsp;<font color=\"#B387FF\"> is this an interesting question?</font> </h3>",
+    "original_html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp; \n6:30 pm</font> &nbsp;<font color=\"#B387FF\"> is this an interesting question?</font> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp;\n5:47 pm</font> &nbsp;<font color=\"#B387FF\"> but</font> </h3>",
+    "original_html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp;\n5:47 pm</font> &nbsp;<font color=\"#B387FF\"> but</font> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp; \n5:32 pm</font> &nbsp;<font color=\"#B387FF\"> How do you feel about Japan?\n</font> </h3>",
+    "original_html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp; \n5:32 pm</font> &nbsp;<font color=\"#B387FF\"> How do you feel about Japan?\n</font> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp; \n5:23 pm</font> &nbsp;<font color=\"#B387FF\"> Wanna try out a new religion?</font> </h3>",
+    "original_html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp; \n5:23 pm</font> &nbsp;<font color=\"#B387FF\"> Wanna try out a new religion?</font> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp; \n5:04 pm</font> &nbsp;<font color=\"#B387FF\"> what are the best words to write in all caps?</font> </h3>",
+    "original_html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp; \n5:04 pm</font> &nbsp;<font color=\"#B387FF\"> what are the best words to write in all caps?</font> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp; \n4:48 pm</font> &nbsp;<font color=\"#B387FF\"> <a href=\"how-are-you-so-cool.html\" <=\"\" a=\"\">how are you so cool?</a> teach me your ways</font> </h3><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/how-are-you-so-cool.html\">https://billwurtz.com/questions/how-are-you-so-cool.html</a></quotedco><br><quoteaco><br><br><h3> <dco>5.22.17&nbsp;\n9:14 am</dco> &nbsp;<qco> why are you so god dang cool?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br><h3> <dco>4.16.17&nbsp; \n4:34 am</dco> &nbsp;<qco> how did you become such a rad cool, epic guy.</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">4.6.17&nbsp;\n3:22 am</font> &nbsp;<font color=\"#3A81FF\"> Why are you so cool</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">4.4.17&nbsp;\n11:24 pm</font> &nbsp;<font color=\"#3A81FF\"> why are you so cool</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">4.3.17&nbsp;\n2:02 pm</font> &nbsp;<font color=\"#3A81FF\"> why are u so cool</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">4.1.17&nbsp;\n10:08 am</font> &nbsp;<font color=\"#3A81FF\"> Why are you awesome? </font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">3.19.17&nbsp; \n10:22 am</font> &nbsp;<font color=\"#3A81FF\"> Why are you so cool?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br><h3> <font color=\"#EE4B4B\">3.19.17&nbsp; \n4:23 am</font> &nbsp;<font color=\"#3A81FF\"> How did you get to be so unique?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">3.7.17&nbsp;\n8:48 am</font> &nbsp;<font color=\"#3A81FF\"> How are you so awesome?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">2.26.17&nbsp;\n11:05 pm</font> &nbsp;<font color=\"#3A81FF\"> How are you so awesome?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">2.3.17&nbsp;\n11:45 pm</font> &nbsp;<font color=\"#3A81FF\"> How did you get so awesome?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">1.2.17&nbsp;\n3:06 am</font> &nbsp;<font color=\"#3A81FF\"> so how come you're cool</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">12.23.16&nbsp; \n2:04 pm</font> &nbsp;<font color=\"#3A81FF\"> how are you so cool?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">12.1.16&nbsp;\n4:40 pm</font> &nbsp;<font color=\"#3A81FF\"> Why are you so cool?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">11.7.16&nbsp;\n9:52 pm</font> &nbsp;<font color=\"#3A81FF\"> How are you so cool?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">7.19.16&nbsp;\n3:00 am</font> &nbsp;<font color=\"#3A81FF\"> why are you so cool</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">7.3.16&nbsp;\n5:28 pm</font> &nbsp;<font color=\"#3A81FF\"> Why are you so cool?\n\n\n</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">6.22.16&nbsp;\n1:17 am</font> &nbsp;<font color=\"#3A81FF\"> Why are you so cool? How do I become as cool as you?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">6.14.16&nbsp;\n3:07 pm</font> &nbsp;<font color=\"#3A81FF\"> How can u be sooo kewl?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">6.12.16&nbsp;\n2:53 pm</font> &nbsp;<font color=\"#3A81FF\"> why are you so cool</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">6.4.16&nbsp;\n7:27 pm</font> &nbsp;<font color=\"#3A81FF\"> How are you so cool?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\n<h3> <font color=\"#EE4B4B\">4.2.16&nbsp; \n4:48 pm</font> &nbsp;<font color=\"#3A81FF\"> how are you so cool? teach me your ways</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\n<h3> <font color=\"#EE4B4B\">12.8.15&nbsp; \n2:23 am</font> &nbsp;<font color=\"#3A81FF\"> Hey, man, you're cool How do you do so much cool stuff? like wow\n</font> </h3>\n\n\n\n\n\n\n\n<br><br>&nbsp;&nbsp;&nbsp;&nbsp; i dropped myself on my head when i was young\n\n\n\n<br></quoteaco></quotequestion>",
+    "original_html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp; \n4:48 pm</font> &nbsp;<font color=\"#B387FF\"> <a href=\"how-are-you-so-cool.html\" <=\"\" a=\"\">how are you so cool?</a> teach me your ways</font> </h3>",
+    "answer_links": [
+      "https://billwurtz.com/questions/how-are-you-so-cool.html"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/how-are-you-so-cool.html",
+        "html": "<br><br><h3> <dco>5.22.17&nbsp;\n9:14 am</dco> &nbsp;<qco> why are you so god dang cool?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br><h3> <dco>4.16.17&nbsp; \n4:34 am</dco> &nbsp;<qco> how did you become such a rad cool, epic guy.</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">4.6.17&nbsp;\n3:22 am</font> &nbsp;<font color=\"#3A81FF\"> Why are you so cool</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">4.4.17&nbsp;\n11:24 pm</font> &nbsp;<font color=\"#3A81FF\"> why are you so cool</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">4.3.17&nbsp;\n2:02 pm</font> &nbsp;<font color=\"#3A81FF\"> why are u so cool</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">4.1.17&nbsp;\n10:08 am</font> &nbsp;<font color=\"#3A81FF\"> Why are you awesome? </font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">3.19.17&nbsp; \n10:22 am</font> &nbsp;<font color=\"#3A81FF\"> Why are you so cool?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br><h3> <font color=\"#EE4B4B\">3.19.17&nbsp; \n4:23 am</font> &nbsp;<font color=\"#3A81FF\"> How did you get to be so unique?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">3.7.17&nbsp;\n8:48 am</font> &nbsp;<font color=\"#3A81FF\"> How are you so awesome?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">2.26.17&nbsp;\n11:05 pm</font> &nbsp;<font color=\"#3A81FF\"> How are you so awesome?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">2.3.17&nbsp;\n11:45 pm</font> &nbsp;<font color=\"#3A81FF\"> How did you get so awesome?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">1.2.17&nbsp;\n3:06 am</font> &nbsp;<font color=\"#3A81FF\"> so how come you're cool</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">12.23.16&nbsp; \n2:04 pm</font> &nbsp;<font color=\"#3A81FF\"> how are you so cool?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">12.1.16&nbsp;\n4:40 pm</font> &nbsp;<font color=\"#3A81FF\"> Why are you so cool?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">11.7.16&nbsp;\n9:52 pm</font> &nbsp;<font color=\"#3A81FF\"> How are you so cool?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">7.19.16&nbsp;\n3:00 am</font> &nbsp;<font color=\"#3A81FF\"> why are you so cool</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">7.3.16&nbsp;\n5:28 pm</font> &nbsp;<font color=\"#3A81FF\"> Why are you so cool?\n\n\n</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">6.22.16&nbsp;\n1:17 am</font> &nbsp;<font color=\"#3A81FF\"> Why are you so cool? How do I become as cool as you?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">6.14.16&nbsp;\n3:07 pm</font> &nbsp;<font color=\"#3A81FF\"> How can u be sooo kewl?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">6.12.16&nbsp;\n2:53 pm</font> &nbsp;<font color=\"#3A81FF\"> why are you so cool</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br><br><h3> <font color=\"#EE4B4B\">6.4.16&nbsp;\n7:27 pm</font> &nbsp;<font color=\"#3A81FF\"> How are you so cool?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\n<h3> <font color=\"#EE4B4B\">4.2.16&nbsp; \n4:48 pm</font> &nbsp;<font color=\"#3A81FF\"> how are you so cool? teach me your ways</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\n<h3> <font color=\"#EE4B4B\">12.8.15&nbsp; \n2:23 am</font> &nbsp;<font color=\"#3A81FF\"> Hey, man, you're cool How do you do so much cool stuff? like wow\n</font> </h3>\n\n\n\n\n\n\n\n<br><br>&nbsp;&nbsp;&nbsp;&nbsp; i dropped myself on my head when i was young\n\n\n\n<br>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp;\n4:20 pm</font> &nbsp;<font color=\"#B387FF\"> bitchassniggas?</font> </h3>",
+    "original_html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp;\n4:20 pm</font> &nbsp;<font color=\"#B387FF\"> bitchassniggas?</font> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp;\n3:29 pm</font> &nbsp;<font color=\"#B387FF\"> <a href=\"feelings-about-japan-success.html\" <=\"\" a=\"\">How do you feel about the level of success your history of Japan got?</a></font> </h3><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/feelings-about-japan-success.html\">https://billwurtz.com/questions/feelings-about-japan-success.html</a></quotedco><br><quoteaco><br><br><h3> <font color=\"#EE4B4B\">5.23.16&nbsp; \n2:08 pm</font> &nbsp;<font color=\"#3A81FF\"> How do you feel about the huge success the \"history of japan\" got?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\n<br><br><h3> <font color=\"#EE4B4B\">4.2.16&nbsp;\n3:29 pm</font> &nbsp;<font color=\"#3A81FF\"> How do you feel about the level of success your history of Japan got?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\n\n<br><br><h3> <font color=\"#EE4B4B\">4.1.16&nbsp;\n9:47 pm</font> &nbsp;<font color=\"#3A81FF\"> How do you feel about the popularity of History of Japan?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\n\n\n\n<br><br>&nbsp;&nbsp;&nbsp;&nbsp; ok\n\n<br></quoteaco></quotequestion>",
+    "original_html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp;\n3:29 pm</font> &nbsp;<font color=\"#B387FF\"> <a href=\"feelings-about-japan-success.html\" <=\"\" a=\"\">How do you feel about the level of success your history of Japan got?</a></font> </h3>",
+    "answer_links": [
+      "https://billwurtz.com/questions/feelings-about-japan-success.html"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/feelings-about-japan-success.html",
+        "html": "<br><br><h3> <font color=\"#EE4B4B\">5.23.16&nbsp; \n2:08 pm</font> &nbsp;<font color=\"#3A81FF\"> How do you feel about the huge success the \"history of japan\" got?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\n<br><br><h3> <font color=\"#EE4B4B\">4.2.16&nbsp;\n3:29 pm</font> &nbsp;<font color=\"#3A81FF\"> How do you feel about the level of success your history of Japan got?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\n\n<br><br><h3> <font color=\"#EE4B4B\">4.1.16&nbsp;\n9:47 pm</font> &nbsp;<font color=\"#3A81FF\"> How do you feel about the popularity of History of Japan?</font> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\n\n\n\n<br><br>&nbsp;&nbsp;&nbsp;&nbsp; ok\n\n<br>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp;\n3:21 pm</font> &nbsp;<font color=\"#B387FF\"> OMG OMG, Gabe just texted us!!!\nWhat should we say?</font> </h3>",
+    "original_html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp;\n3:21 pm</font> &nbsp;<font color=\"#B387FF\"> OMG OMG, Gabe just texted us!!!\nWhat should we say?</font> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp;\n2:59 pm</font> &nbsp;<font color=\"#B387FF\"> not a question but, what are your thoughts on information spread via youtube?</font> </h3>",
+    "original_html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp;\n2:59 pm</font> &nbsp;<font color=\"#B387FF\"> not a question but, what are your thoughts on information spread via youtube?</font> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp;\n2:55 pm</font> &nbsp;<font color=\"#B387FF\"> senpai</font> </h3>",
+    "original_html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp;\n2:55 pm</font> &nbsp;<font color=\"#B387FF\"> senpai</font> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp;\n2:38 pm</font> &nbsp;<font color=\"#B387FF\"> what is your opinion on hacky sacks</font> </h3>",
+    "original_html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp;\n2:38 pm</font> &nbsp;<font color=\"#B387FF\"> what is your opinion on hacky sacks</font> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp;\n2:22 pm</font> &nbsp;<font color=\"#B387FF\"> Have you ever done drugs?</font> </h3>",
+    "original_html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp;\n2:22 pm</font> &nbsp;<font color=\"#B387FF\"> Have you ever done drugs?</font> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp;\n12:04 pm</font> &nbsp;<font color=\"#B387FF\"> do you actually answer all the questions you get here?</font> </h3>",
+    "original_html": "<h3> <font color=\"#E9EC54\">4.2.16&nbsp;\n12:04 pm</font> &nbsp;<font color=\"#B387FF\"> do you actually answer all the questions you get here?</font> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  }
+]

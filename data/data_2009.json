@@ -1,0 +1,314 @@
+[
+  {
+    "html": "<h3> <dco>2.26.18&nbsp;\n2:36 pm</dco> &nbsp;<qco> Do you live on Mars?</qco> </h3>",
+    "original_html": "<h3> <dco>2.26.18&nbsp;\n2:36 pm</dco> &nbsp;<qco> Do you live on Mars?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>2.26.18&nbsp;\n2:25 pm</dco> &nbsp;<qco> <a href=\"q.php?date=201802260143\">2.26.18&nbsp;&nbsp;1:43 am</a>  oh my please do tell me some of what youve learned! i know you like to be wry and cagey but as a social scientist this stuff is really fascinating to me! might not ever get to see myself</qco> </h3><a href=\"q.php?date=201608252321\">8.25.16&nbsp;&nbsp;11:21 pm</a><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201802260143\">https://billwurtz.com/questions/q.php?date=201802260143</a></quotedco><br><quoteaco><h3><dco>2.26.18&nbsp;\n1:43 am</dco> &nbsp;<qco> Why did you decide to start answering questions in the first place?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i thought it could be a fun learning experience for everybody, but especially me<br><br><h3> \n</h3></quoteaco></quotequestion><br><quotequestion><quotedco>embedded answer: <a href=\"https://billwurtz.com/questions/q.php?date=201608252321\">https://billwurtz.com/questions/q.php?date=201608252321</a></quotedco><br><quoteaco><h3><dco>8.25.16&nbsp;\n11:21 pm</dco> &nbsp;<qco> what kind of things have you learned from answering questions</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;balance and simplicity\n<br><br><h3> \n</h3></quoteaco></quotequestion>",
+    "original_html": "<h3> <dco>2.26.18&nbsp;\n2:25 pm</dco> &nbsp;<qco> <a href=\"q.php?date=201802260143\">2.26.18&nbsp;&nbsp;1:43 am</a>  oh my please do tell me some of what youve learned! i know you like to be wry and cagey but as a social scientist this stuff is really fascinating to me! might not ever get to see myself</qco> </h3><a href=\"q.php?date=201608252321\">8.25.16&nbsp;&nbsp;11:21 pm</a>",
+    "answer_links": [
+      "https://billwurtz.com/questions/q.php?date=201802260143",
+      "https://billwurtz.com/questions/q.php?date=201608252321"
+    ],
+    "answers_original": [
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201802260143",
+        "html": "<h3><dco>2.26.18&nbsp;\n1:43 am</dco> &nbsp;<qco> Why did you decide to start answering questions in the first place?</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i thought it could be a fun learning experience for everybody, but especially me<br><br><h3> \n</h3>"
+      },
+      {
+        "url": "https://billwurtz.com/questions/q.php?date=201608252321",
+        "html": "<h3><dco>8.25.16&nbsp;\n11:21 pm</dco> &nbsp;<qco> what kind of things have you learned from answering questions</qco> </h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;balance and simplicity\n<br><br><h3> \n</h3>"
+      }
+    ]
+  },
+  {
+    "html": "<h3> <dco>2.26.18&nbsp;\n2:15 pm</dco> &nbsp;<qco> Do you try to be nice to the ad company people that contact you to try and convince you to put ads on your website/videos? Or do you just ignore them, or how do you handle it?</qco> </h3>",
+    "original_html": "<h3> <dco>2.26.18&nbsp;\n2:15 pm</dco> &nbsp;<qco> Do you try to be nice to the ad company people that contact you to try and convince you to put ads on your website/videos? Or do you just ignore them, or how do you handle it?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>2.26.18&nbsp;\n2:12 pm</dco> &nbsp;<qco> do a lot of people buy your song off of itunes and platforms like that</qco> </h3>",
+    "original_html": "<h3> <dco>2.26.18&nbsp;\n2:12 pm</dco> &nbsp;<qco> do a lot of people buy your song off of itunes and platforms like that</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>2.26.18&nbsp;\n2:11 pm</dco> &nbsp;<qco> Wait but so have you actually seriously studied linguistics? </qco></h3><h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\nSome of the things you say and come up with make me think you have and that you're being playful with semantics sorta like Lewis carol lol. I could point to some specific examples but as a linguist I was just curious.&nbsp;</qco> </h3>",
+    "original_html": "<h3> <dco>2.26.18&nbsp;\n2:11 pm</dco> &nbsp;<qco> Wait but so have you actually seriously studied linguistics? </qco></h3><h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\nSome of the things you say and come up with make me think you have and that you're being playful with semantics sorta like Lewis carol lol. I could point to some specific examples but as a linguist I was just curious.&nbsp;</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>2.26.18&nbsp;\n1:29 pm</dco> &nbsp;<qco> If the universe is an endless void and the earth spins counterclockwise, what color is my shirt?</qco> </h3>",
+    "original_html": "<h3> <dco>2.26.18&nbsp;\n1:29 pm</dco> &nbsp;<qco> If the universe is an endless void and the earth spins counterclockwise, what color is my shirt?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>2.26.18&nbsp;\n12:20 pm</dco> &nbsp;<qco> why u never uses capital letters</qco> </h3>",
+    "original_html": "<h3> <dco>2.26.18&nbsp;\n12:20 pm</dco> &nbsp;<qco> why u never uses capital letters</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>2.26.18&nbsp;\n10:57 am</dco> &nbsp;<qco> do you use iambic pentameter?</qco> </h3>",
+    "original_html": "<h3> <dco>2.26.18&nbsp;\n10:57 am</dco> &nbsp;<qco> do you use iambic pentameter?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>2.26.18&nbsp;\n10:38 am</dco> &nbsp;<qco> What is some good advice so that I may live my life in a way that is better than the way I'm currently living my life?</qco> </h3>",
+    "original_html": "<h3> <dco>2.26.18&nbsp;\n10:38 am</dco> &nbsp;<qco> What is some good advice so that I may live my life in a way that is better than the way I'm currently living my life?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>2.26.18&nbsp;\n9:42 am</dco> &nbsp;<qco> i have this early memory from kindergarten that has puzzled me for years. maybe you'll be able to decipher it? (idk if u want to read this, it's kinda long)\n<br>the teacher is at the board. she writes \"dogs\" on the top left. she then asks us to brainstorm any ideas relating to 'dogs'. of course, every kid in the room immediately shouts out their answers ('ball' 'park' 'bark' 'fur' 'cuddles'). she writes all of their answers on the board, hardly leaving any room on the right side.\n<br>then, she puts the word \"Thailand\" on the right. no one can come up with any ideas other than 'food'. and that's where the memory ends for me.\n<br>what do you think the teacher was trying to explain with this example?</qco> </h3>",
+    "original_html": "<h3> <dco>2.26.18&nbsp;\n9:42 am</dco> &nbsp;<qco> i have this early memory from kindergarten that has puzzled me for years. maybe you'll be able to decipher it? (idk if u want to read this, it's kinda long)\n<br>the teacher is at the board. she writes \"dogs\" on the top left. she then asks us to brainstorm any ideas relating to 'dogs'. of course, every kid in the room immediately shouts out their answers ('ball' 'park' 'bark' 'fur' 'cuddles'). she writes all of their answers on the board, hardly leaving any room on the right side.\n<br>then, she puts the word \"Thailand\" on the right. no one can come up with any ideas other than 'food'. and that's where the memory ends for me.\n<br>what do you think the teacher was trying to explain with this example?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>2.26.18&nbsp;\n9:22 am</dco> &nbsp;<qco> I only got 1 hour of sleep help</qco> </h3>",
+    "original_html": "<h3> <dco>2.26.18&nbsp;\n9:22 am</dco> &nbsp;<qco> I only got 1 hour of sleep help</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>2.26.18&nbsp;\n8:38 am</dco> &nbsp;<qco> How to make life not as boring?</qco> </h3>",
+    "original_html": "<h3> <dco>2.26.18&nbsp;\n8:38 am</dco> &nbsp;<qco> How to make life not as boring?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>2.26.18&nbsp;\n8:17 am</dco> &nbsp;<qco> why is 'spicy' such a good word to describe almost anything positive?</qco> </h3>",
+    "original_html": "<h3> <dco>2.26.18&nbsp;\n8:17 am</dco> &nbsp;<qco> why is 'spicy' such a good word to describe almost anything positive?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>2.26.18&nbsp;\n8:00 am</dco> &nbsp;<qco> What did you do to get where you are now?</qco> </h3>",
+    "original_html": "<h3> <dco>2.26.18&nbsp;\n8:00 am</dco> &nbsp;<qco> What did you do to get where you are now?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>2.26.18&nbsp;\n6:55 am</dco> &nbsp;<qco> what is the opposite of opposite?</qco> </h3>",
+    "original_html": "<h3> <dco>2.26.18&nbsp;\n6:55 am</dco> &nbsp;<qco> what is the opposite of opposite?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>2.26.18&nbsp;\n6:50 am</dco> &nbsp;<qco> What's it like to make videos?</qco> </h3>",
+    "original_html": "<h3> <dco>2.26.18&nbsp;\n6:50 am</dco> &nbsp;<qco> What's it like to make videos?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>2.26.18&nbsp;\n6:48 am</dco> &nbsp;<qco> why u never uses capital letters? </qco></h3><a href=\"capitals-report.php\">when i do</a><h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;did it feel great for not using capital letters when writing? if it felt so i wanna try it too...</qco> </h3>",
+    "original_html": "<h3> <dco>2.26.18&nbsp;\n6:48 am</dco> &nbsp;<qco> why u never uses capital letters? </qco></h3><a href=\"capitals-report.php\">when i do</a><h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;did it feel great for not using capital letters when writing? if it felt so i wanna try it too...</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>2.26.18&nbsp;\n5:15 am</dco> &nbsp;<qco> Is following the news a responsible thing to do?</qco> </h3>",
+    "original_html": "<h3> <dco>2.26.18&nbsp;\n5:15 am</dco> &nbsp;<qco> Is following the news a responsible thing to do?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>2.26.18&nbsp;\n5:11 am</dco> &nbsp;<qco> how to stop lying to other people so that they think something different about you?</qco> </h3>",
+    "original_html": "<h3> <dco>2.26.18&nbsp;\n5:11 am</dco> &nbsp;<qco> how to stop lying to other people so that they think something different about you?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>2.26.18&nbsp;\n4:52 am</dco> &nbsp;<qco> what if neither god nor big bang created the universe, but something else did?</qco> </h3>",
+    "original_html": "<h3> <dco>2.26.18&nbsp;\n4:52 am</dco> &nbsp;<qco> what if neither god nor big bang created the universe, but something else did?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>2.26.18&nbsp;\n3:11 am</dco> &nbsp;<qco> bill, what are your thoughts on the fiscal health of USA?</qco> </h3>",
+    "original_html": "<h3> <dco>2.26.18&nbsp;\n3:11 am</dco> &nbsp;<qco> bill, what are your thoughts on the fiscal health of USA?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>2.26.18&nbsp;\n1:43 am</dco> &nbsp;<qco> Why did you decide to start answering questions in the first place?</qco> </h3>",
+    "original_html": "<h3> <dco>2.26.18&nbsp;\n1:43 am</dco> &nbsp;<qco> Why did you decide to start answering questions in the first place?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>2.26.18&nbsp;\n1:12 am</dco> &nbsp;<qco> how did you survive the production of hotewig? </qco></h3><h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i'm surprised that the project never fell apart. how the hell did you pull of such a complex project?</qco> </h3>",
+    "original_html": "<h3> <dco>2.26.18&nbsp;\n1:12 am</dco> &nbsp;<qco> how did you survive the production of hotewig? </qco></h3><h3> <qco> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i'm surprised that the project never fell apart. how the hell did you pull of such a complex project?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>2.25.18&nbsp;\n11:59 pm</dco> &nbsp;<qco> why do you think acknowledging and making an effort to change your own biases or beliefs is so difficult?</qco> </h3>",
+    "original_html": "<h3> <dco>2.25.18&nbsp;\n11:59 pm</dco> &nbsp;<qco> why do you think acknowledging and making an effort to change your own biases or beliefs is so difficult?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>2.25.18&nbsp;\n11:42 pm</dco> &nbsp;<qco> do u own a moral compass</qco> </h3>",
+    "original_html": "<h3> <dco>2.25.18&nbsp;\n11:42 pm</dco> &nbsp;<qco> do u own a moral compass</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>2.25.18&nbsp;\n11:28 pm</dco> &nbsp;<qco> why dont you show how much money has been donated on your patreon?&nbsp;</qco> </h3>",
+    "original_html": "<h3> <dco>2.25.18&nbsp;\n11:28 pm</dco> &nbsp;<qco> why dont you show how much money has been donated on your patreon?&nbsp;</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>2.25.18&nbsp;\n11:26 pm</dco> &nbsp;<qco> Habe you ever formally studied linguistics and / or philosophy?</qco> </h3>",
+    "original_html": "<h3> <dco>2.25.18&nbsp;\n11:26 pm</dco> &nbsp;<qco> Habe you ever formally studied linguistics and / or philosophy?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>2.25.18&nbsp;\n11:05 pm</dco> &nbsp;<qco> What makes a person good?</qco> </h3>",
+    "original_html": "<h3> <dco>2.25.18&nbsp;\n11:05 pm</dco> &nbsp;<qco> What makes a person good?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>2.25.18&nbsp;\n10:14 pm</dco> &nbsp;<qco> what did you do before youtube?</qco> </h3>",
+    "original_html": "<h3> <dco>2.25.18&nbsp;\n10:14 pm</dco> &nbsp;<qco> what did you do before youtube?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>2.25.18&nbsp;\n9:43 pm</dco> &nbsp;<qco> is the new vid a music video or something else</qco> </h3>",
+    "original_html": "<h3> <dco>2.25.18&nbsp;\n9:43 pm</dco> &nbsp;<qco> is the new vid a music video or something else</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>2.25.18&nbsp;\n9:17 pm</dco> &nbsp;<qco> what are fried eggs</qco> </h3>",
+    "original_html": "<h3> <dco>2.25.18&nbsp;\n9:17 pm</dco> &nbsp;<qco> what are fried eggs</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>2.25.18&nbsp;\n8:40 pm</dco> &nbsp;<qco> Are you a good person?</qco> </h3>",
+    "original_html": "<h3> <dco>2.25.18&nbsp;\n8:40 pm</dco> &nbsp;<qco> Are you a good person?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>2.25.18&nbsp;\n8:10 pm</dco> &nbsp;<qco> What's a hard thing you've done?</qco> </h3>",
+    "original_html": "<h3> <dco>2.25.18&nbsp;\n8:10 pm</dco> &nbsp;<qco> What's a hard thing you've done?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>2.25.18&nbsp;\n7:47 pm</dco> &nbsp;<qco> should grownups drink and drive?</qco> </h3>",
+    "original_html": "<h3> <dco>2.25.18&nbsp;\n7:47 pm</dco> &nbsp;<qco> should grownups drink and drive?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>2.25.18&nbsp;\n7:24 pm</dco> &nbsp;<qco> where did everything come from?</qco> </h3>",
+    "original_html": "<h3> <dco>2.25.18&nbsp;\n7:24 pm</dco> &nbsp;<qco> where did everything come from?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>2.25.18&nbsp;\n7:15 pm</dco> &nbsp;<qco> What was your approach when you were first learning to make videos? Would you develop an idea for a fully formed video in your head, then just set to work learning how to make what you envisioned.. or was it more just going in with a blank slate and playing around and experimenting and seeing what you can put together? Do you think one strategy would better than the other? I really want to make videos for my music, but I don't even know what step 1 would be.&nbsp;</qco> </h3>",
+    "original_html": "<h3> <dco>2.25.18&nbsp;\n7:15 pm</dco> &nbsp;<qco> What was your approach when you were first learning to make videos? Would you develop an idea for a fully formed video in your head, then just set to work learning how to make what you envisioned.. or was it more just going in with a blank slate and playing around and experimenting and seeing what you can put together? Do you think one strategy would better than the other? I really want to make videos for my music, but I don't even know what step 1 would be.&nbsp;</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>2.25.18&nbsp;\n6:56 pm</dco> &nbsp;<qco> hey i figured out how to fix burn out, you have to take a long break</qco> </h3>",
+    "original_html": "<h3> <dco>2.25.18&nbsp;\n6:56 pm</dco> &nbsp;<qco> hey i figured out how to fix burn out, you have to take a long break</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>2.25.18&nbsp;\n6:41 pm</dco> &nbsp;<qco> How to sing good? Or even better?</qco> </h3>",
+    "original_html": "<h3> <dco>2.25.18&nbsp;\n6:41 pm</dco> &nbsp;<qco> How to sing good? Or even better?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>2.25.18&nbsp;\n6:30 pm</dco> &nbsp;<qco> wait are drugs good or bad? my moral compass is malfunctioning. sometimes it ruins peoples lives but you maybe use it and you make all these awesome original videos? someone i thought highly of used them and didn't seem to think it was bad but i thought it was bad. do you have an input on this?</qco> </h3>",
+    "original_html": "<h3> <dco>2.25.18&nbsp;\n6:30 pm</dco> &nbsp;<qco> wait are drugs good or bad? my moral compass is malfunctioning. sometimes it ruins peoples lives but you maybe use it and you make all these awesome original videos? someone i thought highly of used them and didn't seem to think it was bad but i thought it was bad. do you have an input on this?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>2.25.18&nbsp;\n6:17 pm</dco> &nbsp;<qco> What should I do for dinner tonight? (Answer ASAP please, I'm hungry)</qco> </h3>",
+    "original_html": "<h3> <dco>2.25.18&nbsp;\n6:17 pm</dco> &nbsp;<qco> What should I do for dinner tonight? (Answer ASAP please, I'm hungry)</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>2.25.18&nbsp;\n6:07 pm</dco> &nbsp;<qco> so let's say you're in the street, whenever you move from an open to a close location you move outside of the location you were in. so depending on where you start, your house can be outside</qco> </h3>",
+    "original_html": "<h3> <dco>2.25.18&nbsp;\n6:07 pm</dco> &nbsp;<qco> so let's say you're in the street, whenever you move from an open to a close location you move outside of the location you were in. so depending on where you start, your house can be outside</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>2.25.18&nbsp;\n5:55 pm</dco> &nbsp;<qco> How do bands do that thing when the singer comes in first (a capella) and the band joins in? Does the singer need to have perfect pitch to that (to be in the right key), or is there a trick to it?</qco> </h3>",
+    "original_html": "<h3> <dco>2.25.18&nbsp;\n5:55 pm</dco> &nbsp;<qco> How do bands do that thing when the singer comes in first (a capella) and the band joins in? Does the singer need to have perfect pitch to that (to be in the right key), or is there a trick to it?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>2.25.18&nbsp;\n5:45 pm</dco> &nbsp;<qco> how to write ideas down?</qco> </h3>",
+    "original_html": "<h3> <dco>2.25.18&nbsp;\n5:45 pm</dco> &nbsp;<qco> how to write ideas down?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>2.25.18&nbsp;\n5:36 pm</dco> &nbsp;<qco> Why are you like who you are?</qco> </h3>",
+    "original_html": "<h3> <dco>2.25.18&nbsp;\n5:36 pm</dco> &nbsp;<qco> Why are you like who you are?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>2.25.18&nbsp;\n5:32 pm</dco> &nbsp;<qco> What's the next song called? Just wondering...</qco> </h3>",
+    "original_html": "<h3> <dco>2.25.18&nbsp;\n5:32 pm</dco> &nbsp;<qco> What's the next song called? Just wondering...</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>2.25.18&nbsp;\n5:07 pm</dco> &nbsp;<qco> Is the reason you don't have ads the same reason you're not on tinder?</qco> </h3>",
+    "original_html": "<h3> <dco>2.25.18&nbsp;\n5:07 pm</dco> &nbsp;<qco> Is the reason you don't have ads the same reason you're not on tinder?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>2.25.18&nbsp;\n5:06 pm</dco> &nbsp;<qco> Why does Garfield like lasagna?</qco> </h3>",
+    "original_html": "<h3> <dco>2.25.18&nbsp;\n5:06 pm</dco> &nbsp;<qco> Why does Garfield like lasagna?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>2.25.18&nbsp;\n4:46 pm</dco> &nbsp;<qco> what is your advice to someone about to apply for colleges?</qco> </h3>",
+    "original_html": "<h3> <dco>2.25.18&nbsp;\n4:46 pm</dco> &nbsp;<qco> what is your advice to someone about to apply for colleges?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>2.25.18&nbsp;\n4:46 pm</dco> &nbsp;<qco> what's wrong with self-medicating?</qco> </h3>",
+    "original_html": "<h3> <dco>2.25.18&nbsp;\n4:46 pm</dco> &nbsp;<qco> what's wrong with self-medicating?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  },
+  {
+    "html": "<h3> <dco>2.25.18&nbsp;\n4:35 pm</dco> &nbsp;<qco> why is your icon a different color for every account you have?</qco> </h3>",
+    "original_html": "<h3> <dco>2.25.18&nbsp;\n4:35 pm</dco> &nbsp;<qco> why is your icon a different color for every account you have?</qco> </h3>",
+    "answer_links": [],
+    "answers_original": []
+  }
+]
